@@ -1,0 +1,728 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-07-19">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="width" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="size" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Adam" label="Adam">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Orlando" label="Orlando">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Jaques" label="Jaques">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Dennis" label="Dennis">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Oliver" label="Oliver">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Charles" label="Charles">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Rosalind" label="Rosalind">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Celia" label="Celia">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Le Beau" label="Le Beau">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Duke Frederick" label="Duke Frederick">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Duke Senior" label="Duke Senior">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="First Lord" label="First Lord">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Amiens" label="Amiens">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Second Lord" label="Second Lord">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Touchstone" label="Touchstone">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Corin" label="Corin">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Silvius" label="Silvius">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Phebe" label="Phebe">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Forester" label="Forester">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Audrey" label="Audrey">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Sir Oliver Martext" label="Sir Oliver Martext">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="William" label="William">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Jaques De Boys" label="Jaques De Boys">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="A Lord" label="A Lord">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="First Page" label="First Page">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Second Page" label="Second Page">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Hymen" label="Hymen">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Adam" target="Orlando" id="0">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Adam" target="Le Beau" id="1">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Adam" target="Duke Senior" id="2">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Adam" target="Celia" id="3">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Adam" target="Oliver" id="4">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Adam" target="Dennis" id="5">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Adam" target="Charles" id="6">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Adam" target="First Lord" id="7">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Adam" target="Jaques" id="8">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Adam" target="Amiens" id="9">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="Jaques" id="10">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="Charles" id="11">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="Rosalind" id="12">
+        <attvalues>
+          <attvalue for="1" value="32" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="Celia" id="13">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="Oliver" id="14">
+        <attvalues>
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="Duke Senior" id="15">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="Dennis" id="16">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="Touchstone" id="17">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="Le Beau" id="18">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="Duke Frederick" id="19">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="First Lord" id="20">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="Amiens" id="21">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="Corin" id="22">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="Phebe" id="23">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="Silvius" id="24">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="Hymen" id="25">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Orlando" target="Jaques De Boys" id="26">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Jaques" target="First Lord" id="27">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Jaques" target="Duke Senior" id="28">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Jaques" target="Amiens" id="29">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Jaques" target="Rosalind" id="30">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Jaques" target="Forester" id="31">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Jaques" target="Corin" id="32">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Jaques" target="Touchstone" id="33">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Jaques" target="Celia" id="34">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Jaques" target="Audrey" id="35">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Jaques" target="Sir Oliver Martext" id="36">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Jaques" target="A Lord" id="37">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Jaques" target="Phebe" id="38">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Jaques" target="Silvius" id="39">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Jaques" target="Hymen" id="40">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Jaques" target="Jaques De Boys" id="41">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dennis" target="Oliver" id="42">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dennis" target="Charles" id="43">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Oliver" target="Charles" id="44">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Oliver" target="Rosalind" id="45">
+        <attvalues>
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Oliver" target="Touchstone" id="46">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Oliver" target="Duke Frederick" id="47">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Oliver" target="Celia" id="48">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Oliver" target="Silvius" id="49">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Oliver" target="Phebe" id="50">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Charles" target="Le Beau" id="51">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Charles" target="Rosalind" id="52">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Charles" target="Duke Frederick" id="53">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Charles" target="Second Lord" id="54">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Charles" target="Celia" id="55">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Charles" target="Touchstone" id="56">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rosalind" target="Celia" id="57">
+        <attvalues>
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Rosalind" target="Touchstone" id="58">
+        <attvalues>
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Rosalind" target="Forester" id="59">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rosalind" target="Phebe" id="60">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Rosalind" target="Silvius" id="61">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Rosalind" target="Duke Senior" id="62">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rosalind" target="Le Beau" id="63">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rosalind" target="Duke Frederick" id="64">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Rosalind" target="Corin" id="65">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Rosalind" target="Hymen" id="66">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rosalind" target="Jaques De Boys" id="67">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Celia" target="Le Beau" id="68">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Celia" target="Duke Frederick" id="69">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Celia" target="Touchstone" id="70">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Celia" target="Corin" id="71">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Celia" target="Silvius" id="72">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Le Beau" target="Touchstone" id="73">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Le Beau" target="Duke Frederick" id="74">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duke Frederick" target="Jaques De Boys" id="75">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duke Frederick" target="Touchstone" id="76">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duke Frederick" target="First Lord" id="77">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duke Frederick" target="Second Lord" id="78">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duke Senior" target="Amiens" id="79">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Duke Senior" target="First Lord" id="80">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Duke Senior" target="Second Lord" id="81">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duke Senior" target="Phebe" id="82">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duke Senior" target="Silvius" id="83">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duke Senior" target="Touchstone" id="84">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duke Senior" target="Hymen" id="85">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Duke Senior" target="Jaques De Boys" id="86">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="First Lord" target="Amiens" id="87">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="First Lord" target="Second Lord" id="88">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Amiens" target="Second Lord" id="89">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Touchstone" target="Corin" id="90">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Touchstone" target="Audrey" id="91">
+        <attvalues>
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Touchstone" target="Sir Oliver Martext" id="92">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Touchstone" target="William" id="93">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Touchstone" target="Silvius" id="94">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Touchstone" target="First Page" id="95">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Touchstone" target="Second Page" id="96">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Touchstone" target="Phebe" id="97">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Touchstone" target="Hymen" id="98">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Touchstone" target="Jaques De Boys" id="99">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Corin" target="Silvius" id="100">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Corin" target="Audrey" id="101">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Corin" target="William" id="102">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Silvius" target="Phebe" id="103">
+        <attvalues>
+          <attvalue for="1" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Silvius" target="Hymen" id="104">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Silvius" target="Jaques De Boys" id="105">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Phebe" target="Hymen" id="106">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Phebe" target="Jaques De Boys" id="107">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Forester" target="A Lord" id="108">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Audrey" target="William" id="109">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Audrey" target="Sir Oliver Martext" id="110">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Audrey" target="First Page" id="111">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Audrey" target="Second Page" id="112">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Jaques De Boys" target="Hymen" id="113">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="First Page" target="Second Page" id="114">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

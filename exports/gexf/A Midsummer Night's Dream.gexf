@@ -1,0 +1,1348 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-07-19">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="width" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="size" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Hippolyta" label="Hippolyta">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Theseus" label="Theseus">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Philostrate" label="Philostrate">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Egeus" label="Egeus">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Hermia" label="Hermia">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Demetrius" label="Demetrius">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Lysander" label="Lysander">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Helena" label="Helena">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Bottom" label="Bottom">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Quince" label="Quince">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Pyramus" label="Pyramus">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Flute" label="Flute">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Starveling" label="Starveling">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Moth" label="Moth">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Snout" label="Snout">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Snug" label="Snug">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Lion" label="Lion">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Oberon" label="Oberon">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Puck" label="Puck">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Fairy" label="Fairy">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Titania" label="Titania">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Prologue" label="Prologue">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Moonshine" label="Moonshine">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Wall" label="Wall">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Peaseblossom" label="Peaseblossom">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Cobweb" label="Cobweb">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Mustardseed" label="Mustardseed">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Thisbe" label="Thisbe">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Hernia" label="Hernia">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Hippolyta" target="Theseus" id="0">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Oberon" id="1">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Helena" id="2">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Prologue" id="3">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Thisbe" id="4">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Moonshine" id="5">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Pyramus" id="6">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Egeus" id="7">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Hermia" id="8">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Demetrius" id="9">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Lysander" id="10">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Titania" id="11">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Bottom" id="12">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Peaseblossom" id="13">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Cobweb" id="14">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Mustardseed" id="15">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Puck" id="16">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Philostrate" id="17">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Wall" id="18">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hippolyta" target="Lion" id="19">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Philostrate" id="20">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Egeus" id="21">
+        <attvalues>
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Hermia" id="22">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Demetrius" id="23">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Titania" id="24">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Oberon" id="25">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Puck" id="26">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Fairy" id="27">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Pyramus" id="28">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Thisbe" id="29">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Lion" id="30">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Wall" id="31">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Moonshine" id="32">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Lysander" id="33">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Helena" id="34">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Bottom" id="35">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Peaseblossom" id="36">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Cobweb" id="37">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Mustardseed" id="38">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Theseus" target="Prologue" id="39">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Philostrate" target="Pyramus" id="40">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Philostrate" target="Prologue" id="41">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Philostrate" target="Lysander" id="42">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Philostrate" target="Demetrius" id="43">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Philostrate" target="Wall" id="44">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Philostrate" target="Thisbe" id="45">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Philostrate" target="Lion" id="46">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Philostrate" target="Moonshine" id="47">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Philostrate" target="Bottom" id="48">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Philostrate" target="Puck" id="49">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Philostrate" target="Oberon" id="50">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Philostrate" target="Titania" id="51">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Egeus" target="Hermia" id="52">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Egeus" target="Demetrius" id="53">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Egeus" target="Lysander" id="54">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Egeus" target="Helena" id="55">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Egeus" target="Titania" id="56">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Egeus" target="Bottom" id="57">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Egeus" target="Peaseblossom" id="58">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Egeus" target="Cobweb" id="59">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Egeus" target="Mustardseed" id="60">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Egeus" target="Oberon" id="61">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Egeus" target="Puck" id="62">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hermia" target="Lysander" id="63">
+        <attvalues>
+          <attvalue for="1" value="34" />
+        </attvalues>
+      </edge>
+      <edge source="Hermia" target="Demetrius" id="64">
+        <attvalues>
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Hermia" target="Helena" id="65">
+        <attvalues>
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Hermia" target="Titania" id="66">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hermia" target="Fairy" id="67">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hermia" target="Oberon" id="68">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Hermia" target="Puck" id="69">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Hermia" target="Hernia" id="70">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hermia" target="Bottom" id="71">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hermia" target="Peaseblossom" id="72">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hermia" target="Cobweb" id="73">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hermia" target="Mustardseed" id="74">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Lysander" id="75">
+        <attvalues>
+          <attvalue for="1" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Helena" id="76">
+        <attvalues>
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Oberon" id="77">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Lion" id="78">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Wall" id="79">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Thisbe" id="80">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Pyramus" id="81">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Puck" id="82">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Fairy" id="83">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Titania" id="84">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Hernia" id="85">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Bottom" id="86">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Peaseblossom" id="87">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Cobweb" id="88">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Mustardseed" id="89">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Prologue" id="90">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Demetrius" target="Moonshine" id="91">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Lysander" target="Helena" id="92">
+        <attvalues>
+          <attvalue for="1" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Lysander" target="Oberon" id="93">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Lysander" target="Prologue" id="94">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Lysander" target="Lion" id="95">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Lysander" target="Titania" id="96">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Lysander" target="Fairy" id="97">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Lysander" target="Puck" id="98">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Lysander" target="Hernia" id="99">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Lysander" target="Bottom" id="100">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Lysander" target="Peaseblossom" id="101">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Lysander" target="Cobweb" id="102">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Lysander" target="Mustardseed" id="103">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Lysander" target="Wall" id="104">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Lysander" target="Pyramus" id="105">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Lysander" target="Thisbe" id="106">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Lysander" target="Moonshine" id="107">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Helena" target="Oberon" id="108">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Helena" target="Puck" id="109">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Helena" target="Fairy" id="110">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Helena" target="Titania" id="111">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Helena" target="Hernia" id="112">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Helena" target="Bottom" id="113">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Helena" target="Peaseblossom" id="114">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Helena" target="Cobweb" id="115">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Helena" target="Mustardseed" id="116">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Quince" id="117">
+        <attvalues>
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Pyramus" id="118">
+        <attvalues>
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Lion" id="119">
+        <attvalues>
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Prologue" id="120">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Snug" id="121">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Moonshine" id="122">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Snout" id="123">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Wall" id="124">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Cobweb" id="125">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Moth" id="126">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Peaseblossom" id="127">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Mustardseed" id="128">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Flute" id="129">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Starveling" id="130">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Puck" id="131">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Titania" id="132">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Oberon" id="133">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Bottom" target="Thisbe" id="134">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Quince" target="Pyramus" id="135">
+        <attvalues>
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Quince" target="Flute" id="136">
+        <attvalues>
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Quince" target="Starveling" id="137">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Quince" target="Moth" id="138">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Quince" target="Snout" id="139">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Quince" target="Snug" id="140">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Quince" target="Lion" id="141">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Quince" target="Prologue" id="142">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Quince" target="Moonshine" id="143">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Quince" target="Wall" id="144">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Quince" target="Puck" id="145">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Quince" target="Titania" id="146">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Quince" target="Peaseblossom" id="147">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Quince" target="Cobweb" id="148">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Quince" target="Mustardseed" id="149">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pyramus" target="Puck" id="150">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Pyramus" target="Flute" id="151">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Pyramus" target="Prologue" id="152">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pyramus" target="Wall" id="153">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Pyramus" target="Thisbe" id="154">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pyramus" target="Lion" id="155">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pyramus" target="Moonshine" id="156">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pyramus" target="Oberon" id="157">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pyramus" target="Titania" id="158">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Flute" target="Starveling" id="159">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Flute" target="Snout" id="160">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Flute" target="Snug" id="161">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Flute" target="Puck" id="162">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Flute" target="Titania" id="163">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Flute" target="Peaseblossom" id="164">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Flute" target="Cobweb" id="165">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Flute" target="Moth" id="166">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Flute" target="Mustardseed" id="167">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Starveling" target="Snout" id="168">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Starveling" target="Snug" id="169">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Starveling" target="Puck" id="170">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Starveling" target="Titania" id="171">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Starveling" target="Peaseblossom" id="172">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Starveling" target="Cobweb" id="173">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Starveling" target="Moth" id="174">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Starveling" target="Mustardseed" id="175">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Moth" target="Titania" id="176">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Moth" target="Snout" id="177">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Moth" target="Puck" id="178">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Moth" target="Peaseblossom" id="179">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Moth" target="Cobweb" id="180">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Moth" target="Mustardseed" id="181">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Snout" target="Lion" id="182">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Snout" target="Prologue" id="183">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Snout" target="Wall" id="184">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Snout" target="Snug" id="185">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Snout" target="Puck" id="186">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Snout" target="Titania" id="187">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Snout" target="Peaseblossom" id="188">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Snout" target="Cobweb" id="189">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Snout" target="Mustardseed" id="190">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Snug" target="Lion" id="191">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Lion" target="Oberon" id="192">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Lion" target="Puck" id="193">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Lion" target="Prologue" id="194">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Lion" target="Wall" id="195">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Lion" target="Thisbe" id="196">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Lion" target="Moonshine" id="197">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Lion" target="Titania" id="198">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Oberon" target="Puck" id="199">
+        <attvalues>
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Oberon" target="Titania" id="200">
+        <attvalues>
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Oberon" target="Fairy" id="201">
+        <attvalues>
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Oberon" target="Hernia" id="202">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Oberon" target="Peaseblossom" id="203">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Oberon" target="Cobweb" id="204">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Oberon" target="Mustardseed" id="205">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Oberon" target="Prologue" id="206">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Oberon" target="Wall" id="207">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Oberon" target="Thisbe" id="208">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Oberon" target="Moonshine" id="209">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Puck" target="Fairy" id="210">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Puck" target="Thisbe" id="211">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Puck" target="Titania" id="212">
+        <attvalues>
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Puck" target="Peaseblossom" id="213">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Puck" target="Cobweb" id="214">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Puck" target="Mustardseed" id="215">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Puck" target="Hernia" id="216">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Puck" target="Prologue" id="217">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Puck" target="Wall" id="218">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Puck" target="Moonshine" id="219">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Fairy" target="Titania" id="220">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Titania" target="Peaseblossom" id="221">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Titania" target="Cobweb" id="222">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Titania" target="Mustardseed" id="223">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Titania" target="Prologue" id="224">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Titania" target="Wall" id="225">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Titania" target="Thisbe" id="226">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Titania" target="Moonshine" id="227">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Prologue" target="Wall" id="228">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Prologue" target="Moonshine" id="229">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Prologue" target="Thisbe" id="230">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Moonshine" target="Wall" id="231">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Moonshine" target="Thisbe" id="232">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Wall" target="Thisbe" id="233">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Peaseblossom" target="Cobweb" id="234">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Peaseblossom" target="Mustardseed" id="235">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Cobweb" target="Mustardseed" id="236">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

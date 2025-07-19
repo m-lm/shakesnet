@@ -169,6 +169,7 @@ def generate_visualization(play_title, final_relation_counts, cumulative_relatio
     """
     viz.show(f"viz/{play_title}.html")
     nx.write_graphml(G, f"exports/graphml/{play_title}.graphml")
+    nx.write_gexf(G, f"exports/gexf/{play_title}.gexf")
     graph_snapshot = {str(tuple(int(t) for t in time_tuple)): {str(inner_k): inner_v for inner_k, inner_v in inner_relations.items()} for time_tuple, inner_relations in cumulative_relation_counts.items()}
     with open(f"exports/snapshots/{play_title} Temporal-Snapshot.json", "w") as f:
         json.dump(graph_snapshot, f, indent=4)
