@@ -1,250 +1,259 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
-<key id="d0" for="node" attr.name="size" attr.type="long"/>
-<graph edgedefault="directed"><node id="Proteus">
-  <data key="d0">10</data>
-</node>
-<node id="Valentine">
-  <data key="d0">10</data>
-</node>
-<node id="Julia">
-  <data key="d0">10</data>
-</node>
-<node id="Speed">
-  <data key="d0">10</data>
-</node>
-<node id="Lucetta">
-  <data key="d0">10</data>
-</node>
-<node id="Eglamour">
-  <data key="d0">10</data>
-</node>
-<node id="Antonio">
-  <data key="d0">10</data>
-</node>
-<node id="Panthino">
-  <data key="d0">10</data>
-</node>
-<node id="Silvia">
-  <data key="d0">10</data>
-</node>
-<node id="Launce">
-  <data key="d0">10</data>
-</node>
-<node id="Thurio">
-  <data key="d0">10</data>
-</node>
-<node id="Duke">
-  <data key="d0">10</data>
-</node>
-<node id="Host">
-  <data key="d0">10</data>
-</node>
-<node id="First Outlaw">
-  <data key="d0">10</data>
-</node>
-<node id="Second Outlaw">
-  <data key="d0">10</data>
-</node>
-<node id="Third Outlaw">
-  <data key="d0">10</data>
-</node>
-<node id="Outlaws">
-  <data key="d0">10</data>
-</node>
-<edge source="Proteus" target="Valentine">
-  <data key="d1">38</data>
-</edge>
-<edge source="Proteus" target="Speed">
-  <data key="d1">5</data>
-</edge>
-<edge source="Proteus" target="Silvia">
-  <data key="d1">19</data>
-</edge>
-<edge source="Proteus" target="Thurio">
-  <data key="d1">14</data>
-</edge>
-<edge source="Julia" target="Proteus">
-  <data key="d1">35</data>
-</edge>
-<edge source="Julia" target="Lucetta">
-  <data key="d1">10</data>
-</edge>
-<edge source="Julia" target="Speed">
-  <data key="d1">1</data>
-</edge>
-<edge source="Julia" target="Launce">
-  <data key="d1">2</data>
-</edge>
-<edge source="Julia" target="Silvia">
-  <data key="d1">10</data>
-</edge>
-<edge source="Julia" target="Panthino">
-  <data key="d1">1</data>
-</edge>
-<edge source="Julia" target="Thurio">
-  <data key="d1">3</data>
-</edge>
-<edge source="Julia" target="Valentine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Julia" target="Outlaws">
-  <data key="d1">1</data>
-</edge>
-<edge source="Speed" target="Thurio">
-  <data key="d1">1</data>
-</edge>
-<edge source="Speed" target="Valentine">
-  <data key="d1">5</data>
-</edge>
-<edge source="Speed" target="Third Outlaw">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lucetta" target="Valentine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lucetta" target="Proteus">
-  <data key="d1">4</data>
-</edge>
-<edge source="Eglamour" target="Julia">
-  <data key="d1">1</data>
-</edge>
-<edge source="Eglamour" target="Silvia">
-  <data key="d1">8</data>
-</edge>
-<edge source="Eglamour" target="Thurio">
-  <data key="d1">1</data>
-</edge>
-<edge source="Eglamour" target="Proteus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Antonio" target="Panthino">
-  <data key="d1">2</data>
-</edge>
-<edge source="Antonio" target="Proteus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Antonio" target="Duke">
-  <data key="d1">1</data>
-</edge>
-<edge source="Panthino" target="Proteus">
-  <data key="d1">4</data>
-</edge>
-<edge source="Panthino" target="Valentine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Silvia" target="Valentine">
-  <data key="d1">24</data>
-</edge>
-<edge source="Silvia" target="Speed">
-  <data key="d1">4</data>
-</edge>
-<edge source="Silvia" target="Thurio">
-  <data key="d1">8</data>
-</edge>
-<edge source="Silvia" target="Third Outlaw">
-  <data key="d1">1</data>
-</edge>
-<edge source="Launce" target="Proteus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Launce" target="Panthino">
-  <data key="d1">1</data>
-</edge>
-<edge source="Launce" target="Speed">
-  <data key="d1">3</data>
-</edge>
-<edge source="Launce" target="Valentine">
-  <data key="d1">2</data>
-</edge>
-<edge source="Launce" target="Silvia">
-  <data key="d1">3</data>
-</edge>
-<edge source="Thurio" target="Valentine">
-  <data key="d1">5</data>
-</edge>
-<edge source="Duke" target="Silvia">
-  <data key="d1">7</data>
-</edge>
-<edge source="Duke" target="Valentine">
-  <data key="d1">13</data>
-</edge>
-<edge source="Duke" target="Thurio">
-  <data key="d1">9</data>
-</edge>
-<edge source="Duke" target="Proteus">
-  <data key="d1">8</data>
-</edge>
-<edge source="Duke" target="Eglamour">
-  <data key="d1">2</data>
-</edge>
-<edge source="Duke" target="Speed">
-  <data key="d1">2</data>
-</edge>
-<edge source="Duke" target="Launce">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duke" target="Julia">
-  <data key="d1">2</data>
-</edge>
-<edge source="Duke" target="Outlaws">
-  <data key="d1">1</data>
-</edge>
-<edge source="Host" target="Silvia">
-  <data key="d1">3</data>
-</edge>
-<edge source="Host" target="Launce">
-  <data key="d1">1</data>
-</edge>
-<edge source="Host" target="Julia">
-  <data key="d1">1</data>
-</edge>
-<edge source="Host" target="Proteus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Host" target="Thurio">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Outlaw" target="Second Outlaw">
-  <data key="d1">2</data>
-</edge>
-<edge source="First Outlaw" target="Third Outlaw">
-  <data key="d1">2</data>
-</edge>
-<edge source="First Outlaw" target="Speed">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Outlaw" target="Valentine">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Outlaw" target="Silvia">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Outlaw" target="Third Outlaw">
-  <data key="d1">2</data>
-</edge>
-<edge source="Second Outlaw" target="Speed">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Outlaw" target="Valentine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Outlaw" target="Silvia">
-  <data key="d1">1</data>
-</edge>
-<edge source="Third Outlaw" target="Valentine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Outlaws" target="Valentine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Outlaws" target="Proteus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Outlaws" target="Silvia">
-  <data key="d1">1</data>
-</edge>
-<edge source="Outlaws" target="Thurio">
-  <data key="d1">1</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Proteus">
+      <data key="d0">10</data>
+    </node>
+    <node id="Valentine">
+      <data key="d0">10</data>
+    </node>
+    <node id="Julia">
+      <data key="d0">10</data>
+    </node>
+    <node id="Speed">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lucetta">
+      <data key="d0">10</data>
+    </node>
+    <node id="Eglamour">
+      <data key="d0">10</data>
+    </node>
+    <node id="Antonio">
+      <data key="d0">10</data>
+    </node>
+    <node id="Panthino">
+      <data key="d0">10</data>
+    </node>
+    <node id="Silvia">
+      <data key="d0">10</data>
+    </node>
+    <node id="Launce">
+      <data key="d0">10</data>
+    </node>
+    <node id="Thurio">
+      <data key="d0">10</data>
+    </node>
+    <node id="Duke">
+      <data key="d0">10</data>
+    </node>
+    <node id="Host">
+      <data key="d0">10</data>
+    </node>
+    <node id="Third Outlaw">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Outlaw">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Outlaw">
+      <data key="d0">10</data>
+    </node>
+    <node id="Outlaws">
+      <data key="d0">10</data>
+    </node>
+    <edge source="Proteus" target="Valentine">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="Proteus" target="Julia">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Proteus" target="Speed">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Proteus" target="Lucetta">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Proteus" target="Panthino">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Proteus" target="Antonio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Proteus" target="Launce">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Proteus" target="Silvia">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Proteus" target="Thurio">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Proteus" target="Duke">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Proteus" target="Eglamour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Proteus" target="Host">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Proteus" target="Outlaws">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Valentine" target="Lucetta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Valentine" target="Panthino">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Valentine" target="Silvia">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Valentine" target="Thurio">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Valentine" target="Duke">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Valentine" target="Launce">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Valentine" target="Speed">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Valentine" target="First Outlaw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Valentine" target="Second Outlaw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Valentine" target="Third Outlaw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Valentine" target="Julia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Valentine" target="Outlaws">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Julia" target="Lucetta">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Julia" target="Eglamour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Julia" target="Speed">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Julia" target="Host">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Julia" target="Launce">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Julia" target="Silvia">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Julia" target="Duke">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Julia" target="Panthino">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Julia" target="Thurio">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Julia" target="Outlaws">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Speed" target="Antonio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Speed" target="Silvia">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Speed" target="Thurio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Speed" target="Launce">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Speed" target="Duke">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Speed" target="First Outlaw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Speed" target="Second Outlaw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Speed" target="Third Outlaw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eglamour" target="Silvia">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Eglamour" target="Duke">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Eglamour" target="Thurio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Antonio" target="Panthino">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Antonio" target="Duke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Panthino" target="Launce">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Silvia" target="Thurio">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Silvia" target="Duke">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Silvia" target="Host">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Silvia" target="Launce">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Silvia" target="First Outlaw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Silvia" target="Second Outlaw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Silvia" target="Third Outlaw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Silvia" target="Outlaws">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Launce" target="Host">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Launce" target="Duke">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Thurio" target="Duke">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Thurio" target="Host">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Thurio" target="Outlaws">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duke" target="Third Outlaw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duke" target="Outlaws">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Third Outlaw" target="First Outlaw">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Third Outlaw" target="Second Outlaw">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="First Outlaw" target="Second Outlaw">
+      <data key="d1">2</data>
+    </edge>
+  </graph>
+</graphml>

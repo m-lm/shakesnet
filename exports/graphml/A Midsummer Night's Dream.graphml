@@ -1,784 +1,805 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
-<key id="d0" for="node" attr.name="size" attr.type="long"/>
-<graph edgedefault="directed"><node id="Hippolyta">
-  <data key="d0">10</data>
-</node>
-<node id="Theseus">
-  <data key="d0">10</data>
-</node>
-<node id="Philostrate">
-  <data key="d0">10</data>
-</node>
-<node id="Egeus">
-  <data key="d0">10</data>
-</node>
-<node id="Hermia">
-  <data key="d0">10</data>
-</node>
-<node id="Demetrius">
-  <data key="d0">10</data>
-</node>
-<node id="Lysander">
-  <data key="d0">10</data>
-</node>
-<node id="Helena">
-  <data key="d0">10</data>
-</node>
-<node id="Bottom">
-  <data key="d0">10</data>
-</node>
-<node id="Quince">
-  <data key="d0">10</data>
-</node>
-<node id="Pyramus">
-  <data key="d0">10</data>
-</node>
-<node id="Flute">
-  <data key="d0">10</data>
-</node>
-<node id="Starveling">
-  <data key="d0">10</data>
-</node>
-<node id="Snout">
-  <data key="d0">10</data>
-</node>
-<node id="Snug">
-  <data key="d0">10</data>
-</node>
-<node id="Oberon">
-  <data key="d0">10</data>
-</node>
-<node id="Puck">
-  <data key="d0">10</data>
-</node>
-<node id="Fairy">
-  <data key="d0">10</data>
-</node>
-<node id="Titania">
-  <data key="d0">10</data>
-</node>
-<node id="Moonshine">
-  <data key="d0">10</data>
-</node>
-<node id="Wall">
-  <data key="d0">10</data>
-</node>
-<node id="Peaseblossom">
-  <data key="d0">10</data>
-</node>
-<node id="Cobweb">
-  <data key="d0">10</data>
-</node>
-<node id="Moth">
-  <data key="d0">10</data>
-</node>
-<node id="Mustardseed">
-  <data key="d0">10</data>
-</node>
-<node id="Thisbe">
-  <data key="d0">10</data>
-</node>
-<node id="Prologue">
-  <data key="d0">10</data>
-</node>
-<node id="Lion">
-  <data key="d0">10</data>
-</node>
-<node id="Hernia">
-  <data key="d0">10</data>
-</node>
-<edge source="Hippolyta" target="Theseus">
-  <data key="d1">5</data>
-</edge>
-<edge source="Hippolyta" target="Oberon">
-  <data key="d1">3</data>
-</edge>
-<edge source="Hippolyta" target="Moonshine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hippolyta" target="Thisbe">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hippolyta" target="Pyramus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hippolyta" target="Lysander">
-  <data key="d1">3</data>
-</edge>
-<edge source="Hippolyta" target="Titania">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hippolyta" target="Peaseblossom">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hippolyta" target="Mustardseed">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hippolyta" target="Puck">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hippolyta" target="Philostrate">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hippolyta" target="Prologue">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hippolyta" target="Wall">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hippolyta" target="Lion">
-  <data key="d1">1</data>
-</edge>
-<edge source="Theseus" target="Titania">
-  <data key="d1">4</data>
-</edge>
-<edge source="Theseus" target="Thisbe">
-  <data key="d1">3</data>
-</edge>
-<edge source="Theseus" target="Wall">
-  <data key="d1">1</data>
-</edge>
-<edge source="Philostrate" target="Theseus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Philostrate" target="Pyramus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Philostrate" target="Prologue">
-  <data key="d1">1</data>
-</edge>
-<edge source="Philostrate" target="Wall">
-  <data key="d1">1</data>
-</edge>
-<edge source="Philostrate" target="Thisbe">
-  <data key="d1">1</data>
-</edge>
-<edge source="Philostrate" target="Puck">
-  <data key="d1">1</data>
-</edge>
-<edge source="Philostrate" target="Titania">
-  <data key="d1">1</data>
-</edge>
-<edge source="Egeus" target="Theseus">
-  <data key="d1">6</data>
-</edge>
-<edge source="Egeus" target="Hermia">
-  <data key="d1">2</data>
-</edge>
-<edge source="Egeus" target="Lysander">
-  <data key="d1">4</data>
-</edge>
-<edge source="Egeus" target="Helena">
-  <data key="d1">3</data>
-</edge>
-<edge source="Egeus" target="Hippolyta">
-  <data key="d1">2</data>
-</edge>
-<edge source="Egeus" target="Titania">
-  <data key="d1">1</data>
-</edge>
-<edge source="Egeus" target="Peaseblossom">
-  <data key="d1">1</data>
-</edge>
-<edge source="Egeus" target="Mustardseed">
-  <data key="d1">1</data>
-</edge>
-<edge source="Egeus" target="Oberon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Egeus" target="Puck">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hermia" target="Theseus">
-  <data key="d1">4</data>
-</edge>
-<edge source="Hermia" target="Lysander">
-  <data key="d1">36</data>
-</edge>
-<edge source="Hermia" target="Hippolyta">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hermia" target="Titania">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hermia" target="Oberon">
-  <data key="d1">3</data>
-</edge>
-<edge source="Hermia" target="Puck">
-  <data key="d1">3</data>
-</edge>
-<edge source="Hermia" target="Hernia">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hermia" target="Peaseblossom">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hermia" target="Mustardseed">
-  <data key="d1">1</data>
-</edge>
-<edge source="Demetrius" target="Egeus">
-  <data key="d1">5</data>
-</edge>
-<edge source="Demetrius" target="Theseus">
-  <data key="d1">7</data>
-</edge>
-<edge source="Demetrius" target="Hermia">
-  <data key="d1">10</data>
-</edge>
-<edge source="Demetrius" target="Lysander">
-  <data key="d1">17</data>
-</edge>
-<edge source="Demetrius" target="Helena">
-  <data key="d1">18</data>
-</edge>
-<edge source="Demetrius" target="Oberon">
-  <data key="d1">7</data>
-</edge>
-<edge source="Demetrius" target="Thisbe">
-  <data key="d1">2</data>
-</edge>
-<edge source="Demetrius" target="Lion">
-  <data key="d1">1</data>
-</edge>
-<edge source="Demetrius" target="Pyramus">
-  <data key="d1">2</data>
-</edge>
-<edge source="Demetrius" target="Wall">
-  <data key="d1">1</data>
-</edge>
-<edge source="Demetrius" target="Hippolyta">
-  <data key="d1">3</data>
-</edge>
-<edge source="Demetrius" target="Puck">
-  <data key="d1">5</data>
-</edge>
-<edge source="Demetrius" target="Fairy">
-  <data key="d1">2</data>
-</edge>
-<edge source="Demetrius" target="Titania">
-  <data key="d1">4</data>
-</edge>
-<edge source="Demetrius" target="Hernia">
-  <data key="d1">1</data>
-</edge>
-<edge source="Demetrius" target="Peaseblossom">
-  <data key="d1">1</data>
-</edge>
-<edge source="Demetrius" target="Mustardseed">
-  <data key="d1">1</data>
-</edge>
-<edge source="Demetrius" target="Philostrate">
-  <data key="d1">1</data>
-</edge>
-<edge source="Demetrius" target="Prologue">
-  <data key="d1">1</data>
-</edge>
-<edge source="Demetrius" target="Moonshine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lysander" target="Oberon">
-  <data key="d1">5</data>
-</edge>
-<edge source="Lysander" target="Theseus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Lysander" target="Titania">
-  <data key="d1">3</data>
-</edge>
-<edge source="Lysander" target="Puck">
-  <data key="d1">4</data>
-</edge>
-<edge source="Lysander" target="Peaseblossom">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lysander" target="Mustardseed">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lysander" target="Philostrate">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lysander" target="Prologue">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lysander" target="Wall">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lysander" target="Pyramus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lysander" target="Thisbe">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lysander" target="Moonshine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Helena" target="Lysander">
-  <data key="d1">19</data>
-</edge>
-<edge source="Helena" target="Hermia">
-  <data key="d1">18</data>
-</edge>
-<edge source="Helena" target="Oberon">
-  <data key="d1">4</data>
-</edge>
-<edge source="Helena" target="Puck">
-  <data key="d1">4</data>
-</edge>
-<edge source="Helena" target="Hippolyta">
-  <data key="d1">2</data>
-</edge>
-<edge source="Helena" target="Theseus">
-  <data key="d1">2</data>
-</edge>
-<edge source="Helena" target="Titania">
-  <data key="d1">3</data>
-</edge>
-<edge source="Helena" target="Hernia">
-  <data key="d1">1</data>
-</edge>
-<edge source="Helena" target="Peaseblossom">
-  <data key="d1">1</data>
-</edge>
-<edge source="Helena" target="Mustardseed">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bottom" target="Quince">
-  <data key="d1">11</data>
-</edge>
-<edge source="Bottom" target="Pyramus">
-  <data key="d1">10</data>
-</edge>
-<edge source="Bottom" target="Snug">
-  <data key="d1">3</data>
-</edge>
-<edge source="Bottom" target="Snout">
-  <data key="d1">4</data>
-</edge>
-<edge source="Bottom" target="Wall">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bottom" target="Cobweb">
-  <data key="d1">4</data>
-</edge>
-<edge source="Bottom" target="Peaseblossom">
-  <data key="d1">3</data>
-</edge>
-<edge source="Bottom" target="Mustardseed">
-  <data key="d1">4</data>
-</edge>
-<edge source="Bottom" target="Flute">
-  <data key="d1">4</data>
-</edge>
-<edge source="Bottom" target="Starveling">
-  <data key="d1">4</data>
-</edge>
-<edge source="Bottom" target="Puck">
-  <data key="d1">3</data>
-</edge>
-<edge source="Bottom" target="Titania">
-  <data key="d1">3</data>
-</edge>
-<edge source="Bottom" target="Moth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bottom" target="Oberon">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bottom" target="Theseus">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bottom" target="Hippolyta">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bottom" target="Egeus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bottom" target="Lysander">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bottom" target="Demetrius">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bottom" target="Hermia">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bottom" target="Helena">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bottom" target="Philostrate">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bottom" target="Prologue">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bottom" target="Thisbe">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bottom" target="Lion">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bottom" target="Moonshine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Quince" target="Starveling">
-  <data key="d1">5</data>
-</edge>
-<edge source="Quince" target="Snout">
-  <data key="d1">3</data>
-</edge>
-<edge source="Quince" target="Snug">
-  <data key="d1">2</data>
-</edge>
-<edge source="Quince" target="Titania">
-  <data key="d1">1</data>
-</edge>
-<edge source="Pyramus" target="Quince">
-  <data key="d1">15</data>
-</edge>
-<edge source="Pyramus" target="Theseus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Pyramus" target="Wall">
-  <data key="d1">1</data>
-</edge>
-<edge source="Pyramus" target="Thisbe">
-  <data key="d1">2</data>
-</edge>
-<edge source="Pyramus" target="Titania">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flute" target="Quince">
-  <data key="d1">6</data>
-</edge>
-<edge source="Flute" target="Pyramus">
-  <data key="d1">4</data>
-</edge>
-<edge source="Flute" target="Starveling">
-  <data key="d1">3</data>
-</edge>
-<edge source="Flute" target="Snout">
-  <data key="d1">2</data>
-</edge>
-<edge source="Flute" target="Snug">
-  <data key="d1">2</data>
-</edge>
-<edge source="Flute" target="Puck">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flute" target="Titania">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flute" target="Peaseblossom">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flute" target="Moth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flute" target="Mustardseed">
-  <data key="d1">1</data>
-</edge>
-<edge source="Starveling" target="Titania">
-  <data key="d1">1</data>
-</edge>
-<edge source="Snout" target="Wall">
-  <data key="d1">1</data>
-</edge>
-<edge source="Snout" target="Starveling">
-  <data key="d1">2</data>
-</edge>
-<edge source="Snout" target="Snug">
-  <data key="d1">1</data>
-</edge>
-<edge source="Snout" target="Titania">
-  <data key="d1">1</data>
-</edge>
-<edge source="Snug" target="Starveling">
-  <data key="d1">2</data>
-</edge>
-<edge source="Oberon" target="Puck">
-  <data key="d1">9</data>
-</edge>
-<edge source="Oberon" target="Titania">
-  <data key="d1">12</data>
-</edge>
-<edge source="Oberon" target="Theseus">
-  <data key="d1">4</data>
-</edge>
-<edge source="Oberon" target="Peaseblossom">
-  <data key="d1">1</data>
-</edge>
-<edge source="Oberon" target="Philostrate">
-  <data key="d1">1</data>
-</edge>
-<edge source="Oberon" target="Prologue">
-  <data key="d1">1</data>
-</edge>
-<edge source="Oberon" target="Wall">
-  <data key="d1">1</data>
-</edge>
-<edge source="Oberon" target="Pyramus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Oberon" target="Thisbe">
-  <data key="d1">1</data>
-</edge>
-<edge source="Puck" target="Pyramus">
-  <data key="d1">4</data>
-</edge>
-<edge source="Puck" target="Theseus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Puck" target="Thisbe">
-  <data key="d1">2</data>
-</edge>
-<edge source="Puck" target="Titania">
-  <data key="d1">6</data>
-</edge>
-<edge source="Puck" target="Quince">
-  <data key="d1">1</data>
-</edge>
-<edge source="Puck" target="Snout">
-  <data key="d1">1</data>
-</edge>
-<edge source="Puck" target="Starveling">
-  <data key="d1">1</data>
-</edge>
-<edge source="Puck" target="Wall">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fairy" target="Puck">
-  <data key="d1">3</data>
-</edge>
-<edge source="Fairy" target="Oberon">
-  <data key="d1">2</data>
-</edge>
-<edge source="Fairy" target="Titania">
-  <data key="d1">2</data>
-</edge>
-<edge source="Fairy" target="Helena">
-  <data key="d1">2</data>
-</edge>
-<edge source="Fairy" target="Lysander">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fairy" target="Hermia">
-  <data key="d1">1</data>
-</edge>
-<edge source="Titania" target="Wall">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moonshine" target="Quince">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moonshine" target="Prologue">
-  <data key="d1">2</data>
-</edge>
-<edge source="Moonshine" target="Theseus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moonshine" target="Philostrate">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moonshine" target="Wall">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moonshine" target="Pyramus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moonshine" target="Thisbe">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moonshine" target="Puck">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moonshine" target="Oberon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moonshine" target="Titania">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peaseblossom" target="Titania">
-  <data key="d1">2</data>
-</edge>
-<edge source="Peaseblossom" target="Quince">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peaseblossom" target="Snout">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peaseblossom" target="Starveling">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peaseblossom" target="Puck">
-  <data key="d1">2</data>
-</edge>
-<edge source="Peaseblossom" target="Theseus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cobweb" target="Titania">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cobweb" target="Quince">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cobweb" target="Snout">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cobweb" target="Starveling">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cobweb" target="Puck">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cobweb" target="Flute">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cobweb" target="Peaseblossom">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cobweb" target="Moth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cobweb" target="Mustardseed">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cobweb" target="Oberon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cobweb" target="Theseus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cobweb" target="Hippolyta">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cobweb" target="Egeus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cobweb" target="Lysander">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cobweb" target="Demetrius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cobweb" target="Hermia">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cobweb" target="Helena">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moth" target="Titania">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moth" target="Quince">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moth" target="Snout">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moth" target="Starveling">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moth" target="Puck">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moth" target="Peaseblossom">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moth" target="Mustardseed">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mustardseed" target="Titania">
-  <data key="d1">2</data>
-</edge>
-<edge source="Mustardseed" target="Quince">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mustardseed" target="Snout">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mustardseed" target="Starveling">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mustardseed" target="Puck">
-  <data key="d1">2</data>
-</edge>
-<edge source="Mustardseed" target="Peaseblossom">
-  <data key="d1">2</data>
-</edge>
-<edge source="Mustardseed" target="Oberon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mustardseed" target="Theseus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Thisbe" target="Wall">
-  <data key="d1">1</data>
-</edge>
-<edge source="Thisbe" target="Titania">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prologue" target="Pyramus">
-  <data key="d1">2</data>
-</edge>
-<edge source="Prologue" target="Wall">
-  <data key="d1">4</data>
-</edge>
-<edge source="Prologue" target="Theseus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prologue" target="Thisbe">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prologue" target="Puck">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prologue" target="Titania">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lion" target="Prologue">
-  <data key="d1">3</data>
-</edge>
-<edge source="Lion" target="Snug">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lion" target="Theseus">
-  <data key="d1">2</data>
-</edge>
-<edge source="Lion" target="Lysander">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lion" target="Philostrate">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lion" target="Wall">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lion" target="Pyramus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lion" target="Thisbe">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lion" target="Moonshine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lion" target="Puck">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lion" target="Oberon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lion" target="Titania">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hernia" target="Oberon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hernia" target="Puck">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hernia" target="Lysander">
-  <data key="d1">1</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Hippolyta">
+      <data key="d0">10</data>
+    </node>
+    <node id="Theseus">
+      <data key="d0">10</data>
+    </node>
+    <node id="Philostrate">
+      <data key="d0">10</data>
+    </node>
+    <node id="Egeus">
+      <data key="d0">10</data>
+    </node>
+    <node id="Hermia">
+      <data key="d0">10</data>
+    </node>
+    <node id="Demetrius">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lysander">
+      <data key="d0">10</data>
+    </node>
+    <node id="Helena">
+      <data key="d0">10</data>
+    </node>
+    <node id="Bottom">
+      <data key="d0">10</data>
+    </node>
+    <node id="Quince">
+      <data key="d0">10</data>
+    </node>
+    <node id="Pyramus">
+      <data key="d0">10</data>
+    </node>
+    <node id="Flute">
+      <data key="d0">10</data>
+    </node>
+    <node id="Starveling">
+      <data key="d0">10</data>
+    </node>
+    <node id="Moth">
+      <data key="d0">10</data>
+    </node>
+    <node id="Snout">
+      <data key="d0">10</data>
+    </node>
+    <node id="Snug">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lion">
+      <data key="d0">10</data>
+    </node>
+    <node id="Oberon">
+      <data key="d0">10</data>
+    </node>
+    <node id="Puck">
+      <data key="d0">10</data>
+    </node>
+    <node id="Fairy">
+      <data key="d0">10</data>
+    </node>
+    <node id="Titania">
+      <data key="d0">10</data>
+    </node>
+    <node id="Prologue">
+      <data key="d0">10</data>
+    </node>
+    <node id="Moonshine">
+      <data key="d0">10</data>
+    </node>
+    <node id="Wall">
+      <data key="d0">10</data>
+    </node>
+    <node id="Peaseblossom">
+      <data key="d0">10</data>
+    </node>
+    <node id="Cobweb">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mustardseed">
+      <data key="d0">10</data>
+    </node>
+    <node id="Thisbe">
+      <data key="d0">10</data>
+    </node>
+    <node id="Hernia">
+      <data key="d0">10</data>
+    </node>
+    <edge source="Hippolyta" target="Theseus">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Hippolyta" target="Oberon">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Hippolyta" target="Helena">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hippolyta" target="Prologue">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hippolyta" target="Thisbe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hippolyta" target="Moonshine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hippolyta" target="Pyramus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hippolyta" target="Egeus">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hippolyta" target="Hermia">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hippolyta" target="Demetrius">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Hippolyta" target="Lysander">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Hippolyta" target="Titania">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hippolyta" target="Bottom">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hippolyta" target="Peaseblossom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hippolyta" target="Cobweb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hippolyta" target="Mustardseed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hippolyta" target="Puck">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hippolyta" target="Philostrate">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hippolyta" target="Wall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hippolyta" target="Lion">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Theseus" target="Philostrate">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Theseus" target="Egeus">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Theseus" target="Hermia">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Theseus" target="Demetrius">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Theseus" target="Titania">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Theseus" target="Oberon">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Theseus" target="Puck">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Theseus" target="Fairy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Theseus" target="Pyramus">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Theseus" target="Thisbe">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Theseus" target="Lion">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Theseus" target="Wall">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Theseus" target="Moonshine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Theseus" target="Lysander">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Theseus" target="Helena">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Theseus" target="Bottom">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Theseus" target="Peaseblossom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Theseus" target="Cobweb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Theseus" target="Mustardseed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Theseus" target="Prologue">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philostrate" target="Pyramus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philostrate" target="Prologue">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philostrate" target="Lysander">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philostrate" target="Demetrius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philostrate" target="Wall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philostrate" target="Thisbe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philostrate" target="Lion">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philostrate" target="Moonshine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philostrate" target="Bottom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philostrate" target="Puck">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philostrate" target="Oberon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philostrate" target="Titania">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Egeus" target="Hermia">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Egeus" target="Demetrius">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Egeus" target="Lysander">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Egeus" target="Helena">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Egeus" target="Titania">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Egeus" target="Bottom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Egeus" target="Peaseblossom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Egeus" target="Cobweb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Egeus" target="Mustardseed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Egeus" target="Oberon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Egeus" target="Puck">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hermia" target="Lysander">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Hermia" target="Demetrius">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Hermia" target="Helena">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Hermia" target="Titania">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hermia" target="Fairy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hermia" target="Oberon">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Hermia" target="Puck">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Hermia" target="Hernia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hermia" target="Bottom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hermia" target="Peaseblossom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hermia" target="Cobweb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hermia" target="Mustardseed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Demetrius" target="Lysander">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Demetrius" target="Helena">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Demetrius" target="Oberon">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Demetrius" target="Lion">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Demetrius" target="Wall">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Demetrius" target="Thisbe">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Demetrius" target="Pyramus">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Demetrius" target="Puck">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Demetrius" target="Fairy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Demetrius" target="Titania">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Demetrius" target="Hernia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Demetrius" target="Bottom">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Demetrius" target="Peaseblossom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Demetrius" target="Cobweb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Demetrius" target="Mustardseed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Demetrius" target="Prologue">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Demetrius" target="Moonshine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lysander" target="Helena">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Lysander" target="Oberon">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Lysander" target="Prologue">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lysander" target="Lion">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lysander" target="Titania">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lysander" target="Fairy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lysander" target="Puck">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Lysander" target="Hernia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lysander" target="Bottom">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lysander" target="Peaseblossom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lysander" target="Cobweb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lysander" target="Mustardseed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lysander" target="Wall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lysander" target="Pyramus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lysander" target="Thisbe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lysander" target="Moonshine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helena" target="Oberon">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Helena" target="Puck">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Helena" target="Fairy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Helena" target="Titania">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Helena" target="Hernia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helena" target="Bottom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helena" target="Peaseblossom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helena" target="Cobweb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helena" target="Mustardseed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bottom" target="Quince">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Bottom" target="Pyramus">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Bottom" target="Lion">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Bottom" target="Prologue">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bottom" target="Snug">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Bottom" target="Moonshine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bottom" target="Snout">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Bottom" target="Wall">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Bottom" target="Cobweb">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Bottom" target="Moth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bottom" target="Peaseblossom">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Bottom" target="Mustardseed">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Bottom" target="Flute">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Bottom" target="Starveling">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Bottom" target="Puck">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Bottom" target="Titania">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Bottom" target="Oberon">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bottom" target="Thisbe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Quince" target="Pyramus">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Quince" target="Flute">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Quince" target="Starveling">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Quince" target="Moth">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Quince" target="Snout">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Quince" target="Snug">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Quince" target="Lion">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Quince" target="Prologue">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Quince" target="Moonshine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Quince" target="Wall">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Quince" target="Puck">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Quince" target="Titania">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Quince" target="Peaseblossom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Quince" target="Cobweb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Quince" target="Mustardseed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pyramus" target="Puck">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Pyramus" target="Flute">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Pyramus" target="Prologue">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pyramus" target="Wall">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Pyramus" target="Thisbe">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pyramus" target="Lion">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pyramus" target="Moonshine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pyramus" target="Oberon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pyramus" target="Titania">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flute" target="Starveling">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Flute" target="Snout">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Flute" target="Snug">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Flute" target="Puck">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flute" target="Titania">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flute" target="Peaseblossom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flute" target="Cobweb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flute" target="Moth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flute" target="Mustardseed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Starveling" target="Snout">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Starveling" target="Snug">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Starveling" target="Puck">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Starveling" target="Titania">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Starveling" target="Peaseblossom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Starveling" target="Cobweb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Starveling" target="Moth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Starveling" target="Mustardseed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Moth" target="Titania">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Moth" target="Snout">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Moth" target="Puck">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Moth" target="Peaseblossom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Moth" target="Cobweb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Moth" target="Mustardseed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Snout" target="Lion">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Snout" target="Prologue">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Snout" target="Wall">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Snout" target="Snug">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Snout" target="Puck">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Snout" target="Titania">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Snout" target="Peaseblossom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Snout" target="Cobweb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Snout" target="Mustardseed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Snug" target="Lion">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lion" target="Oberon">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lion" target="Puck">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lion" target="Prologue">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lion" target="Wall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lion" target="Thisbe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lion" target="Moonshine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lion" target="Titania">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oberon" target="Puck">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Oberon" target="Titania">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Oberon" target="Fairy">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Oberon" target="Hernia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oberon" target="Peaseblossom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oberon" target="Cobweb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oberon" target="Mustardseed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oberon" target="Prologue">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oberon" target="Wall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oberon" target="Thisbe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oberon" target="Moonshine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Puck" target="Fairy">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Puck" target="Thisbe">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Puck" target="Titania">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Puck" target="Peaseblossom">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Puck" target="Cobweb">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Puck" target="Mustardseed">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Puck" target="Hernia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Puck" target="Prologue">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Puck" target="Wall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Puck" target="Moonshine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fairy" target="Titania">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Titania" target="Peaseblossom">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Titania" target="Cobweb">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Titania" target="Mustardseed">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Titania" target="Prologue">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Titania" target="Wall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Titania" target="Thisbe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Titania" target="Moonshine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prologue" target="Wall">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Prologue" target="Moonshine">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Prologue" target="Thisbe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Moonshine" target="Wall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Moonshine" target="Thisbe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wall" target="Thisbe">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Peaseblossom" target="Cobweb">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Peaseblossom" target="Mustardseed">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cobweb" target="Mustardseed">
+      <data key="d1">2</data>
+    </edge>
+  </graph>
+</graphml>

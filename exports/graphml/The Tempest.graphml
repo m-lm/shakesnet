@@ -1,406 +1,424 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
-<key id="d0" for="node" attr.name="size" attr.type="long"/>
-<graph edgedefault="directed"><node id="Boatswain">
-  <data key="d0">10</data>
-</node>
-<node id="Master">
-  <data key="d0">10</data>
-</node>
-<node id="Miranda">
-  <data key="d0">10</data>
-</node>
-<node id="Prospero">
-  <data key="d0">10</data>
-</node>
-<node id="Antonio">
-  <data key="d0">10</data>
-</node>
-<node id="Gonzalo">
-  <data key="d0">10</data>
-</node>
-<node id="Ariel">
-  <data key="d0">10</data>
-</node>
-<node id="Ferdinand">
-  <data key="d0">10</data>
-</node>
-<node id="Caliban">
-  <data key="d0">10</data>
-</node>
-<node id="Adrian">
-  <data key="d0">10</data>
-</node>
-<node id="Sebastian">
-  <data key="d0">10</data>
-</node>
-<node id="Alonso">
-  <data key="d0">10</data>
-</node>
-<node id="Stephano">
-  <data key="d0">10</data>
-</node>
-<node id="Trinculo">
-  <data key="d0">10</data>
-</node>
-<node id="Ceres">
-  <data key="d0">10</data>
-</node>
-<node id="Iris">
-  <data key="d0">10</data>
-</node>
-<node id="Juno">
-  <data key="d0">10</data>
-</node>
-<node id="Mariners">
-  <data key="d0">10</data>
-</node>
-<node id="Francisco">
-  <data key="d0">10</data>
-</node>
-<edge source="Boatswain" target="Master">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boatswain" target="Gonzalo">
-  <data key="d1">2</data>
-</edge>
-<edge source="Boatswain" target="Sebastian">
-  <data key="d1">2</data>
-</edge>
-<edge source="Boatswain" target="Mariners">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boatswain" target="Prospero">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boatswain" target="Miranda">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boatswain" target="Ferdinand">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boatswain" target="Stephano">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boatswain" target="Trinculo">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boatswain" target="Caliban">
-  <data key="d1">1</data>
-</edge>
-<edge source="Master" target="Prospero">
-  <data key="d1">1</data>
-</edge>
-<edge source="Master" target="Sebastian">
-  <data key="d1">1</data>
-</edge>
-<edge source="Miranda" target="Prospero">
-  <data key="d1">5</data>
-</edge>
-<edge source="Miranda" target="Stephano">
-  <data key="d1">2</data>
-</edge>
-<edge source="Miranda" target="Trinculo">
-  <data key="d1">2</data>
-</edge>
-<edge source="Miranda" target="Sebastian">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prospero" target="Sebastian">
-  <data key="d1">4</data>
-</edge>
-<edge source="Prospero" target="Stephano">
-  <data key="d1">2</data>
-</edge>
-<edge source="Prospero" target="Trinculo">
-  <data key="d1">2</data>
-</edge>
-<edge source="Antonio" target="Prospero">
-  <data key="d1">3</data>
-</edge>
-<edge source="Antonio" target="Gonzalo">
-  <data key="d1">6</data>
-</edge>
-<edge source="Antonio" target="Sebastian">
-  <data key="d1">6</data>
-</edge>
-<edge source="Antonio" target="Ferdinand">
-  <data key="d1">2</data>
-</edge>
-<edge source="Antonio" target="Master">
-  <data key="d1">1</data>
-</edge>
-<edge source="Antonio" target="Boatswain">
-  <data key="d1">2</data>
-</edge>
-<edge source="Antonio" target="Mariners">
-  <data key="d1">1</data>
-</edge>
-<edge source="Antonio" target="Francisco">
-  <data key="d1">2</data>
-</edge>
-<edge source="Antonio" target="Ariel">
-  <data key="d1">3</data>
-</edge>
-<edge source="Antonio" target="Miranda">
-  <data key="d1">1</data>
-</edge>
-<edge source="Antonio" target="Stephano">
-  <data key="d1">1</data>
-</edge>
-<edge source="Antonio" target="Trinculo">
-  <data key="d1">1</data>
-</edge>
-<edge source="Antonio" target="Caliban">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gonzalo" target="Prospero">
-  <data key="d1">5</data>
-</edge>
-<edge source="Gonzalo" target="Sebastian">
-  <data key="d1">4</data>
-</edge>
-<edge source="Gonzalo" target="Master">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gonzalo" target="Mariners">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gonzalo" target="Miranda">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gonzalo" target="Stephano">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gonzalo" target="Trinculo">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ariel" target="Prospero">
-  <data key="d1">18</data>
-</edge>
-<edge source="Ariel" target="Ferdinand">
-  <data key="d1">3</data>
-</edge>
-<edge source="Ariel" target="Caliban">
-  <data key="d1">4</data>
-</edge>
-<edge source="Ariel" target="Ceres">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ariel" target="Gonzalo">
-  <data key="d1">3</data>
-</edge>
-<edge source="Ariel" target="Miranda">
-  <data key="d1">3</data>
-</edge>
-<edge source="Ariel" target="Sebastian">
-  <data key="d1">3</data>
-</edge>
-<edge source="Ariel" target="Francisco">
-  <data key="d1">2</data>
-</edge>
-<edge source="Ariel" target="Stephano">
-  <data key="d1">3</data>
-</edge>
-<edge source="Ariel" target="Trinculo">
-  <data key="d1">3</data>
-</edge>
-<edge source="Ariel" target="Iris">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ariel" target="Juno">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ariel" target="Boatswain">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ferdinand" target="Miranda">
-  <data key="d1">5</data>
-</edge>
-<edge source="Ferdinand" target="Prospero">
-  <data key="d1">5</data>
-</edge>
-<edge source="Ferdinand" target="Gonzalo">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ferdinand" target="Iris">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ferdinand" target="Juno">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ferdinand" target="Stephano">
-  <data key="d1">2</data>
-</edge>
-<edge source="Ferdinand" target="Trinculo">
-  <data key="d1">2</data>
-</edge>
-<edge source="Ferdinand" target="Sebastian">
-  <data key="d1">1</data>
-</edge>
-<edge source="Caliban" target="Prospero">
-  <data key="d1">9</data>
-</edge>
-<edge source="Caliban" target="Miranda">
-  <data key="d1">3</data>
-</edge>
-<edge source="Caliban" target="Ferdinand">
-  <data key="d1">3</data>
-</edge>
-<edge source="Caliban" target="Trinculo">
-  <data key="d1">4</data>
-</edge>
-<edge source="Caliban" target="Stephano">
-  <data key="d1">4</data>
-</edge>
-<edge source="Caliban" target="Iris">
-  <data key="d1">1</data>
-</edge>
-<edge source="Caliban" target="Ceres">
-  <data key="d1">1</data>
-</edge>
-<edge source="Caliban" target="Juno">
-  <data key="d1">1</data>
-</edge>
-<edge source="Caliban" target="Gonzalo">
-  <data key="d1">1</data>
-</edge>
-<edge source="Caliban" target="Sebastian">
-  <data key="d1">1</data>
-</edge>
-<edge source="Adrian" target="Antonio">
-  <data key="d1">2</data>
-</edge>
-<edge source="Adrian" target="Gonzalo">
-  <data key="d1">2</data>
-</edge>
-<edge source="Adrian" target="Alonso">
-  <data key="d1">2</data>
-</edge>
-<edge source="Adrian" target="Sebastian">
-  <data key="d1">2</data>
-</edge>
-<edge source="Adrian" target="Francisco">
-  <data key="d1">2</data>
-</edge>
-<edge source="Adrian" target="Ariel">
-  <data key="d1">2</data>
-</edge>
-<edge source="Adrian" target="Prospero">
-  <data key="d1">1</data>
-</edge>
-<edge source="Sebastian" target="Stephano">
-  <data key="d1">1</data>
-</edge>
-<edge source="Sebastian" target="Trinculo">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alonso" target="Gonzalo">
-  <data key="d1">4</data>
-</edge>
-<edge source="Alonso" target="Ariel">
-  <data key="d1">3</data>
-</edge>
-<edge source="Alonso" target="Prospero">
-  <data key="d1">4</data>
-</edge>
-<edge source="Alonso" target="Ferdinand">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alonso" target="Stephano">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alonso" target="Trinculo">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alonso" target="Master">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alonso" target="Boatswain">
-  <data key="d1">2</data>
-</edge>
-<edge source="Alonso" target="Antonio">
-  <data key="d1">4</data>
-</edge>
-<edge source="Alonso" target="Sebastian">
-  <data key="d1">4</data>
-</edge>
-<edge source="Alonso" target="Mariners">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alonso" target="Francisco">
-  <data key="d1">2</data>
-</edge>
-<edge source="Alonso" target="Miranda">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alonso" target="Caliban">
-  <data key="d1">1</data>
-</edge>
-<edge source="Stephano" target="Trinculo">
-  <data key="d1">25</data>
-</edge>
-<edge source="Ceres" target="Iris">
-  <data key="d1">2</data>
-</edge>
-<edge source="Ceres" target="Juno">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ceres" target="Prospero">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ceres" target="Ferdinand">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ceres" target="Miranda">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ceres" target="Stephano">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ceres" target="Trinculo">
-  <data key="d1">1</data>
-</edge>
-<edge source="Iris" target="Juno">
-  <data key="d1">1</data>
-</edge>
-<edge source="Iris" target="Prospero">
-  <data key="d1">1</data>
-</edge>
-<edge source="Iris" target="Miranda">
-  <data key="d1">1</data>
-</edge>
-<edge source="Iris" target="Stephano">
-  <data key="d1">1</data>
-</edge>
-<edge source="Iris" target="Trinculo">
-  <data key="d1">1</data>
-</edge>
-<edge source="Juno" target="Prospero">
-  <data key="d1">1</data>
-</edge>
-<edge source="Juno" target="Miranda">
-  <data key="d1">1</data>
-</edge>
-<edge source="Juno" target="Stephano">
-  <data key="d1">1</data>
-</edge>
-<edge source="Juno" target="Trinculo">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mariners" target="Master">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mariners" target="Sebastian">
-  <data key="d1">1</data>
-</edge>
-<edge source="Francisco" target="Gonzalo">
-  <data key="d1">2</data>
-</edge>
-<edge source="Francisco" target="Sebastian">
-  <data key="d1">2</data>
-</edge>
-<edge source="Francisco" target="Prospero">
-  <data key="d1">1</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Boatswain">
+      <data key="d0">10</data>
+    </node>
+    <node id="Master">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mariners">
+      <data key="d0">10</data>
+    </node>
+    <node id="Alonso">
+      <data key="d0">10</data>
+    </node>
+    <node id="Antonio">
+      <data key="d0">10</data>
+    </node>
+    <node id="Prospero">
+      <data key="d0">10</data>
+    </node>
+    <node id="Miranda">
+      <data key="d0">10</data>
+    </node>
+    <node id="Gonzalo">
+      <data key="d0">10</data>
+    </node>
+    <node id="Ariel">
+      <data key="d0">10</data>
+    </node>
+    <node id="Ferdinand">
+      <data key="d0">10</data>
+    </node>
+    <node id="Caliban">
+      <data key="d0">10</data>
+    </node>
+    <node id="Adrian">
+      <data key="d0">10</data>
+    </node>
+    <node id="Sebastian">
+      <data key="d0">10</data>
+    </node>
+    <node id="Stephano">
+      <data key="d0">10</data>
+    </node>
+    <node id="Trinculo">
+      <data key="d0">10</data>
+    </node>
+    <node id="Ceres">
+      <data key="d0">10</data>
+    </node>
+    <node id="Iris">
+      <data key="d0">10</data>
+    </node>
+    <node id="Juno">
+      <data key="d0">10</data>
+    </node>
+    <node id="Francisco">
+      <data key="d0">10</data>
+    </node>
+    <edge source="Boatswain" target="Master">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Boatswain" target="Alonso">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Boatswain" target="Antonio">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Boatswain" target="Stephano">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Boatswain" target="Prospero">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boatswain" target="Gonzalo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Boatswain" target="Sebastian">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Boatswain" target="Mariners">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boatswain" target="Ariel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boatswain" target="Miranda">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boatswain" target="Ferdinand">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boatswain" target="Trinculo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boatswain" target="Caliban">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master" target="Mariners">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master" target="Alonso">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master" target="Antonio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master" target="Prospero">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Master" target="Ariel">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Master" target="Gonzalo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Master" target="Stephano">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master" target="Caliban">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Master" target="Sebastian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mariners" target="Ariel">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mariners" target="Prospero">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mariners" target="Alonso">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mariners" target="Antonio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mariners" target="Gonzalo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mariners" target="Sebastian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alonso" target="Gonzalo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Alonso" target="Ariel">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Alonso" target="Prospero">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Alonso" target="Ferdinand">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Alonso" target="Miranda">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alonso" target="Stephano">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alonso" target="Trinculo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alonso" target="Antonio">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Alonso" target="Sebastian">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Alonso" target="Adrian">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Alonso" target="Francisco">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Alonso" target="Caliban">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Antonio" target="Prospero">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Antonio" target="Adrian">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Antonio" target="Gonzalo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Antonio" target="Sebastian">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Antonio" target="Ferdinand">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Antonio" target="Francisco">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Antonio" target="Ariel">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Antonio" target="Miranda">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Antonio" target="Stephano">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Antonio" target="Trinculo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Antonio" target="Caliban">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prospero" target="Miranda">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Prospero" target="Gonzalo">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Prospero" target="Ariel">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Prospero" target="Caliban">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Prospero" target="Sebastian">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Prospero" target="Ferdinand">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Prospero" target="Juno">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Prospero" target="Ceres">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prospero" target="Francisco">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prospero" target="Adrian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prospero" target="Iris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prospero" target="Stephano">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Prospero" target="Trinculo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Miranda" target="Ferdinand">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Miranda" target="Ariel">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Miranda" target="Caliban">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Miranda" target="Iris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miranda" target="Ceres">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miranda" target="Juno">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miranda" target="Stephano">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Miranda" target="Trinculo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Miranda" target="Gonzalo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miranda" target="Sebastian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gonzalo" target="Sebastian">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Gonzalo" target="Ariel">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Gonzalo" target="Ferdinand">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gonzalo" target="Adrian">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gonzalo" target="Francisco">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gonzalo" target="Stephano">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gonzalo" target="Trinculo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gonzalo" target="Caliban">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ariel" target="Ferdinand">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Ariel" target="Caliban">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Ariel" target="Ceres">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ariel" target="Sebastian">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Ariel" target="Adrian">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ariel" target="Francisco">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ariel" target="Stephano">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Ariel" target="Trinculo">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Ariel" target="Iris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ariel" target="Juno">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ferdinand" target="Caliban">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Ferdinand" target="Iris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ferdinand" target="Ceres">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ferdinand" target="Juno">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ferdinand" target="Stephano">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ferdinand" target="Trinculo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ferdinand" target="Sebastian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Caliban" target="Trinculo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Caliban" target="Stephano">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Caliban" target="Iris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Caliban" target="Ceres">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Caliban" target="Juno">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Caliban" target="Sebastian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adrian" target="Sebastian">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Adrian" target="Francisco">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sebastian" target="Stephano">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sebastian" target="Francisco">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sebastian" target="Trinculo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stephano" target="Trinculo">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Stephano" target="Iris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stephano" target="Ceres">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stephano" target="Juno">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Trinculo" target="Iris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Trinculo" target="Ceres">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Trinculo" target="Juno">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ceres" target="Iris">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ceres" target="Juno">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Iris" target="Juno">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

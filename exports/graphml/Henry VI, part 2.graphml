@@ -1,1438 +1,1609 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
-<key id="d0" for="node" attr.name="size" attr.type="long"/>
-<graph edgedefault="directed"><node id="King Henry Vi">
-  <data key="d0">10</data>
-</node>
-<node id="Suffolk">
-  <data key="d0">10</data>
-</node>
-<node id="Queen Margaret">
-  <data key="d0">10</data>
-</node>
-<node id="Gloucester">
-  <data key="d0">10</data>
-</node>
-<node id="York">
-  <data key="d0">10</data>
-</node>
-<node id="Buckingham">
-  <data key="d0">10</data>
-</node>
-<node id="Somerset">
-  <data key="d0">10</data>
-</node>
-<node id="Salisbury">
-  <data key="d0">10</data>
-</node>
-<node id="Warwick">
-  <data key="d0">10</data>
-</node>
-<node id="Cardinal">
-  <data key="d0">10</data>
-</node>
-<node id="Duchess">
-  <data key="d0">10</data>
-</node>
-<node id="Bolingbroke">
-  <data key="d0">10</data>
-</node>
-<node id="Hume">
-  <data key="d0">10</data>
-</node>
-<node id="Second Petitioner">
-  <data key="d0">10</data>
-</node>
-<node id="Horner">
-  <data key="d0">10</data>
-</node>
-<node id="Peter">
-  <data key="d0">10</data>
-</node>
-<node id="Richard">
-  <data key="d0">10</data>
-</node>
-<node id="Say">
-  <data key="d0">10</data>
-</node>
-<node id="Master">
-  <data key="d0">10</data>
-</node>
-<node id="Edward">
-  <data key="d0">10</data>
-</node>
-<node id="Both">
-  <data key="d0">10</data>
-</node>
-<node id="Stanley">
-  <data key="d0">10</data>
-</node>
-<node id="First Neighbour">
-  <data key="d0">10</data>
-</node>
-<node id="Sheriff">
-  <data key="d0">10</data>
-</node>
-<node id="Cade">
-  <data key="d0">10</data>
-</node>
-<node id="First Murderer">
-  <data key="d0">10</data>
-</node>
-<node id="Commons">
-  <data key="d0">10</data>
-</node>
-<node id="Vaux">
-  <data key="d0">10</data>
-</node>
-<node id="Captain">
-  <data key="d0">10</data>
-</node>
-<node id="Whitmore">
-  <data key="d0">10</data>
-</node>
-<node id="Bevis">
-  <data key="d0">10</data>
-</node>
-<node id="Dick">
-  <data key="d0">10</data>
-</node>
-<node id="Holland">
-  <data key="d0">10</data>
-</node>
-<node id="Smith">
-  <data key="d0">10</data>
-</node>
-<node id="Michael">
-  <data key="d0">10</data>
-</node>
-<node id="Sir Humphrey">
-  <data key="d0">10</data>
-</node>
-<node id="William Stafford">
-  <data key="d0">10</data>
-</node>
-<node id="Herald">
-  <data key="d0">10</data>
-</node>
-<node id="Messenger">
-  <data key="d0">10</data>
-</node>
-<node id="Scales">
-  <data key="d0">10</data>
-</node>
-<node id="Soldier">
-  <data key="d0">10</data>
-</node>
-<node id="Clifford">
-  <data key="d0">10</data>
-</node>
-<node id="Iden">
-  <data key="d0">10</data>
-</node>
-<node id="Young Clifford">
-  <data key="d0">10</data>
-</node>
-<node id="First Petitioner">
-  <data key="d0">10</data>
-</node>
-<node id="Spirit">
-  <data key="d0">10</data>
-</node>
-<node id="Margaret Jourdain">
-  <data key="d0">10</data>
-</node>
-<node id="Townsman">
-  <data key="d0">10</data>
-</node>
-<node id="Simpcox">
-  <data key="d0">10</data>
-</node>
-<node id="Wife">
-  <data key="d0">10</data>
-</node>
-<node id="Mayor">
-  <data key="d0">10</data>
-</node>
-<node id="Beadle">
-  <data key="d0">10</data>
-</node>
-<node id="Second Neighbour">
-  <data key="d0">10</data>
-</node>
-<node id="Third Neighbour">
-  <data key="d0">10</data>
-</node>
-<node id="Servants">
-  <data key="d0">10</data>
-</node>
-<node id="Servant">
-  <data key="d0">10</data>
-</node>
-<node id="Post">
-  <data key="d0">10</data>
-</node>
-<node id="Second Murderer">
-  <data key="d0">10</data>
-</node>
-<node id="First Murder">
-  <data key="d0">10</data>
-</node>
-<node id="First Gentleman">
-  <data key="d0">10</data>
-</node>
-<node id="Second Gentleman">
-  <data key="d0">10</data>
-</node>
-<node id="Clerk">
-  <data key="d0">10</data>
-</node>
-<node id="First Citizen">
-  <data key="d0">10</data>
-</node>
-<edge source="King Henry Vi" target="Suffolk">
-  <data key="d1">11</data>
-</edge>
-<edge source="King Henry Vi" target="Queen Margaret">
-  <data key="d1">9</data>
-</edge>
-<edge source="King Henry Vi" target="York">
-  <data key="d1">9</data>
-</edge>
-<edge source="King Henry Vi" target="Somerset">
-  <data key="d1">8</data>
-</edge>
-<edge source="King Henry Vi" target="Salisbury">
-  <data key="d1">6</data>
-</edge>
-<edge source="King Henry Vi" target="Warwick">
-  <data key="d1">8</data>
-</edge>
-<edge source="King Henry Vi" target="Say">
-  <data key="d1">5</data>
-</edge>
-<edge source="King Henry Vi" target="Stanley">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Second Petitioner">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Peter">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Henry Vi" target="Townsman">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Simpcox">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Wife">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Mayor">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Second Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Third Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Post">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Second Murderer">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Vaux">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Messenger">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Henry Vi" target="Richard">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Henry Vi" target="Young Clifford">
-  <data key="d1">2</data>
-</edge>
-<edge source="Suffolk" target="York">
-  <data key="d1">16</data>
-</edge>
-<edge source="Suffolk" target="Warwick">
-  <data key="d1">9</data>
-</edge>
-<edge source="Suffolk" target="Whitmore">
-  <data key="d1">3</data>
-</edge>
-<edge source="Suffolk" target="Townsman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Suffolk" target="Wife">
-  <data key="d1">1</data>
-</edge>
-<edge source="Suffolk" target="Third Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="Suffolk" target="Vaux">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Margaret" target="York">
-  <data key="d1">9</data>
-</edge>
-<edge source="Queen Margaret" target="Suffolk">
-  <data key="d1">20</data>
-</edge>
-<edge source="Queen Margaret" target="Somerset">
-  <data key="d1">5</data>
-</edge>
-<edge source="Queen Margaret" target="Vaux">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Margaret" target="Salisbury">
-  <data key="d1">5</data>
-</edge>
-<edge source="Queen Margaret" target="Warwick">
-  <data key="d1">5</data>
-</edge>
-<edge source="Queen Margaret" target="Second Petitioner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Margaret" target="Townsman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Margaret" target="Simpcox">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Margaret" target="Wife">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Margaret" target="Second Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Margaret" target="Third Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Margaret" target="Second Murderer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Margaret" target="Say">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Margaret" target="Richard">
-  <data key="d1">2</data>
-</edge>
-<edge source="Queen Margaret" target="Young Clifford">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gloucester" target="Suffolk">
-  <data key="d1">12</data>
-</edge>
-<edge source="Gloucester" target="King Henry Vi">
-  <data key="d1">13</data>
-</edge>
-<edge source="Gloucester" target="Somerset">
-  <data key="d1">5</data>
-</edge>
-<edge source="Gloucester" target="York">
-  <data key="d1">6</data>
-</edge>
-<edge source="Gloucester" target="Salisbury">
-  <data key="d1">4</data>
-</edge>
-<edge source="Gloucester" target="Warwick">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gloucester" target="Queen Margaret">
-  <data key="d1">8</data>
-</edge>
-<edge source="Gloucester" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Hume">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Second Petitioner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Peter">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gloucester" target="Horner">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gloucester" target="Townsman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Simpcox">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Wife">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Mayor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Second Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Third Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Servants">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Sheriff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Stanley">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Post">
-  <data key="d1">1</data>
-</edge>
-<edge source="York" target="Young Clifford">
-  <data key="d1">3</data>
-</edge>
-<edge source="Buckingham" target="King Henry Vi">
-  <data key="d1">10</data>
-</edge>
-<edge source="Buckingham" target="Gloucester">
-  <data key="d1">4</data>
-</edge>
-<edge source="Buckingham" target="Somerset">
-  <data key="d1">7</data>
-</edge>
-<edge source="Buckingham" target="Suffolk">
-  <data key="d1">4</data>
-</edge>
-<edge source="Buckingham" target="Salisbury">
-  <data key="d1">3</data>
-</edge>
-<edge source="Buckingham" target="Queen Margaret">
-  <data key="d1">6</data>
-</edge>
-<edge source="Buckingham" target="Warwick">
-  <data key="d1">3</data>
-</edge>
-<edge source="Buckingham" target="York">
-  <data key="d1">13</data>
-</edge>
-<edge source="Buckingham" target="Cade">
-  <data key="d1">2</data>
-</edge>
-<edge source="Buckingham" target="Cardinal">
-  <data key="d1">4</data>
-</edge>
-<edge source="Buckingham" target="First Petitioner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Second Petitioner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Peter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Duchess">
-  <data key="d1">2</data>
-</edge>
-<edge source="Buckingham" target="Horner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Hume">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Spirit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Margaret Jourdain">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Townsman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Simpcox">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Wife">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Mayor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Post">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Say">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Messenger">
-  <data key="d1">2</data>
-</edge>
-<edge source="Buckingham" target="Clifford">
-  <data key="d1">3</data>
-</edge>
-<edge source="Buckingham" target="Iden">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Edward">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Richard">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Young Clifford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Somerset" target="York">
-  <data key="d1">13</data>
-</edge>
-<edge source="Somerset" target="Suffolk">
-  <data key="d1">4</data>
-</edge>
-<edge source="Somerset" target="Warwick">
-  <data key="d1">4</data>
-</edge>
-<edge source="Somerset" target="Vaux">
-  <data key="d1">1</data>
-</edge>
-<edge source="Somerset" target="Young Clifford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Salisbury" target="Warwick">
-  <data key="d1">8</data>
-</edge>
-<edge source="Salisbury" target="York">
-  <data key="d1">8</data>
-</edge>
-<edge source="Salisbury" target="Suffolk">
-  <data key="d1">6</data>
-</edge>
-<edge source="Salisbury" target="Somerset">
-  <data key="d1">4</data>
-</edge>
-<edge source="Salisbury" target="Second Petitioner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Salisbury" target="Second Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="Salisbury" target="Third Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="Salisbury" target="Second Murderer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Salisbury" target="Vaux">
-  <data key="d1">1</data>
-</edge>
-<edge source="Salisbury" target="Young Clifford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Warwick" target="York">
-  <data key="d1">13</data>
-</edge>
-<edge source="Warwick" target="Young Clifford">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cardinal" target="Gloucester">
-  <data key="d1">6</data>
-</edge>
-<edge source="Cardinal" target="Suffolk">
-  <data key="d1">6</data>
-</edge>
-<edge source="Cardinal" target="Warwick">
-  <data key="d1">4</data>
-</edge>
-<edge source="Cardinal" target="Say">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal" target="York">
-  <data key="d1">3</data>
-</edge>
-<edge source="Cardinal" target="Vaux">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal" target="King Henry Vi">
-  <data key="d1">6</data>
-</edge>
-<edge source="Cardinal" target="Queen Margaret">
-  <data key="d1">5</data>
-</edge>
-<edge source="Cardinal" target="Salisbury">
-  <data key="d1">4</data>
-</edge>
-<edge source="Cardinal" target="Somerset">
-  <data key="d1">4</data>
-</edge>
-<edge source="Cardinal" target="First Petitioner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal" target="Second Petitioner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal" target="Peter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal" target="Duchess">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal" target="Horner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal" target="Townsman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal" target="Simpcox">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal" target="Wife">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal" target="Mayor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal" target="Post">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal" target="First Murderer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal" target="Second Murderer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal" target="First Murder">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal" target="Commons">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duchess" target="Gloucester">
-  <data key="d1">6</data>
-</edge>
-<edge source="Duchess" target="Hume">
-  <data key="d1">2</data>
-</edge>
-<edge source="Duchess" target="Suffolk">
-  <data key="d1">3</data>
-</edge>
-<edge source="Duchess" target="York">
-  <data key="d1">4</data>
-</edge>
-<edge source="Duchess" target="Stanley">
-  <data key="d1">2</data>
-</edge>
-<edge source="Duchess" target="Sheriff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duchess" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duchess" target="First Petitioner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duchess" target="Second Petitioner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duchess" target="Peter">
-  <data key="d1">2</data>
-</edge>
-<edge source="Duchess" target="Queen Margaret">
-  <data key="d1">2</data>
-</edge>
-<edge source="Duchess" target="King Henry Vi">
-  <data key="d1">2</data>
-</edge>
-<edge source="Duchess" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duchess" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duchess" target="Salisbury">
-  <data key="d1">2</data>
-</edge>
-<edge source="Duchess" target="Horner">
-  <data key="d1">2</data>
-</edge>
-<edge source="Duchess" target="Spirit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duchess" target="Margaret Jourdain">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duchess" target="First Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duchess" target="Second Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duchess" target="Third Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duchess" target="Servants">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duchess" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duchess" target="Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bolingbroke" target="Duchess">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bolingbroke" target="Master">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bolingbroke" target="Hume">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bolingbroke" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bolingbroke" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bolingbroke" target="York">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bolingbroke" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bolingbroke" target="Spirit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bolingbroke" target="Margaret Jourdain">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bolingbroke" target="Buckingham">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hume" target="Suffolk">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hume" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hume" target="Spirit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hume" target="Margaret Jourdain">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hume" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Petitioner" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Petitioner" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Petitioner" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Petitioner" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Horner" target="Peter">
-  <data key="d1">6</data>
-</edge>
-<edge source="Horner" target="York">
-  <data key="d1">2</data>
-</edge>
-<edge source="Horner" target="Second Petitioner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Horner" target="Suffolk">
-  <data key="d1">2</data>
-</edge>
-<edge source="Horner" target="Queen Margaret">
-  <data key="d1">2</data>
-</edge>
-<edge source="Horner" target="King Henry Vi">
-  <data key="d1">2</data>
-</edge>
-<edge source="Horner" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="Horner" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Horner" target="Salisbury">
-  <data key="d1">2</data>
-</edge>
-<edge source="Horner" target="Second Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="Horner" target="Third Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peter" target="York">
-  <data key="d1">3</data>
-</edge>
-<edge source="Peter" target="Salisbury">
-  <data key="d1">2</data>
-</edge>
-<edge source="Peter" target="Second Petitioner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peter" target="Suffolk">
-  <data key="d1">2</data>
-</edge>
-<edge source="Peter" target="Queen Margaret">
-  <data key="d1">2</data>
-</edge>
-<edge source="Peter" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peter" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peter" target="Second Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peter" target="Third Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="Richard" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Richard" target="York">
-  <data key="d1">8</data>
-</edge>
-<edge source="Richard" target="Warwick">
-  <data key="d1">3</data>
-</edge>
-<edge source="Richard" target="Somerset">
-  <data key="d1">2</data>
-</edge>
-<edge source="Richard" target="Salisbury">
-  <data key="d1">2</data>
-</edge>
-<edge source="Richard" target="Young Clifford">
-  <data key="d1">2</data>
-</edge>
-<edge source="Say" target="York">
-  <data key="d1">3</data>
-</edge>
-<edge source="Say" target="Suffolk">
-  <data key="d1">2</data>
-</edge>
-<edge source="Say" target="Smith">
-  <data key="d1">1</data>
-</edge>
-<edge source="Master" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Master" target="Whitmore">
-  <data key="d1">1</data>
-</edge>
-<edge source="Master" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="York">
-  <data key="d1">6</data>
-</edge>
-<edge source="Edward" target="King Henry Vi">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="Iden">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="Queen Margaret">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="Richard">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="Young Clifford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="Richard">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Neighbour" target="Horner">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Neighbour" target="King Henry Vi">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Neighbour" target="Gloucester">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Neighbour" target="Queen Margaret">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Neighbour" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Neighbour" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Neighbour" target="Second Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Neighbour" target="Third Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Neighbour" target="Peter">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Neighbour" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Sheriff" target="Stanley">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cade" target="York">
-  <data key="d1">3</data>
-</edge>
-<edge source="Cade" target="William Stafford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cade" target="Say">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cade" target="Sir Humphrey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cade" target="Dick">
-  <data key="d1">4</data>
-</edge>
-<edge source="Cade" target="King Henry Vi">
-  <data key="d1">6</data>
-</edge>
-<edge source="Cade" target="Messenger">
-  <data key="d1">3</data>
-</edge>
-<edge source="Cade" target="Scales">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cade" target="Soldier">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cade" target="Smith">
-  <data key="d1">3</data>
-</edge>
-<edge source="Cade" target="Clifford">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cade" target="Iden">
-  <data key="d1">3</data>
-</edge>
-<edge source="Cade" target="Holland">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cade" target="Clerk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cade" target="Michael">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murderer" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murderer" target="Second Murderer">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murderer" target="King Henry Vi">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murderer" target="Queen Margaret">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murderer" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murderer" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murderer" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murderer" target="Vaux">
-  <data key="d1">1</data>
-</edge>
-<edge source="Commons" target="Salisbury">
-  <data key="d1">2</data>
-</edge>
-<edge source="Commons" target="First Murderer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Commons" target="Second Murderer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Commons" target="First Murder">
-  <data key="d1">1</data>
-</edge>
-<edge source="Commons" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Commons" target="King Henry Vi">
-  <data key="d1">1</data>
-</edge>
-<edge source="Commons" target="Queen Margaret">
-  <data key="d1">1</data>
-</edge>
-<edge source="Commons" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="Commons" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Commons" target="Vaux">
-  <data key="d1">1</data>
-</edge>
-<edge source="Vaux" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Captain" target="Master">
-  <data key="d1">1</data>
-</edge>
-<edge source="Captain" target="Whitmore">
-  <data key="d1">1</data>
-</edge>
-<edge source="Captain" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Captain" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Captain" target="First Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Captain" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Captain" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bevis" target="Cade">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bevis" target="Holland">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bevis" target="Dick">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bevis" target="Smith">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bevis" target="Clerk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bevis" target="Michael">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bevis" target="Sir Humphrey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bevis" target="William Stafford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bevis" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bevis" target="Say">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dick" target="Holland">
-  <data key="d1">2</data>
-</edge>
-<edge source="Dick" target="Say">
-  <data key="d1">2</data>
-</edge>
-<edge source="Dick" target="Smith">
-  <data key="d1">3</data>
-</edge>
-<edge source="Dick" target="Michael">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dick" target="Sir Humphrey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dick" target="William Stafford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dick" target="Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dick" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Holland" target="Smith">
-  <data key="d1">2</data>
-</edge>
-<edge source="Holland" target="Michael">
-  <data key="d1">1</data>
-</edge>
-<edge source="Holland" target="Sir Humphrey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Holland" target="William Stafford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Holland" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Holland" target="Say">
-  <data key="d1">1</data>
-</edge>
-<edge source="Smith" target="William Stafford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Smith" target="Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Michael" target="Sir Humphrey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Michael" target="Smith">
-  <data key="d1">1</data>
-</edge>
-<edge source="Michael" target="William Stafford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Sir Humphrey" target="Smith">
-  <data key="d1">1</data>
-</edge>
-<edge source="Sir Humphrey" target="William Stafford">
-  <data key="d1">1</data>
-</edge>
-<edge source="William Stafford" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Herald" target="Sir Humphrey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Herald" target="Servants">
-  <data key="d1">1</data>
-</edge>
-<edge source="Herald" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Herald" target="Sheriff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Herald" target="Stanley">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Sir Humphrey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Say">
-  <data key="d1">2</data>
-</edge>
-<edge source="Messenger" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Queen Margaret">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Smith">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clifford" target="Queen Margaret">
-  <data key="d1">3</data>
-</edge>
-<edge source="Clifford" target="York">
-  <data key="d1">5</data>
-</edge>
-<edge source="Clifford" target="King Henry Vi">
-  <data key="d1">3</data>
-</edge>
-<edge source="Clifford" target="Warwick">
-  <data key="d1">5</data>
-</edge>
-<edge source="Clifford" target="Young Clifford">
-  <data key="d1">2</data>
-</edge>
-<edge source="Clifford" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clifford" target="Somerset">
-  <data key="d1">2</data>
-</edge>
-<edge source="Clifford" target="Iden">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clifford" target="Edward">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clifford" target="Richard">
-  <data key="d1">2</data>
-</edge>
-<edge source="Clifford" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Iden" target="King Henry Vi">
-  <data key="d1">1</data>
-</edge>
-<edge source="Iden" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Iden" target="Queen Margaret">
-  <data key="d1">1</data>
-</edge>
-<edge source="Iden" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="Iden" target="Richard">
-  <data key="d1">1</data>
-</edge>
-<edge source="Iden" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Iden" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Iden" target="Young Clifford">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Petitioner" target="Second Petitioner">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Petitioner" target="Peter">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Petitioner" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Petitioner" target="Queen Margaret">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Petitioner" target="King Henry Vi">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Petitioner" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Petitioner" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Petitioner" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Petitioner" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Petitioner" target="Gloucester">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Petitioner" target="Horner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Spirit" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Margaret Jourdain" target="Spirit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Margaret Jourdain" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Townsman" target="Wife">
-  <data key="d1">1</data>
-</edge>
-<edge source="Simpcox" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Simpcox" target="Townsman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Simpcox" target="Wife">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mayor" target="Queen Margaret">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mayor" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mayor" target="Townsman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mayor" target="Simpcox">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mayor" target="Wife">
-  <data key="d1">1</data>
-</edge>
-<edge source="Beadle" target="Queen Margaret">
-  <data key="d1">1</data>
-</edge>
-<edge source="Beadle" target="King Henry Vi">
-  <data key="d1">1</data>
-</edge>
-<edge source="Beadle" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Beadle" target="Gloucester">
-  <data key="d1">1</data>
-</edge>
-<edge source="Beadle" target="Cardinal">
-  <data key="d1">1</data>
-</edge>
-<edge source="Beadle" target="Townsman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Beadle" target="Simpcox">
-  <data key="d1">1</data>
-</edge>
-<edge source="Beadle" target="Wife">
-  <data key="d1">1</data>
-</edge>
-<edge source="Beadle" target="Mayor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Beadle" target="Buckingham">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Neighbour" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Neighbour" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Neighbour" target="Third Neighbour">
-  <data key="d1">1</data>
-</edge>
-<edge source="Third Neighbour" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Servants" target="Sheriff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Servants" target="Stanley">
-  <data key="d1">1</data>
-</edge>
-<edge source="Servant" target="Servants">
-  <data key="d1">1</data>
-</edge>
-<edge source="Servant" target="Sheriff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Servant" target="Stanley">
-  <data key="d1">1</data>
-</edge>
-<edge source="Post" target="Queen Margaret">
-  <data key="d1">1</data>
-</edge>
-<edge source="Post" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Post" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Post" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Murderer" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Murderer" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Murderer" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Murderer" target="Vaux">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murder" target="First Murderer">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murder" target="Second Murderer">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murder" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murder" target="King Henry Vi">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murder" target="Queen Margaret">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murder" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murder" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murder" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Murder" target="Vaux">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Gentleman" target="Master">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Gentleman" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Gentleman" target="Whitmore">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Gentleman" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Gentleman" target="Whitmore">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Gentleman" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clerk" target="Holland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clerk" target="Dick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clerk" target="Smith">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clerk" target="Michael">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clerk" target="Sir Humphrey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clerk" target="William Stafford">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Citizen" target="Scales">
-  <data key="d1">1</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="King Henry Vi">
+      <data key="d0">10</data>
+    </node>
+    <node id="Suffolk">
+      <data key="d0">10</data>
+    </node>
+    <node id="Queen Margaret">
+      <data key="d0">10</data>
+    </node>
+    <node id="Gloucester">
+      <data key="d0">10</data>
+    </node>
+    <node id="York">
+      <data key="d0">10</data>
+    </node>
+    <node id="Buckingham">
+      <data key="d0">10</data>
+    </node>
+    <node id="Somerset">
+      <data key="d0">10</data>
+    </node>
+    <node id="Salisbury">
+      <data key="d0">10</data>
+    </node>
+    <node id="Warwick">
+      <data key="d0">10</data>
+    </node>
+    <node id="Both">
+      <data key="d0">10</data>
+    </node>
+    <node id="Cardinal">
+      <data key="d0">10</data>
+    </node>
+    <node id="Say">
+      <data key="d0">10</data>
+    </node>
+    <node id="Soldier">
+      <data key="d0">10</data>
+    </node>
+    <node id="Commons">
+      <data key="d0">10</data>
+    </node>
+    <node id="Duchess">
+      <data key="d0">10</data>
+    </node>
+    <node id="Wife">
+      <data key="d0">10</data>
+    </node>
+    <node id="Bolingbroke">
+      <data key="d0">10</data>
+    </node>
+    <node id="Hume">
+      <data key="d0">10</data>
+    </node>
+    <node id="Spirit">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Petitioner">
+      <data key="d0">10</data>
+    </node>
+    <node id="Master">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Petitioner">
+      <data key="d0">10</data>
+    </node>
+    <node id="Peter">
+      <data key="d0">10</data>
+    </node>
+    <node id="Horner">
+      <data key="d0">10</data>
+    </node>
+    <node id="Post">
+      <data key="d0">10</data>
+    </node>
+    <node id="Richard">
+      <data key="d0">10</data>
+    </node>
+    <node id="Servants">
+      <data key="d0">10</data>
+    </node>
+    <node id="Servant">
+      <data key="d0">10</data>
+    </node>
+    <node id="Simpcox">
+      <data key="d0">10</data>
+    </node>
+    <node id="Beadle">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mayor">
+      <data key="d0">10</data>
+    </node>
+    <node id="Scales">
+      <data key="d0">10</data>
+    </node>
+    <node id="Edward">
+      <data key="d0">10</data>
+    </node>
+    <node id="Smith">
+      <data key="d0">10</data>
+    </node>
+    <node id="Stanley">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Neighbour">
+      <data key="d0">10</data>
+    </node>
+    <node id="Sheriff">
+      <data key="d0">10</data>
+    </node>
+    <node id="Clerk">
+      <data key="d0">10</data>
+    </node>
+    <node id="Cade">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Murderer">
+      <data key="d0">10</data>
+    </node>
+    <node id="Iden">
+      <data key="d0">10</data>
+    </node>
+    <node id="Messenger">
+      <data key="d0">10</data>
+    </node>
+    <node id="Vaux">
+      <data key="d0">10</data>
+    </node>
+    <node id="Captain">
+      <data key="d0">10</data>
+    </node>
+    <node id="Whitmore">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Gentleman">
+      <data key="d0">10</data>
+    </node>
+    <node id="Bevis">
+      <data key="d0">10</data>
+    </node>
+    <node id="Holland">
+      <data key="d0">10</data>
+    </node>
+    <node id="Dick">
+      <data key="d0">10</data>
+    </node>
+    <node id="Michael">
+      <data key="d0">10</data>
+    </node>
+    <node id="Sir Humphrey">
+      <data key="d0">10</data>
+    </node>
+    <node id="William Stafford">
+      <data key="d0">10</data>
+    </node>
+    <node id="Herald">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Citizen">
+      <data key="d0">10</data>
+    </node>
+    <node id="Clifford">
+      <data key="d0">10</data>
+    </node>
+    <node id="Young Clifford">
+      <data key="d0">10</data>
+    </node>
+    <node id="Margaret Jourdain">
+      <data key="d0">10</data>
+    </node>
+    <node id="Townsman">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Neighbour">
+      <data key="d0">10</data>
+    </node>
+    <node id="Third Neighbour">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Murderer">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Murder">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Gentleman">
+      <data key="d0">10</data>
+    </node>
+    <edge source="King Henry Vi" target="Suffolk">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="King Henry Vi" target="Queen Margaret">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="King Henry Vi" target="York">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="King Henry Vi" target="Gloucester">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="King Henry Vi" target="Buckingham">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="King Henry Vi" target="Somerset">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="King Henry Vi" target="Salisbury">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="King Henry Vi" target="Warwick">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="King Henry Vi" target="Say">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="King Henry Vi" target="Scales">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Wife">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry Vi" target="Smith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Stanley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Iden">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Vi" target="Messenger">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry Vi" target="Cardinal">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="King Henry Vi" target="Cade">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="King Henry Vi" target="Soldier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Clifford">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry Vi" target="First Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Second Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Peter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Vi" target="Duchess">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Vi" target="Horner">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Vi" target="Townsman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Simpcox">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Mayor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="First Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Second Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Third Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Post">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="First Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Second Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="First Murder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Commons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Vaux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Edward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Richard">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Vi" target="Young Clifford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Suffolk" target="Gloucester">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Suffolk" target="York">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Suffolk" target="Buckingham">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Suffolk" target="Cardinal">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Suffolk" target="Salisbury">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Suffolk" target="Hume">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Suffolk" target="Second Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Wife">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Suffolk" target="Commons">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Suffolk" target="Master">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Suffolk" target="Queen Margaret">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Suffolk" target="Warwick">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Suffolk" target="Richard">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Bolingbroke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Duchess">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Suffolk" target="Clerk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Post">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Say">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Suffolk" target="First Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Whitmore">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Suffolk" target="Captain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Soldier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Somerset">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Suffolk" target="First Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Peter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Suffolk" target="Horner">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Suffolk" target="Townsman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Simpcox">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Mayor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="First Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Second Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Third Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Second Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="First Murder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Vaux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="York">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Queen Margaret" target="Say">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Queen Margaret" target="Gloucester">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Queen Margaret" target="Post">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Margaret" target="Cardinal">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Queen Margaret" target="Buckingham">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Queen Margaret" target="Somerset">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Queen Margaret" target="Wife">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Queen Margaret" target="Commons">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Margaret" target="Spirit">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Margaret" target="Vaux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="Clifford">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Queen Margaret" target="Salisbury">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Queen Margaret" target="Warwick">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Queen Margaret" target="First Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="Second Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="Peter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Margaret" target="Duchess">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Margaret" target="Horner">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Margaret" target="Townsman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="Simpcox">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="Mayor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="First Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="Second Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="Third Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="First Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="Second Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="First Murder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="Iden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="Edward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="Richard">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Margaret" target="Young Clifford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gloucester" target="Buckingham">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Gloucester" target="Somerset">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Gloucester" target="Salisbury">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Gloucester" target="Warwick">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gloucester" target="York">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Gloucester" target="Cardinal">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Gloucester" target="Say">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Gloucester" target="Duchess">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Gloucester" target="Wife">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gloucester" target="Servants">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gloucester" target="Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gloucester" target="Master">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Gloucester" target="Beadle">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gloucester" target="Sheriff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Soldier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Commons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Hume">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="First Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Second Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Peter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gloucester" target="Horner">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gloucester" target="Townsman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Simpcox">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Mayor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="First Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Second Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Third Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Stanley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Post">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Salisbury">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="York" target="Say">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="York" target="Both">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="York" target="Peter">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="York" target="Somerset">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="York" target="Warwick">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="York" target="Buckingham">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="York" target="Edward">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="York" target="Richard">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="York" target="Bolingbroke">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="York" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Horner">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="York" target="Master">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Duchess">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="York" target="Soldier">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="York" target="Cardinal">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="York" target="Cade">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="York" target="Commons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Captain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="William Stafford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Messenger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="York" target="Clifford">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="York" target="Young Clifford">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="York" target="First Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Second Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Hume">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Spirit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Margaret Jourdain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="First Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Second Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Third Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Post">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Iden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Somerset">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Buckingham" target="Cardinal">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Buckingham" target="Salisbury">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Buckingham" target="Warwick">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Buckingham" target="Post">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Buckingham" target="Wife">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Spirit">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Buckingham" target="Cade">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Buckingham" target="Commons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Soldier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Messenger">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Buckingham" target="First Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Second Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Peter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Duchess">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Buckingham" target="Horner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Hume">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Bolingbroke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Margaret Jourdain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Townsman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Simpcox">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Mayor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Say">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Clifford">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Buckingham" target="Iden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Edward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Richard">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Young Clifford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Cardinal">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Somerset" target="Salisbury">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Somerset" target="Wife">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Bolingbroke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Richard">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Somerset" target="Warwick">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Somerset" target="First Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Second Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Peter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Duchess">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Horner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Post">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="First Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Second Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="First Murder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Commons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Vaux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Clifford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Somerset" target="Iden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Edward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Young Clifford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="Warwick">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Salisbury" target="Cardinal">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Salisbury" target="Soldier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="Commons">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Salisbury" target="Bolingbroke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="Peter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Salisbury" target="Master">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="Say">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Salisbury" target="Richard">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Salisbury" target="First Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="Second Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="Duchess">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Salisbury" target="Horner">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Salisbury" target="Both">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="First Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="Second Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="Third Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="First Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="Second Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="First Murder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="Vaux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="Iden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="Clifford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="Edward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="Young Clifford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Both">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Warwick" target="Cardinal">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Warwick" target="Commons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Say">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Warwick" target="Captain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Richard">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Warwick" target="Clifford">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Warwick" target="First Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Second Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Peter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Duchess">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Horner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="First Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Second Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="First Murder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Vaux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Iden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Edward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Young Clifford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Both" target="Duchess">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Both" target="Hume">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Both" target="Richard">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Both" target="Captain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Both" target="Cade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Both" target="Clifford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal" target="Hume">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cardinal" target="First Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal" target="Commons">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cardinal" target="Say">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cardinal" target="Vaux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal" target="Second Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal" target="Peter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal" target="Duchess">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal" target="Horner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal" target="Townsman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal" target="Simpcox">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal" target="Wife">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal" target="Mayor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal" target="Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal" target="Post">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal" target="First Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal" target="Second Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal" target="First Murder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Say" target="Duchess">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Say" target="Hume">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Say" target="Peter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Say" target="Holland">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Say" target="Cade">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Say" target="Dick">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Say" target="Scales">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Say" target="Messenger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Say" target="Clerk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Say" target="Spirit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Say" target="Clifford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Say" target="Smith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Say" target="Bevis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Soldier" target="Captain">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Soldier" target="Cade">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Soldier" target="Young Clifford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Soldier" target="Smith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Soldier" target="Dick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Commons" target="Captain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Commons" target="Cade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Commons" target="First Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Commons" target="Second Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Commons" target="First Murder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Commons" target="Vaux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duchess" target="Bolingbroke">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Duchess" target="Hume">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Duchess" target="Master">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Duchess" target="Wife">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Duchess" target="Stanley">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Duchess" target="Sheriff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duchess" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duchess" target="First Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duchess" target="Second Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duchess" target="Peter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Duchess" target="Horner">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Duchess" target="Spirit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duchess" target="Margaret Jourdain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duchess" target="First Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duchess" target="Second Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duchess" target="Third Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duchess" target="Servants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duchess" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duchess" target="Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wife" target="First Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wife" target="Master">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wife" target="Simpcox">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wife" target="Dick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wife" target="Cade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wife" target="Townsman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wife" target="Mayor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wife" target="Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bolingbroke" target="Hume">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bolingbroke" target="Master">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bolingbroke" target="Spirit">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bolingbroke" target="Margaret Jourdain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hume" target="Spirit">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hume" target="Master">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hume" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hume" target="Margaret Jourdain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Spirit" target="Cade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Spirit" target="Margaret Jourdain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Petitioner" target="Master">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Petitioner" target="Second Petitioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Petitioner" target="Peter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Petitioner" target="Horner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master" target="Peter">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Master" target="Simpcox">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Master" target="Horner">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Master" target="Captain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master" target="Iden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master" target="Whitmore">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Petitioner" target="Peter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Petitioner" target="Horner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Peter" target="Horner">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Peter" target="First Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Peter" target="Second Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Peter" target="Third Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Horner" target="First Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Horner" target="Second Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Horner" target="Third Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Richard" target="Iden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Richard" target="Clifford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Richard" target="Edward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Richard" target="Young Clifford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Servants" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servants" target="Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servants" target="Sheriff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servants" target="Stanley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Sheriff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Stanley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Simpcox" target="Townsman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Simpcox" target="Mayor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Simpcox" target="Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beadle" target="Mayor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beadle" target="Townsman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mayor" target="Cade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mayor" target="First Citizen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mayor" target="Townsman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Scales" target="Cade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Scales" target="Smith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Scales" target="First Citizen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edward" target="Iden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edward" target="Clifford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edward" target="Young Clifford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Smith" target="Holland">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Smith" target="Clerk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Smith" target="Cade">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Smith" target="Dick">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Smith" target="Bevis">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Smith" target="Michael">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Smith" target="Sir Humphrey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Smith" target="William Stafford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Smith" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stanley" target="Sheriff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stanley" target="Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Neighbour" target="Second Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Neighbour" target="Third Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sheriff" target="Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clerk" target="Bevis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clerk" target="Holland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clerk" target="Cade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clerk" target="Dick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clerk" target="Michael">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clerk" target="Sir Humphrey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clerk" target="William Stafford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cade" target="Bevis">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cade" target="Dick">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Cade" target="Captain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cade" target="William Stafford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cade" target="Sir Humphrey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cade" target="Messenger">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Cade" target="Iden">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Cade" target="Clifford">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Cade" target="Holland">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cade" target="Michael">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Murderer" target="Second Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Murderer" target="First Murder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Murderer" target="Vaux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Iden" target="Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Iden" target="Clifford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Iden" target="Young Clifford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="Sir Humphrey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="Dick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="Holland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="Bevis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="Clifford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vaux" target="Second Murderer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vaux" target="First Murder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Captain" target="Whitmore">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Captain" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Captain" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Whitmore" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Whitmore" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Gentleman" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bevis" target="Holland">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bevis" target="Dick">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bevis" target="Michael">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bevis" target="Sir Humphrey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bevis" target="William Stafford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Holland" target="Dick">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Holland" target="Michael">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Holland" target="Sir Humphrey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Holland" target="William Stafford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dick" target="Michael">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dick" target="Sir Humphrey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dick" target="William Stafford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Michael" target="Sir Humphrey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Michael" target="William Stafford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Humphrey" target="Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Humphrey" target="William Stafford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clifford" target="Young Clifford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Second Neighbour" target="Third Neighbour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Murderer" target="First Murder">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

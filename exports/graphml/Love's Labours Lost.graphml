@@ -1,556 +1,562 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
-<key id="d0" for="node" attr.name="size" attr.type="long"/>
-<graph edgedefault="directed"><node id="Biron">
-  <data key="d0">10</data>
-</node>
-<node id="Ferdinand">
-  <data key="d0">10</data>
-</node>
-<node id="Dumain">
-  <data key="d0">10</data>
-</node>
-<node id="Longaville">
-  <data key="d0">10</data>
-</node>
-<node id="Armado">
-  <data key="d0">10</data>
-</node>
-<node id="Costard">
-  <data key="d0">10</data>
-</node>
-<node id="Jaquenetta">
-  <data key="d0">10</data>
-</node>
-<node id="Dull">
-  <data key="d0">10</data>
-</node>
-<node id="Adriano De Armado">
-  <data key="d0">10</data>
-</node>
-<node id="Moth">
-  <data key="d0">10</data>
-</node>
-<node id="Boyet">
-  <data key="d0">10</data>
-</node>
-<node id="Princess">
-  <data key="d0">10</data>
-</node>
-<node id="First Lord">
-  <data key="d0">10</data>
-</node>
-<node id="Maria">
-  <data key="d0">10</data>
-</node>
-<node id="Katharine">
-  <data key="d0">10</data>
-</node>
-<node id="Rosaline">
-  <data key="d0">10</data>
-</node>
-<node id="Holofernes">
-  <data key="d0">10</data>
-</node>
-<node id="Sir Nathaniel">
-  <data key="d0">10</data>
-</node>
-<node id="Mercade">
-  <data key="d0">10</data>
-</node>
-<node id="Forester">
-  <data key="d0">10</data>
-</node>
-<node id="Here Stand I">
-  <data key="d0">10</data>
-</node>
-<edge source="Biron" target="Ferdinand">
-  <data key="d1">9</data>
-</edge>
-<edge source="Biron" target="Longaville">
-  <data key="d1">4</data>
-</edge>
-<edge source="Biron" target="Rosaline">
-  <data key="d1">6</data>
-</edge>
-<edge source="Biron" target="Maria">
-  <data key="d1">2</data>
-</edge>
-<edge source="Biron" target="Costard">
-  <data key="d1">6</data>
-</edge>
-<edge source="Biron" target="Jaquenetta">
-  <data key="d1">2</data>
-</edge>
-<edge source="Biron" target="Holofernes">
-  <data key="d1">2</data>
-</edge>
-<edge source="Biron" target="Dumain">
-  <data key="d1">7</data>
-</edge>
-<edge source="Biron" target="Princess">
-  <data key="d1">6</data>
-</edge>
-<edge source="Biron" target="Boyet">
-  <data key="d1">2</data>
-</edge>
-<edge source="Biron" target="Dull">
-  <data key="d1">1</data>
-</edge>
-<edge source="Biron" target="First Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Biron" target="Katharine">
-  <data key="d1">2</data>
-</edge>
-<edge source="Biron" target="Moth">
-  <data key="d1">2</data>
-</edge>
-<edge source="Biron" target="Here Stand I">
-  <data key="d1">1</data>
-</edge>
-<edge source="Biron" target="Sir Nathaniel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Biron" target="Mercade">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ferdinand" target="Longaville">
-  <data key="d1">5</data>
-</edge>
-<edge source="Ferdinand" target="Princess">
-  <data key="d1">2</data>
-</edge>
-<edge source="Ferdinand" target="Maria">
-  <data key="d1">3</data>
-</edge>
-<edge source="Ferdinand" target="First Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ferdinand" target="Katharine">
-  <data key="d1">2</data>
-</edge>
-<edge source="Ferdinand" target="Rosaline">
-  <data key="d1">2</data>
-</edge>
-<edge source="Ferdinand" target="Jaquenetta">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ferdinand" target="Moth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ferdinand" target="Here Stand I">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ferdinand" target="Sir Nathaniel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ferdinand" target="Holofernes">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ferdinand" target="Mercade">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dumain" target="Ferdinand">
-  <data key="d1">4</data>
-</edge>
-<edge source="Dumain" target="Katharine">
-  <data key="d1">2</data>
-</edge>
-<edge source="Dumain" target="Longaville">
-  <data key="d1">5</data>
-</edge>
-<edge source="Dumain" target="Princess">
-  <data key="d1">2</data>
-</edge>
-<edge source="Dumain" target="Maria">
-  <data key="d1">3</data>
-</edge>
-<edge source="Dumain" target="First Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dumain" target="Rosaline">
-  <data key="d1">2</data>
-</edge>
-<edge source="Dumain" target="Jaquenetta">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dumain" target="Moth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dumain" target="Here Stand I">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dumain" target="Sir Nathaniel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dumain" target="Holofernes">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dumain" target="Mercade">
-  <data key="d1">1</data>
-</edge>
-<edge source="Longaville" target="Maria">
-  <data key="d1">4</data>
-</edge>
-<edge source="Longaville" target="Princess">
-  <data key="d1">2</data>
-</edge>
-<edge source="Longaville" target="Rosaline">
-  <data key="d1">2</data>
-</edge>
-<edge source="Longaville" target="Moth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Longaville" target="Sir Nathaniel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Longaville" target="Mercade">
-  <data key="d1">1</data>
-</edge>
-<edge source="Armado" target="Ferdinand">
-  <data key="d1">5</data>
-</edge>
-<edge source="Armado" target="Biron">
-  <data key="d1">1</data>
-</edge>
-<edge source="Armado" target="Boyet">
-  <data key="d1">1</data>
-</edge>
-<edge source="Armado" target="Costard">
-  <data key="d1">2</data>
-</edge>
-<edge source="Armado" target="Jaquenetta">
-  <data key="d1">2</data>
-</edge>
-<edge source="Armado" target="Sir Nathaniel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Armado" target="Moth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Armado" target="Dull">
-  <data key="d1">1</data>
-</edge>
-<edge source="Costard" target="Longaville">
-  <data key="d1">3</data>
-</edge>
-<edge source="Costard" target="Jaquenetta">
-  <data key="d1">8</data>
-</edge>
-<edge source="Costard" target="Dull">
-  <data key="d1">4</data>
-</edge>
-<edge source="Costard" target="Moth">
-  <data key="d1">5</data>
-</edge>
-<edge source="Costard" target="Rosaline">
-  <data key="d1">3</data>
-</edge>
-<edge source="Costard" target="Ferdinand">
-  <data key="d1">3</data>
-</edge>
-<edge source="Costard" target="Dumain">
-  <data key="d1">3</data>
-</edge>
-<edge source="Costard" target="Princess">
-  <data key="d1">2</data>
-</edge>
-<edge source="Costard" target="Forester">
-  <data key="d1">1</data>
-</edge>
-<edge source="Costard" target="Maria">
-  <data key="d1">2</data>
-</edge>
-<edge source="Costard" target="Sir Nathaniel">
-  <data key="d1">3</data>
-</edge>
-<edge source="Costard" target="Holofernes">
-  <data key="d1">3</data>
-</edge>
-<edge source="Costard" target="Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Costard" target="Here Stand I">
-  <data key="d1">1</data>
-</edge>
-<edge source="Costard" target="Mercade">
-  <data key="d1">1</data>
-</edge>
-<edge source="Jaquenetta" target="Moth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Jaquenetta" target="Sir Nathaniel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Jaquenetta" target="Longaville">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dull" target="Ferdinand">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dull" target="Jaquenetta">
-  <data key="d1">2</data>
-</edge>
-<edge source="Dull" target="Holofernes">
-  <data key="d1">4</data>
-</edge>
-<edge source="Dull" target="Longaville">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dull" target="Dumain">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dull" target="Moth">
-  <data key="d1">2</data>
-</edge>
-<edge source="Dull" target="Sir Nathaniel">
-  <data key="d1">2</data>
-</edge>
-<edge source="Adriano De Armado" target="Moth">
-  <data key="d1">4</data>
-</edge>
-<edge source="Adriano De Armado" target="Costard">
-  <data key="d1">4</data>
-</edge>
-<edge source="Adriano De Armado" target="Jaquenetta">
-  <data key="d1">3</data>
-</edge>
-<edge source="Adriano De Armado" target="Armado">
-  <data key="d1">2</data>
-</edge>
-<edge source="Adriano De Armado" target="Longaville">
-  <data key="d1">1</data>
-</edge>
-<edge source="Adriano De Armado" target="Dull">
-  <data key="d1">2</data>
-</edge>
-<edge source="Adriano De Armado" target="Biron">
-  <data key="d1">2</data>
-</edge>
-<edge source="Adriano De Armado" target="Holofernes">
-  <data key="d1">2</data>
-</edge>
-<edge source="Adriano De Armado" target="Sir Nathaniel">
-  <data key="d1">2</data>
-</edge>
-<edge source="Adriano De Armado" target="Princess">
-  <data key="d1">1</data>
-</edge>
-<edge source="Adriano De Armado" target="Rosaline">
-  <data key="d1">1</data>
-</edge>
-<edge source="Adriano De Armado" target="Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Adriano De Armado" target="Maria">
-  <data key="d1">1</data>
-</edge>
-<edge source="Adriano De Armado" target="Boyet">
-  <data key="d1">1</data>
-</edge>
-<edge source="Adriano De Armado" target="Ferdinand">
-  <data key="d1">1</data>
-</edge>
-<edge source="Adriano De Armado" target="Dumain">
-  <data key="d1">1</data>
-</edge>
-<edge source="Adriano De Armado" target="Here Stand I">
-  <data key="d1">1</data>
-</edge>
-<edge source="Adriano De Armado" target="Mercade">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moth" target="Sir Nathaniel">
-  <data key="d1">2</data>
-</edge>
-<edge source="Moth" target="Princess">
-  <data key="d1">1</data>
-</edge>
-<edge source="Moth" target="Rosaline">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boyet" target="Princess">
-  <data key="d1">8</data>
-</edge>
-<edge source="Boyet" target="First Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boyet" target="Katharine">
-  <data key="d1">2</data>
-</edge>
-<edge source="Boyet" target="Rosaline">
-  <data key="d1">3</data>
-</edge>
-<edge source="Boyet" target="Jaquenetta">
-  <data key="d1">2</data>
-</edge>
-<edge source="Boyet" target="Maria">
-  <data key="d1">3</data>
-</edge>
-<edge source="Boyet" target="Ferdinand">
-  <data key="d1">2</data>
-</edge>
-<edge source="Boyet" target="Dumain">
-  <data key="d1">2</data>
-</edge>
-<edge source="Boyet" target="Longaville">
-  <data key="d1">2</data>
-</edge>
-<edge source="Boyet" target="Forester">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boyet" target="Costard">
-  <data key="d1">2</data>
-</edge>
-<edge source="Boyet" target="Moth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boyet" target="Here Stand I">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boyet" target="Sir Nathaniel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boyet" target="Holofernes">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boyet" target="Mercade">
-  <data key="d1">1</data>
-</edge>
-<edge source="Princess" target="Rosaline">
-  <data key="d1">6</data>
-</edge>
-<edge source="Princess" target="Sir Nathaniel">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Longaville">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Princess">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Maria">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Rosaline">
-  <data key="d1">1</data>
-</edge>
-<edge source="Maria" target="Princess">
-  <data key="d1">3</data>
-</edge>
-<edge source="Maria" target="Rosaline">
-  <data key="d1">3</data>
-</edge>
-<edge source="Maria" target="Moth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Maria" target="Sir Nathaniel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Maria" target="Mercade">
-  <data key="d1">1</data>
-</edge>
-<edge source="Katharine" target="Princess">
-  <data key="d1">2</data>
-</edge>
-<edge source="Katharine" target="Longaville">
-  <data key="d1">3</data>
-</edge>
-<edge source="Katharine" target="Maria">
-  <data key="d1">2</data>
-</edge>
-<edge source="Katharine" target="Rosaline">
-  <data key="d1">2</data>
-</edge>
-<edge source="Katharine" target="Moth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Katharine" target="Sir Nathaniel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Katharine" target="Mercade">
-  <data key="d1">1</data>
-</edge>
-<edge source="Rosaline" target="Sir Nathaniel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Holofernes" target="Sir Nathaniel">
-  <data key="d1">8</data>
-</edge>
-<edge source="Holofernes" target="Rosaline">
-  <data key="d1">2</data>
-</edge>
-<edge source="Holofernes" target="Jaquenetta">
-  <data key="d1">1</data>
-</edge>
-<edge source="Holofernes" target="Moth">
-  <data key="d1">2</data>
-</edge>
-<edge source="Holofernes" target="Princess">
-  <data key="d1">1</data>
-</edge>
-<edge source="Holofernes" target="Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Holofernes" target="Maria">
-  <data key="d1">1</data>
-</edge>
-<edge source="Holofernes" target="Longaville">
-  <data key="d1">1</data>
-</edge>
-<edge source="Holofernes" target="Mercade">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mercade" target="Princess">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mercade" target="Rosaline">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mercade" target="Moth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mercade" target="Sir Nathaniel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Forester" target="Princess">
-  <data key="d1">1</data>
-</edge>
-<edge source="Forester" target="Rosaline">
-  <data key="d1">1</data>
-</edge>
-<edge source="Forester" target="Maria">
-  <data key="d1">1</data>
-</edge>
-<edge source="Here Stand I" target="Princess">
-  <data key="d1">1</data>
-</edge>
-<edge source="Here Stand I" target="Rosaline">
-  <data key="d1">1</data>
-</edge>
-<edge source="Here Stand I" target="Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Here Stand I" target="Maria">
-  <data key="d1">1</data>
-</edge>
-<edge source="Here Stand I" target="Moth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Here Stand I" target="Longaville">
-  <data key="d1">1</data>
-</edge>
-<edge source="Here Stand I" target="Sir Nathaniel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Here Stand I" target="Holofernes">
-  <data key="d1">1</data>
-</edge>
-<edge source="Here Stand I" target="Mercade">
-  <data key="d1">1</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Ferdinand">
+      <data key="d0">10</data>
+    </node>
+    <node id="Longaville">
+      <data key="d0">10</data>
+    </node>
+    <node id="Dumain">
+      <data key="d0">10</data>
+    </node>
+    <node id="Biron">
+      <data key="d0">10</data>
+    </node>
+    <node id="Princess">
+      <data key="d0">10</data>
+    </node>
+    <node id="Armado">
+      <data key="d0">10</data>
+    </node>
+    <node id="Costard">
+      <data key="d0">10</data>
+    </node>
+    <node id="Jaquenetta">
+      <data key="d0">10</data>
+    </node>
+    <node id="Moth">
+      <data key="d0">10</data>
+    </node>
+    <node id="Dull">
+      <data key="d0">10</data>
+    </node>
+    <node id="Adriano De Armado">
+      <data key="d0">10</data>
+    </node>
+    <node id="Boyet">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Lord">
+      <data key="d0">10</data>
+    </node>
+    <node id="Maria">
+      <data key="d0">10</data>
+    </node>
+    <node id="Katharine">
+      <data key="d0">10</data>
+    </node>
+    <node id="Rosaline">
+      <data key="d0">10</data>
+    </node>
+    <node id="Forester">
+      <data key="d0">10</data>
+    </node>
+    <node id="Holofernes">
+      <data key="d0">10</data>
+    </node>
+    <node id="Sir Nathaniel">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mercade">
+      <data key="d0">10</data>
+    </node>
+    <node id="Here Stand I">
+      <data key="d0">10</data>
+    </node>
+    <edge source="Ferdinand" target="Longaville">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Ferdinand" target="Dumain">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Ferdinand" target="Biron">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Ferdinand" target="Armado">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Ferdinand" target="Costard">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Ferdinand" target="Moth">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ferdinand" target="Dull">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ferdinand" target="Jaquenetta">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ferdinand" target="Adriano De Armado">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ferdinand" target="Princess">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Ferdinand" target="Maria">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Ferdinand" target="Boyet">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ferdinand" target="First Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ferdinand" target="Katharine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ferdinand" target="Rosaline">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ferdinand" target="Here Stand I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ferdinand" target="Sir Nathaniel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ferdinand" target="Holofernes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ferdinand" target="Mercade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Longaville" target="Biron">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Longaville" target="Costard">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Longaville" target="First Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Longaville" target="Maria">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Longaville" target="Dumain">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Longaville" target="Katharine">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Longaville" target="Adriano De Armado">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Longaville" target="Dull">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Longaville" target="Boyet">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Longaville" target="Princess">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Longaville" target="Rosaline">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Longaville" target="Jaquenetta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Longaville" target="Moth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Longaville" target="Here Stand I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Longaville" target="Sir Nathaniel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Longaville" target="Holofernes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Longaville" target="Mercade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dumain" target="Katharine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dumain" target="Biron">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Dumain" target="Princess">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dumain" target="Maria">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dumain" target="Boyet">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dumain" target="Dull">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dumain" target="Costard">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dumain" target="First Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dumain" target="Rosaline">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dumain" target="Jaquenetta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dumain" target="Moth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dumain" target="Here Stand I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dumain" target="Adriano De Armado">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dumain" target="Sir Nathaniel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dumain" target="Holofernes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dumain" target="Mercade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Biron" target="Princess">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Biron" target="Armado">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Biron" target="Rosaline">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Biron" target="Maria">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Biron" target="Costard">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Biron" target="Jaquenetta">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Biron" target="Holofernes">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Biron" target="Moth">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Biron" target="Boyet">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Biron" target="Dull">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Biron" target="First Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Biron" target="Katharine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Biron" target="Adriano De Armado">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Biron" target="Here Stand I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Biron" target="Sir Nathaniel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Biron" target="Mercade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Princess" target="Boyet">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Princess" target="Forester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Princess" target="Dull">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Princess" target="Holofernes">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Princess" target="Adriano De Armado">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Princess" target="Rosaline">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Princess" target="Katharine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Princess" target="Mercade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Princess" target="First Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Princess" target="Maria">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Princess" target="Costard">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Princess" target="Moth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Princess" target="Here Stand I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Princess" target="Sir Nathaniel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Armado" target="Boyet">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Armado" target="Costard">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Armado" target="Jaquenetta">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Armado" target="Sir Nathaniel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Armado" target="Adriano De Armado">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Armado" target="Moth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Armado" target="Dull">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Costard" target="Jaquenetta">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Costard" target="Adriano De Armado">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Costard" target="Dull">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Costard" target="Moth">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Costard" target="Rosaline">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Costard" target="Sir Nathaniel">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Costard" target="Boyet">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Costard" target="Forester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Costard" target="Maria">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Costard" target="Holofernes">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Costard" target="Katharine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Costard" target="Here Stand I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Costard" target="Mercade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaquenetta" target="Dull">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jaquenetta" target="Adriano De Armado">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Jaquenetta" target="Boyet">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jaquenetta" target="Moth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaquenetta" target="Sir Nathaniel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaquenetta" target="Holofernes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Moth" target="Adriano De Armado">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Moth" target="Boyet">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Moth" target="Rosaline">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Moth" target="Dull">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Moth" target="Holofernes">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Moth" target="Sir Nathaniel">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Moth" target="Katharine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Moth" target="Maria">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Moth" target="Here Stand I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Moth" target="Mercade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dull" target="Adriano De Armado">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dull" target="Sir Nathaniel">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dull" target="Holofernes">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Adriano De Armado" target="Boyet">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Adriano De Armado" target="Sir Nathaniel">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Adriano De Armado" target="Holofernes">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Adriano De Armado" target="Maria">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adriano De Armado" target="Rosaline">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adriano De Armado" target="Katharine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adriano De Armado" target="Here Stand I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adriano De Armado" target="Mercade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boyet" target="First Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boyet" target="Katharine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Boyet" target="Rosaline">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Boyet" target="Maria">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Boyet" target="Forester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boyet" target="Here Stand I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boyet" target="Sir Nathaniel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boyet" target="Holofernes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boyet" target="Mercade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="Maria">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="Katharine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="Rosaline">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Maria" target="Katharine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Maria" target="Rosaline">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Maria" target="Forester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Maria" target="Here Stand I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Maria" target="Sir Nathaniel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Maria" target="Holofernes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Maria" target="Mercade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Katharine" target="Rosaline">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Katharine" target="Here Stand I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Katharine" target="Sir Nathaniel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Katharine" target="Holofernes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Katharine" target="Mercade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rosaline" target="Holofernes">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Rosaline" target="Forester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rosaline" target="Here Stand I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rosaline" target="Sir Nathaniel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rosaline" target="Mercade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Holofernes" target="Sir Nathaniel">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Holofernes" target="Here Stand I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Holofernes" target="Mercade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Nathaniel" target="Here Stand I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Nathaniel" target="Mercade">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mercade" target="Here Stand I">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

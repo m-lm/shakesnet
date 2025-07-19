@@ -1,385 +1,430 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
-<key id="d0" for="node" attr.name="size" attr.type="long"/>
-<graph edgedefault="directed"><node id="Countess">
-  <data key="d0">10</data>
-</node>
-<node id="Helena">
-  <data key="d0">10</data>
-</node>
-<node id="Bertram">
-  <data key="d0">10</data>
-</node>
-<node id="Page">
-  <data key="d0">10</data>
-</node>
-<node id="Parolles">
-  <data key="d0">10</data>
-</node>
-<node id="First Lord">
-  <data key="d0">10</data>
-</node>
-<node id="Clown">
-  <data key="d0">10</data>
-</node>
-<node id="King">
-  <data key="d0">10</data>
-</node>
-<node id="Second Lord">
-  <data key="d0">10</data>
-</node>
-<node id="Lafeu">
-  <data key="d0">10</data>
-</node>
-<node id="Both">
-  <data key="d0">10</data>
-</node>
-<node id="Diana">
-  <data key="d0">10</data>
-</node>
-<node id="Mariana">
-  <data key="d0">10</data>
-</node>
-<node id="Widow">
-  <data key="d0">10</data>
-</node>
-<node id="Steward">
-  <data key="d0">10</data>
-</node>
-<node id="Fourth Lord">
-  <data key="d0">10</data>
-</node>
-<node id="Duke">
-  <data key="d0">10</data>
-</node>
-<node id="First Gentleman">
-  <data key="d0">10</data>
-</node>
-<node id="Second Gentleman">
-  <data key="d0">10</data>
-</node>
-<node id="First Soldier">
-  <data key="d0">10</data>
-</node>
-<node id="Second Soldier">
-  <data key="d0">10</data>
-</node>
-<node id="Servant">
-  <data key="d0">10</data>
-</node>
-<node id="Gentleman">
-  <data key="d0">10</data>
-</node>
-<edge source="Countess" target="Helena">
-  <data key="d1">4</data>
-</edge>
-<edge source="Countess" target="Parolles">
-  <data key="d1">3</data>
-</edge>
-<edge source="Countess" target="Lafeu">
-  <data key="d1">3</data>
-</edge>
-<edge source="Countess" target="Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="Countess" target="Steward">
-  <data key="d1">2</data>
-</edge>
-<edge source="Countess" target="First Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Countess" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Countess" target="King">
-  <data key="d1">1</data>
-</edge>
-<edge source="Countess" target="Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Countess" target="Diana">
-  <data key="d1">1</data>
-</edge>
-<edge source="Countess" target="Widow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Helena" target="Parolles">
-  <data key="d1">7</data>
-</edge>
-<edge source="Helena" target="Lafeu">
-  <data key="d1">5</data>
-</edge>
-<edge source="Helena" target="Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="Helena" target="Steward">
-  <data key="d1">1</data>
-</edge>
-<edge source="Helena" target="King">
-  <data key="d1">3</data>
-</edge>
-<edge source="Helena" target="Second Lord">
-  <data key="d1">2</data>
-</edge>
-<edge source="Helena" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Helena" target="Widow">
-  <data key="d1">5</data>
-</edge>
-<edge source="Helena" target="Mariana">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bertram" target="Countess">
-  <data key="d1">3</data>
-</edge>
-<edge source="Bertram" target="Helena">
-  <data key="d1">6</data>
-</edge>
-<edge source="Bertram" target="First Lord">
-  <data key="d1">5</data>
-</edge>
-<edge source="Bertram" target="King">
-  <data key="d1">5</data>
-</edge>
-<edge source="Bertram" target="Parolles">
-  <data key="d1">7</data>
-</edge>
-<edge source="Bertram" target="Both">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bertram" target="Lafeu">
-  <data key="d1">5</data>
-</edge>
-<edge source="Bertram" target="Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bertram" target="Second Lord">
-  <data key="d1">5</data>
-</edge>
-<edge source="Bertram" target="Fourth Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bertram" target="Duke">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bertram" target="Diana">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bertram" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bertram" target="First Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bertram" target="Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bertram" target="Widow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Page" target="Parolles">
-  <data key="d1">1</data>
-</edge>
-<edge source="Parolles" target="Second Lord">
-  <data key="d1">5</data>
-</edge>
-<edge source="Parolles" target="Widow">
-  <data key="d1">2</data>
-</edge>
-<edge source="Parolles" target="Second Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Parolles" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Lafeu">
-  <data key="d1">3</data>
-</edge>
-<edge source="First Lord" target="Parolles">
-  <data key="d1">4</data>
-</edge>
-<edge source="First Lord" target="King">
-  <data key="d1">3</data>
-</edge>
-<edge source="First Lord" target="Second Lord">
-  <data key="d1">6</data>
-</edge>
-<edge source="First Lord" target="Helena">
-  <data key="d1">2</data>
-</edge>
-<edge source="First Lord" target="Fourth Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="First Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clown" target="King">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clown" target="Countess">
-  <data key="d1">4</data>
-</edge>
-<edge source="Clown" target="Steward">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clown" target="Helena">
-  <data key="d1">3</data>
-</edge>
-<edge source="Clown" target="Parolles">
-  <data key="d1">2</data>
-</edge>
-<edge source="Clown" target="First Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clown" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clown" target="Lafeu">
-  <data key="d1">2</data>
-</edge>
-<edge source="King" target="Lafeu">
-  <data key="d1">4</data>
-</edge>
-<edge source="King" target="Second Lord">
-  <data key="d1">3</data>
-</edge>
-<edge source="King" target="Parolles">
-  <data key="d1">3</data>
-</edge>
-<edge source="King" target="Widow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Lord" target="Second Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Lord" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lafeu" target="Second Lord">
-  <data key="d1">3</data>
-</edge>
-<edge source="Lafeu" target="Parolles">
-  <data key="d1">6</data>
-</edge>
-<edge source="Lafeu" target="Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lafeu" target="Widow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="Lafeu">
-  <data key="d1">2</data>
-</edge>
-<edge source="Both" target="Widow">
-  <data key="d1">2</data>
-</edge>
-<edge source="Both" target="King">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="First Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="Second Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="Parolles">
-  <data key="d1">2</data>
-</edge>
-<edge source="Both" target="Helena">
-  <data key="d1">2</data>
-</edge>
-<edge source="Both" target="Diana">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="Mariana">
-  <data key="d1">1</data>
-</edge>
-<edge source="Diana" target="Mariana">
-  <data key="d1">2</data>
-</edge>
-<edge source="Diana" target="Parolles">
-  <data key="d1">3</data>
-</edge>
-<edge source="Diana" target="First Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Diana" target="Helena">
-  <data key="d1">3</data>
-</edge>
-<edge source="Diana" target="Widow">
-  <data key="d1">3</data>
-</edge>
-<edge source="Diana" target="King">
-  <data key="d1">1</data>
-</edge>
-<edge source="Diana" target="Lafeu">
-  <data key="d1">1</data>
-</edge>
-<edge source="Diana" target="Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mariana" target="Parolles">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mariana" target="Widow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fourth Lord" target="Lafeu">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fourth Lord" target="Parolles">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fourth Lord" target="King">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fourth Lord" target="Helena">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fourth Lord" target="Second Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duke" target="First Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duke" target="Second Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Gentleman" target="Helena">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Gentleman" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Soldier" target="Second Lord">
-  <data key="d1">2</data>
-</edge>
-<edge source="First Soldier" target="Parolles">
-  <data key="d1">2</data>
-</edge>
-<edge source="First Soldier" target="Second Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Soldier" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gentleman" target="Helena">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gentleman" target="Widow">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gentleman" target="King">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gentleman" target="Lafeu">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gentleman" target="Parolles">
-  <data key="d1">1</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="King">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lafeu">
+      <data key="d0">10</data>
+    </node>
+    <node id="Countess">
+      <data key="d0">10</data>
+    </node>
+    <node id="Bertram">
+      <data key="d0">10</data>
+    </node>
+    <node id="Helena">
+      <data key="d0">10</data>
+    </node>
+    <node id="Servant">
+      <data key="d0">10</data>
+    </node>
+    <node id="Page">
+      <data key="d0">10</data>
+    </node>
+    <node id="Parolles">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Lord">
+      <data key="d0">10</data>
+    </node>
+    <node id="Both">
+      <data key="d0">10</data>
+    </node>
+    <node id="Clown">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Lord">
+      <data key="d0">10</data>
+    </node>
+    <node id="Duke">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Gentleman">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Gentleman">
+      <data key="d0">10</data>
+    </node>
+    <node id="Gentleman">
+      <data key="d0">10</data>
+    </node>
+    <node id="Widow">
+      <data key="d0">10</data>
+    </node>
+    <node id="Diana">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mariana">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Soldier">
+      <data key="d0">10</data>
+    </node>
+    <node id="Steward">
+      <data key="d0">10</data>
+    </node>
+    <node id="Fourth Lord">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Soldier">
+      <data key="d0">10</data>
+    </node>
+    <edge source="King" target="Lafeu">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="King" target="Countess">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="King" target="Bertram">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="King" target="Helena">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="King" target="Both">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="King" target="Clown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King" target="Parolles">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="King" target="Diana">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King" target="First Lord">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="King" target="Second Lord">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King" target="Gentleman">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King" target="Widow">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King" target="Fourth Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lafeu" target="Both">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Lafeu" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lafeu" target="First Lord">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lafeu" target="Second Lord">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lafeu" target="Parolles">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Lafeu" target="Countess">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lafeu" target="Bertram">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Lafeu" target="Helena">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Lafeu" target="Page">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lafeu" target="Fourth Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lafeu" target="Clown">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lafeu" target="Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lafeu" target="Diana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lafeu" target="Widow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Countess" target="Helena">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Countess" target="Bertram">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Countess" target="Parolles">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Countess" target="Both">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Countess" target="Page">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Countess" target="Steward">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Countess" target="Clown">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Countess" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Countess" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Countess" target="Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Countess" target="Diana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Countess" target="Widow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bertram" target="Helena">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Bertram" target="Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bertram" target="First Lord">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Bertram" target="Parolles">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Bertram" target="Second Lord">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Bertram" target="Both">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Bertram" target="Duke">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Bertram" target="Page">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bertram" target="Fourth Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bertram" target="Diana">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bertram" target="First Soldier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bertram" target="Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bertram" target="Widow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helena" target="Parolles">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Helena" target="Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Helena" target="Both">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Helena" target="Diana">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Helena" target="Page">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helena" target="Steward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helena" target="Clown">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Helena" target="First Lord">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Helena" target="Second Lord">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Helena" target="Fourth Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helena" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helena" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helena" target="Widow">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Helena" target="Mariana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helena" target="Gentleman">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Servant" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Duke">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Servant" target="Widow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="First Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Second Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="First Soldier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Parolles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Page" target="Parolles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Parolles" target="Second Lord">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Parolles" target="Mariana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Parolles" target="Diana">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Parolles" target="First Lord">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Parolles" target="Duke">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Parolles" target="First Soldier">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Parolles" target="Gentleman">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Parolles" target="Both">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Parolles" target="Fourth Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Parolles" target="Clown">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Parolles" target="Widow">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Parolles" target="Second Soldier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="Duke">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="First Lord" target="Diana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="Second Lord">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="First Lord" target="Both">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="Fourth Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="First Soldier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Both" target="Clown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Both" target="Diana">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Both" target="Widow">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Both" target="Second Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Both" target="Mariana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clown" target="Duke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clown" target="Steward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clown" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clown" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Lord" target="Fourth Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Lord" target="Duke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Lord" target="First Soldier">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Second Lord" target="Second Soldier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duke" target="Second Gentleman">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Duke" target="Widow">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Duke" target="First Soldier">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Second Gentleman" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Gentleman" target="Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gentleman" target="Widow">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Gentleman" target="Diana">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Widow" target="Diana">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Widow" target="Mariana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Diana" target="Mariana">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="First Soldier" target="Second Soldier">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

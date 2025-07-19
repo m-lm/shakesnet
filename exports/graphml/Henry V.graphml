@@ -1,811 +1,871 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
-<key id="d0" for="node" attr.name="size" attr.type="long"/>
-<graph edgedefault="directed"><node id="Canterbury">
-  <data key="d0">10</data>
-</node>
-<node id="King Henry V">
-  <data key="d0">10</data>
-</node>
-<node id="Queen Isabel">
-  <data key="d0">10</data>
-</node>
-<node id="Dauphin">
-  <data key="d0">10</data>
-</node>
-<node id="First Ambassador">
-  <data key="d0">10</data>
-</node>
-<node id="Cambridge">
-  <data key="d0">10</data>
-</node>
-<node id="Chorus">
-  <data key="d0">10</data>
-</node>
-<node id="Scroop">
-  <data key="d0">10</data>
-</node>
-<node id="Grey">
-  <data key="d0">10</data>
-</node>
-<node id="Bardolph">
-  <data key="d0">10</data>
-</node>
-<node id="Nym">
-  <data key="d0">10</data>
-</node>
-<node id="Pistol">
-  <data key="d0">10</data>
-</node>
-<node id="Hostess">
-  <data key="d0">10</data>
-</node>
-<node id="Boy">
-  <data key="d0">10</data>
-</node>
-<node id="Exeter">
-  <data key="d0">10</data>
-</node>
-<node id="Westmoreland">
-  <data key="d0">10</data>
-</node>
-<node id="King Of France">
-  <data key="d0">10</data>
-</node>
-<node id="Orleans">
-  <data key="d0">10</data>
-</node>
-<node id="Constable">
-  <data key="d0">10</data>
-</node>
-<node id="Katharine">
-  <data key="d0">10</data>
-</node>
-<node id="Fluellen">
-  <data key="d0">10</data>
-</node>
-<node id="Gower">
-  <data key="d0">10</data>
-</node>
-<node id="Gloucester">
-  <data key="d0">10</data>
-</node>
-<node id="Macmorris">
-  <data key="d0">10</data>
-</node>
-<node id="Jamy">
-  <data key="d0">10</data>
-</node>
-<node id="Governor">
-  <data key="d0">10</data>
-</node>
-<node id="Alice">
-  <data key="d0">10</data>
-</node>
-<node id="Montjoy">
-  <data key="d0">10</data>
-</node>
-<node id="Bourbon">
-  <data key="d0">10</data>
-</node>
-<node id="Burgundy">
-  <data key="d0">10</data>
-</node>
-<node id="Rambures">
-  <data key="d0">10</data>
-</node>
-<node id="Grandpre">
-  <data key="d0">10</data>
-</node>
-<node id="Messenger">
-  <data key="d0">10</data>
-</node>
-<node id="Bedford">
-  <data key="d0">10</data>
-</node>
-<node id="Erpingham">
-  <data key="d0">10</data>
-</node>
-<node id="Bates">
-  <data key="d0">10</data>
-</node>
-<node id="Court">
-  <data key="d0">10</data>
-</node>
-<node id="Salisbury">
-  <data key="d0">10</data>
-</node>
-<node id="Warwick">
-  <data key="d0">10</data>
-</node>
-<node id="Herald">
-  <data key="d0">10</data>
-</node>
-<node id="York">
-  <data key="d0">10</data>
-</node>
-<node id="Williams">
-  <data key="d0">10</data>
-</node>
-<node id="Ely">
-  <data key="d0">10</data>
-</node>
-<node id="French Soldier">
-  <data key="d0">10</data>
-</node>
-<node id="French King">
-  <data key="d0">10</data>
-</node>
-<edge source="Canterbury" target="King Henry V">
-  <data key="d1">1</data>
-</edge>
-<edge source="Canterbury" target="Queen Isabel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Canterbury" target="Ely">
-  <data key="d1">2</data>
-</edge>
-<edge source="Canterbury" target="Exeter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Canterbury" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Canterbury" target="First Ambassador">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry V" target="Scroop">
-  <data key="d1">3</data>
-</edge>
-<edge source="King Henry V" target="Westmoreland">
-  <data key="d1">5</data>
-</edge>
-<edge source="King Henry V" target="Montjoy">
-  <data key="d1">4</data>
-</edge>
-<edge source="King Henry V" target="Warwick">
-  <data key="d1">5</data>
-</edge>
-<edge source="King Henry V" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry V" target="York">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Henry V" target="Rambures">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry V" target="Pistol">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Henry V" target="Williams">
-  <data key="d1">3</data>
-</edge>
-<edge source="King Henry V" target="King Of France">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry V" target="Queen Isabel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Isabel" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dauphin" target="King Henry V">
-  <data key="d1">10</data>
-</edge>
-<edge source="Dauphin" target="First Ambassador">
-  <data key="d1">2</data>
-</edge>
-<edge source="Dauphin" target="King Of France">
-  <data key="d1">2</data>
-</edge>
-<edge source="Dauphin" target="Exeter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dauphin" target="Governor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Dauphin" target="Orleans">
-  <data key="d1">4</data>
-</edge>
-<edge source="Dauphin" target="Messenger">
-  <data key="d1">3</data>
-</edge>
-<edge source="Dauphin" target="Rambures">
-  <data key="d1">2</data>
-</edge>
-<edge source="Dauphin" target="Grandpre">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Ambassador" target="King Henry V">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Ambassador" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cambridge" target="Chorus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cambridge" target="King Henry V">
-  <data key="d1">5</data>
-</edge>
-<edge source="Cambridge" target="Exeter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cambridge" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cambridge" target="Scroop">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cambridge" target="Grey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chorus" target="Scroop">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chorus" target="Grey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chorus" target="Katharine">
-  <data key="d1">2</data>
-</edge>
-<edge source="Chorus" target="King Henry V">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chorus" target="King Of France">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chorus" target="Queen Isabel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chorus" target="French King">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chorus" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chorus" target="Exeter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Scroop" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Grey" target="King Henry V">
-  <data key="d1">2</data>
-</edge>
-<edge source="Grey" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Grey" target="Scroop">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Nym">
-  <data key="d1">6</data>
-</edge>
-<edge source="Bardolph" target="Pistol">
-  <data key="d1">8</data>
-</edge>
-<edge source="Bardolph" target="Boy">
-  <data key="d1">6</data>
-</edge>
-<edge source="Bardolph" target="Fluellen">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bardolph" target="Hostess">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bardolph" target="Gower">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Jamy">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Macmorris">
-  <data key="d1">1</data>
-</edge>
-<edge source="Nym" target="Pistol">
-  <data key="d1">6</data>
-</edge>
-<edge source="Pistol" target="Williams">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hostess" target="Nym">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hostess" target="Pistol">
-  <data key="d1">2</data>
-</edge>
-<edge source="Boy" target="Pistol">
-  <data key="d1">4</data>
-</edge>
-<edge source="Boy" target="Nym">
-  <data key="d1">5</data>
-</edge>
-<edge source="Boy" target="Hostess">
-  <data key="d1">2</data>
-</edge>
-<edge source="Boy" target="Fluellen">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boy" target="Gower">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boy" target="Jamy">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boy" target="Macmorris">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boy" target="French Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="King Henry V">
-  <data key="d1">9</data>
-</edge>
-<edge source="Exeter" target="Scroop">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="Grey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="Gower">
-  <data key="d1">3</data>
-</edge>
-<edge source="Exeter" target="Fluellen">
-  <data key="d1">5</data>
-</edge>
-<edge source="Exeter" target="Pistol">
-  <data key="d1">2</data>
-</edge>
-<edge source="Exeter" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="York">
-  <data key="d1">3</data>
-</edge>
-<edge source="Exeter" target="Orleans">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="Westmoreland">
-  <data key="d1">4</data>
-</edge>
-<edge source="Exeter" target="First Ambassador">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="King Of France">
-  <data key="d1">2</data>
-</edge>
-<edge source="Exeter" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="Gloucester">
-  <data key="d1">2</data>
-</edge>
-<edge source="Exeter" target="Montjoy">
-  <data key="d1">2</data>
-</edge>
-<edge source="Exeter" target="Williams">
-  <data key="d1">2</data>
-</edge>
-<edge source="Exeter" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="Queen Isabel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="French King">
-  <data key="d1">1</data>
-</edge>
-<edge source="Westmoreland" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Of France" target="Orleans">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Of France" target="Montjoy">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Of France" target="Rambures">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Of France" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Of France" target="Queen Isabel">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Of France" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Orleans" target="Rambures">
-  <data key="d1">2</data>
-</edge>
-<edge source="Constable" target="Dauphin">
-  <data key="d1">5</data>
-</edge>
-<edge source="Constable" target="Montjoy">
-  <data key="d1">1</data>
-</edge>
-<edge source="Constable" target="King Of France">
-  <data key="d1">2</data>
-</edge>
-<edge source="Constable" target="Messenger">
-  <data key="d1">3</data>
-</edge>
-<edge source="Constable" target="Exeter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Constable" target="Orleans">
-  <data key="d1">3</data>
-</edge>
-<edge source="Constable" target="Rambures">
-  <data key="d1">2</data>
-</edge>
-<edge source="Constable" target="Grandpre">
-  <data key="d1">1</data>
-</edge>
-<edge source="Katharine" target="King Henry V">
-  <data key="d1">8</data>
-</edge>
-<edge source="Katharine" target="King Of France">
-  <data key="d1">1</data>
-</edge>
-<edge source="Katharine" target="Queen Isabel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Katharine" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fluellen" target="Gower">
-  <data key="d1">8</data>
-</edge>
-<edge source="Fluellen" target="Macmorris">
-  <data key="d1">5</data>
-</edge>
-<edge source="Fluellen" target="Jamy">
-  <data key="d1">2</data>
-</edge>
-<edge source="Fluellen" target="Pistol">
-  <data key="d1">7</data>
-</edge>
-<edge source="Fluellen" target="King Henry V">
-  <data key="d1">9</data>
-</edge>
-<edge source="Fluellen" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fluellen" target="Nym">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fluellen" target="Montjoy">
-  <data key="d1">2</data>
-</edge>
-<edge source="Fluellen" target="Gloucester">
-  <data key="d1">3</data>
-</edge>
-<edge source="Fluellen" target="Williams">
-  <data key="d1">3</data>
-</edge>
-<edge source="Fluellen" target="Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gower" target="Jamy">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gower" target="Macmorris">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gower" target="Williams">
-  <data key="d1">3</data>
-</edge>
-<edge source="Gower" target="King Henry V">
-  <data key="d1">4</data>
-</edge>
-<edge source="Gower" target="Nym">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gower" target="Pistol">
-  <data key="d1">4</data>
-</edge>
-<edge source="Gower" target="Montjoy">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gower" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gower" target="Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Gower">
-  <data key="d1">5</data>
-</edge>
-<edge source="Gloucester" target="King Henry V">
-  <data key="d1">6</data>
-</edge>
-<edge source="Gloucester" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Pistol">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gloucester" target="Montjoy">
-  <data key="d1">3</data>
-</edge>
-<edge source="Gloucester" target="Williams">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gloucester" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Macmorris" target="Nym">
-  <data key="d1">1</data>
-</edge>
-<edge source="Macmorris" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="Jamy" target="Nym">
-  <data key="d1">1</data>
-</edge>
-<edge source="Jamy" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="Jamy" target="Macmorris">
-  <data key="d1">1</data>
-</edge>
-<edge source="Governor" target="King Henry V">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alice" target="Katharine">
-  <data key="d1">3</data>
-</edge>
-<edge source="Alice" target="King Henry V">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alice" target="King Of France">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alice" target="Queen Isabel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alice" target="Burgundy">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alice" target="French King">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alice" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alice" target="Exeter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alice" target="Chorus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Montjoy" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="Montjoy" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Montjoy" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Montjoy" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Montjoy" target="Williams">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bourbon" target="King Of France">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bourbon" target="Exeter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bourbon" target="Constable">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bourbon" target="Dauphin">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bourbon" target="Orleans">
-  <data key="d1">1</data>
-</edge>
-<edge source="Burgundy" target="King Of France">
-  <data key="d1">2</data>
-</edge>
-<edge source="Burgundy" target="King Henry V">
-  <data key="d1">4</data>
-</edge>
-<edge source="Burgundy" target="Queen Isabel">
-  <data key="d1">1</data>
-</edge>
-<edge source="Burgundy" target="Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Burgundy" target="French King">
-  <data key="d1">1</data>
-</edge>
-<edge source="Burgundy" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Burgundy" target="Exeter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Burgundy" target="Chorus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Grandpre" target="King Of France">
-  <data key="d1">1</data>
-</edge>
-<edge source="Grandpre" target="Messenger">
-  <data key="d1">2</data>
-</edge>
-<edge source="Grandpre" target="King Henry V">
-  <data key="d1">1</data>
-</edge>
-<edge source="Grandpre" target="Orleans">
-  <data key="d1">1</data>
-</edge>
-<edge source="Grandpre" target="Rambures">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Orleans">
-  <data key="d1">2</data>
-</edge>
-<edge source="Messenger" target="Rambures">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bedford" target="King Henry V">
-  <data key="d1">3</data>
-</edge>
-<edge source="Bedford" target="Salisbury">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bedford" target="Exeter">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bedford" target="Westmoreland">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bedford" target="Scroop">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bedford" target="Cambridge">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bedford" target="Grey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bedford" target="Gloucester">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bedford" target="Montjoy">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bedford" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Erpingham" target="King Henry V">
-  <data key="d1">2</data>
-</edge>
-<edge source="Erpingham" target="Gloucester">
-  <data key="d1">1</data>
-</edge>
-<edge source="Erpingham" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="Erpingham" target="Gower">
-  <data key="d1">1</data>
-</edge>
-<edge source="Erpingham" target="Fluellen">
-  <data key="d1">1</data>
-</edge>
-<edge source="Erpingham" target="Williams">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bates" target="Court">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bates" target="King Henry V">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bates" target="Erpingham">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bates" target="Gloucester">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bates" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bates" target="Gower">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bates" target="Fluellen">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bates" target="Williams">
-  <data key="d1">1</data>
-</edge>
-<edge source="Court" target="King Henry V">
-  <data key="d1">1</data>
-</edge>
-<edge source="Court" target="Erpingham">
-  <data key="d1">1</data>
-</edge>
-<edge source="Court" target="Gloucester">
-  <data key="d1">1</data>
-</edge>
-<edge source="Court" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="Court" target="Gower">
-  <data key="d1">1</data>
-</edge>
-<edge source="Court" target="Fluellen">
-  <data key="d1">1</data>
-</edge>
-<edge source="Court" target="Williams">
-  <data key="d1">1</data>
-</edge>
-<edge source="Salisbury" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Salisbury" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Warwick" target="Williams">
-  <data key="d1">1</data>
-</edge>
-<edge source="Herald" target="King Henry V">
-  <data key="d1">2</data>
-</edge>
-<edge source="Herald" target="Williams">
-  <data key="d1">1</data>
-</edge>
-<edge source="Herald" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ely" target="King Henry V">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ely" target="Exeter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ely" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ely" target="First Ambassador">
-  <data key="d1">1</data>
-</edge>
-<edge source="French Soldier" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="French King" target="King Henry V">
-  <data key="d1">1</data>
-</edge>
-<edge source="French King" target="King Of France">
-  <data key="d1">1</data>
-</edge>
-<edge source="French King" target="Queen Isabel">
-  <data key="d1">1</data>
-</edge>
-<edge source="French King" target="Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="French King" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Chorus">
+      <data key="d0">10</data>
+    </node>
+    <node id="Court">
+      <data key="d0">10</data>
+    </node>
+    <node id="Canterbury">
+      <data key="d0">10</data>
+    </node>
+    <node id="King Henry V">
+      <data key="d0">10</data>
+    </node>
+    <node id="Ely">
+      <data key="d0">10</data>
+    </node>
+    <node id="Queen Isabel">
+      <data key="d0">10</data>
+    </node>
+    <node id="Westmoreland">
+      <data key="d0">10</data>
+    </node>
+    <node id="Dauphin">
+      <data key="d0">10</data>
+    </node>
+    <node id="Messenger">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Ambassador">
+      <data key="d0">10</data>
+    </node>
+    <node id="Cambridge">
+      <data key="d0">10</data>
+    </node>
+    <node id="Scroop">
+      <data key="d0">10</data>
+    </node>
+    <node id="Grey">
+      <data key="d0">10</data>
+    </node>
+    <node id="Bardolph">
+      <data key="d0">10</data>
+    </node>
+    <node id="Nym">
+      <data key="d0">10</data>
+    </node>
+    <node id="Pistol">
+      <data key="d0">10</data>
+    </node>
+    <node id="Hostess">
+      <data key="d0">10</data>
+    </node>
+    <node id="Boy">
+      <data key="d0">10</data>
+    </node>
+    <node id="Exeter">
+      <data key="d0">10</data>
+    </node>
+    <node id="King Of France">
+      <data key="d0">10</data>
+    </node>
+    <node id="Orleans">
+      <data key="d0">10</data>
+    </node>
+    <node id="Constable">
+      <data key="d0">10</data>
+    </node>
+    <node id="Katharine">
+      <data key="d0">10</data>
+    </node>
+    <node id="Fluellen">
+      <data key="d0">10</data>
+    </node>
+    <node id="Gower">
+      <data key="d0">10</data>
+    </node>
+    <node id="Gloucester">
+      <data key="d0">10</data>
+    </node>
+    <node id="Macmorris">
+      <data key="d0">10</data>
+    </node>
+    <node id="Jamy">
+      <data key="d0">10</data>
+    </node>
+    <node id="Governor">
+      <data key="d0">10</data>
+    </node>
+    <node id="Alice">
+      <data key="d0">10</data>
+    </node>
+    <node id="Montjoy">
+      <data key="d0">10</data>
+    </node>
+    <node id="Herald">
+      <data key="d0">10</data>
+    </node>
+    <node id="Bourbon">
+      <data key="d0">10</data>
+    </node>
+    <node id="Burgundy">
+      <data key="d0">10</data>
+    </node>
+    <node id="Rambures">
+      <data key="d0">10</data>
+    </node>
+    <node id="Grandpre">
+      <data key="d0">10</data>
+    </node>
+    <node id="Bedford">
+      <data key="d0">10</data>
+    </node>
+    <node id="Erpingham">
+      <data key="d0">10</data>
+    </node>
+    <node id="Bates">
+      <data key="d0">10</data>
+    </node>
+    <node id="Salisbury">
+      <data key="d0">10</data>
+    </node>
+    <node id="Warwick">
+      <data key="d0">10</data>
+    </node>
+    <node id="French Soldier">
+      <data key="d0">10</data>
+    </node>
+    <node id="York">
+      <data key="d0">10</data>
+    </node>
+    <node id="Williams">
+      <data key="d0">10</data>
+    </node>
+    <node id="French King">
+      <data key="d0">10</data>
+    </node>
+    <edge source="Chorus" target="Court">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chorus" target="Ely">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chorus" target="Cambridge">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chorus" target="Scroop">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chorus" target="Grey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chorus" target="Boy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chorus" target="Katharine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chorus" target="King Henry V">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chorus" target="King Of France">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chorus" target="Queen Isabel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chorus" target="Burgundy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chorus" target="Alice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chorus" target="French King">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chorus" target="Westmoreland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chorus" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Court" target="King Henry V">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Court" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Court" target="Bates">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Court" target="Montjoy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Court" target="Erpingham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Court" target="Gloucester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Court" target="Pistol">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Court" target="Gower">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Court" target="Fluellen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Court" target="Williams">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Canterbury" target="King Henry V">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Canterbury" target="Queen Isabel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Canterbury" target="Ely">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Canterbury" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Canterbury" target="Westmoreland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Canterbury" target="First Ambassador">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry V" target="Ely">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="King Henry V" target="Dauphin">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="King Henry V" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry V" target="Cambridge">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="King Henry V" target="Exeter">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="King Henry V" target="Scroop">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry V" target="Grey">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry V" target="Westmoreland">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="King Henry V" target="King Of France">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry V" target="Governor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry V" target="Fluellen">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="King Henry V" target="Herald">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="King Henry V" target="Montjoy">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King Henry V" target="Gloucester">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="King Henry V" target="Bedford">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry V" target="Erpingham">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry V" target="Salisbury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry V" target="Warwick">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="King Henry V" target="Constable">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry V" target="French Soldier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry V" target="York">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry V" target="Gower">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King Henry V" target="Rambures">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry V" target="Burgundy">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King Henry V" target="Grandpre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry V" target="Katharine">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="King Henry V" target="Boy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry V" target="First Ambassador">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry V" target="Pistol">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry V" target="Bates">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry V" target="Williams">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry V" target="Queen Isabel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry V" target="Alice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry V" target="French King">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ely" target="Westmoreland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ely" target="First Ambassador">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ely" target="Exeter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ely" target="Gower">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ely" target="Pistol">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ely" target="Bedford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ely" target="Salisbury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ely" target="Burgundy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ely" target="Queen Isabel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ely" target="French King">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Isabel" target="King Of France">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Isabel" target="Burgundy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Isabel" target="Katharine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Isabel" target="Alice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Isabel" target="French King">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Isabel" target="Westmoreland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Isabel" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Exeter">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Westmoreland" target="First Ambassador">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Bedford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Westmoreland" target="Scroop">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Cambridge">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Grey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Gloucester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Salisbury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Montjoy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="York">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="King Of France">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Burgundy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Katharine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Alice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="French King">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dauphin" target="First Ambassador">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dauphin" target="King Of France">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dauphin" target="Constable">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Dauphin" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dauphin" target="Governor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dauphin" target="Orleans">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Dauphin" target="Messenger">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dauphin" target="Bourbon">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dauphin" target="Rambures">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dauphin" target="Grandpre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="Constable">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Messenger" target="Grandpre">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Messenger" target="King Of France">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="Orleans">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Messenger" target="Rambures">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="First Ambassador" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cambridge" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cambridge" target="Bedford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cambridge" target="Scroop">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cambridge" target="Grey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Scroop" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Scroop" target="Bedford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Scroop" target="Grey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Grey" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Grey" target="Bedford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Nym">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Bardolph" target="Pistol">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Bardolph" target="Boy">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Bardolph" target="Hostess">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bardolph" target="Fluellen">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bardolph" target="Gower">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Jamy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Macmorris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nym" target="Hostess">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Nym" target="Pistol">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Nym" target="Boy">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Nym" target="Fluellen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nym" target="Gower">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nym" target="Jamy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nym" target="Macmorris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pistol" target="Boy">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Pistol" target="Fluellen">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Pistol" target="Exeter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pistol" target="Hostess">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pistol" target="Gower">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Pistol" target="Jamy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pistol" target="Macmorris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pistol" target="Montjoy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pistol" target="Gloucester">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pistol" target="Erpingham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pistol" target="Bates">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pistol" target="Williams">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pistol" target="French Soldier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hostess" target="Boy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Boy" target="Gower">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Boy" target="Burgundy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boy" target="Fluellen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boy" target="Jamy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boy" target="Macmorris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boy" target="French Soldier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Exeter" target="Gower">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Exeter" target="Fluellen">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Exeter" target="Salisbury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Exeter" target="York">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Exeter" target="Herald">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Exeter" target="Orleans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Exeter" target="Bourbon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Exeter" target="King Of France">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Exeter" target="Bedford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Exeter" target="Constable">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Exeter" target="Gloucester">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Exeter" target="Montjoy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Exeter" target="Williams">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Exeter" target="Warwick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Exeter" target="Burgundy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Exeter" target="Katharine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Exeter" target="Alice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Exeter" target="French King">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Of France" target="Orleans">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Of France" target="Montjoy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Of France" target="Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Of France" target="Constable">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King Of France" target="Bourbon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Of France" target="Burgundy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Of France" target="Rambures">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Of France" target="Grandpre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Of France" target="Katharine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Of France" target="Alice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Of France" target="French King">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Orleans" target="Constable">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Orleans" target="Rambures">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Orleans" target="Grandpre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Orleans" target="Bourbon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Constable" target="Rambures">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Constable" target="Montjoy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Constable" target="Bourbon">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Constable" target="Grandpre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Katharine" target="Alice">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Katharine" target="Burgundy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Katharine" target="French King">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fluellen" target="Gower">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Fluellen" target="Macmorris">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Fluellen" target="Jamy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Fluellen" target="Warwick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fluellen" target="Montjoy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Fluellen" target="Gloucester">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Fluellen" target="Erpingham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fluellen" target="Bates">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fluellen" target="Williams">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Fluellen" target="Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gower" target="Gloucester">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Gower" target="Jamy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gower" target="Macmorris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gower" target="Williams">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Gower" target="Montjoy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gower" target="Erpingham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gower" target="Bates">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gower" target="Warwick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gower" target="Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Salisbury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Montjoy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Gloucester" target="Erpingham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Bates">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Williams">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gloucester" target="Bedford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="York">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Macmorris" target="Jamy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alice" target="Burgundy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alice" target="French King">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Montjoy" target="Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Montjoy" target="Bedford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Montjoy" target="Salisbury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Montjoy" target="York">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Montjoy" target="Williams">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Herald" target="Williams">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Herald" target="Warwick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Burgundy" target="French King">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rambures" target="Grandpre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bedford" target="Salisbury">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bedford" target="York">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Erpingham" target="Bates">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Erpingham" target="Williams">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bates" target="Williams">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="York">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Williams">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

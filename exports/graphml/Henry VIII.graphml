@@ -1,835 +1,1009 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
-<key id="d0" for="node" attr.name="size" attr.type="long"/>
-<graph edgedefault="directed"><node id="Buckingham">
-  <data key="d0">10</data>
-</node>
-<node id="Cardinal Wolsey">
-  <data key="d0">10</data>
-</node>
-<node id="Sergeant">
-  <data key="d0">10</data>
-</node>
-<node id="Abergavenny">
-  <data key="d0">10</data>
-</node>
-<node id="King Henry Viii">
-  <data key="d0">10</data>
-</node>
-<node id="Queen Katharine">
-  <data key="d0">10</data>
-</node>
-<node id="Surveyor">
-  <data key="d0">10</data>
-</node>
-<node id="Lovell">
-  <data key="d0">10</data>
-</node>
-<node id="Chamberlain">
-  <data key="d0">10</data>
-</node>
-<node id="Sands">
-  <data key="d0">10</data>
-</node>
-<node id="Guildford">
-  <data key="d0">10</data>
-</node>
-<node id="Anne">
-  <data key="d0">10</data>
-</node>
-<node id="Second Gentleman">
-  <data key="d0">10</data>
-</node>
-<node id="First Gentleman">
-  <data key="d0">10</data>
-</node>
-<node id="Surrey">
-  <data key="d0">10</data>
-</node>
-<node id="Vaux">
-  <data key="d0">10</data>
-</node>
-<node id="Katharine">
-  <data key="d0">10</data>
-</node>
-<node id="Cardinal Campeius">
-  <data key="d0">10</data>
-</node>
-<node id="Gardiner">
-  <data key="d0">10</data>
-</node>
-<node id="Old Lady">
-  <data key="d0">10</data>
-</node>
-<node id="Scribe">
-  <data key="d0">10</data>
-</node>
-<node id="Crier">
-  <data key="d0">10</data>
-</node>
-<node id="Lincoln">
-  <data key="d0">10</data>
-</node>
-<node id="Cranmer">
-  <data key="d0">10</data>
-</node>
-<node id="Both">
-  <data key="d0">10</data>
-</node>
-<node id="Suffolk">
-  <data key="d0">10</data>
-</node>
-<node id="Norfolk">
-  <data key="d0">10</data>
-</node>
-<node id="Cromwell">
-  <data key="d0">10</data>
-</node>
-<node id="Chancellor">
-  <data key="d0">10</data>
-</node>
-<node id="Garter">
-  <data key="d0">10</data>
-</node>
-<node id="Third Gentleman">
-  <data key="d0">10</data>
-</node>
-<node id="Griffith">
-  <data key="d0">10</data>
-</node>
-<node id="Patience">
-  <data key="d0">10</data>
-</node>
-<node id="Capucius">
-  <data key="d0">10</data>
-</node>
-<node id="Denny">
-  <data key="d0">10</data>
-</node>
-<node id="First Secretary">
-  <data key="d0">10</data>
-</node>
-<node id="Brandon">
-  <data key="d0">10</data>
-</node>
-<node id="Servant">
-  <data key="d0">10</data>
-</node>
-<node id="Gentleman">
-  <data key="d0">10</data>
-</node>
-<node id="Messenger">
-  <data key="d0">10</data>
-</node>
-<node id="Boy">
-  <data key="d0">10</data>
-</node>
-<node id="Keeper">
-  <data key="d0">10</data>
-</node>
-<node id="Doctor Butts">
-  <data key="d0">10</data>
-</node>
-<node id="Man">
-  <data key="d0">10</data>
-</node>
-<node id="Porter">
-  <data key="d0">10</data>
-</node>
-<edge source="Buckingham" target="Cardinal Wolsey">
-  <data key="d1">3</data>
-</edge>
-<edge source="Buckingham" target="Sergeant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="King Henry Viii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Queen Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Second Gentleman">
-  <data key="d1">3</data>
-</edge>
-<edge source="Buckingham" target="Lovell">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Surrey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Norfolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="First Secretary">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="First Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Buckingham" target="Vaux">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Sands">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Lovell">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Cromwell">
-  <data key="d1">13</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Cranmer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Surrey">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Norfolk">
-  <data key="d1">4</data>
-</edge>
-<edge source="Cardinal Wolsey" target="First Secretary">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Sergeant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Wolsey" target="King Henry Viii">
-  <data key="d1">5</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Queen Katharine">
-  <data key="d1">3</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Surveyor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Guildford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Chamberlain">
-  <data key="d1">3</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Suffolk">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Gardiner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Scribe">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Crier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Griffith">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Lincoln">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Wolsey" target="Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Abergavenny" target="Buckingham">
-  <data key="d1">1</data>
-</edge>
-<edge source="Abergavenny" target="Surveyor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Abergavenny" target="Norfolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Abergavenny" target="Cardinal Wolsey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Abergavenny" target="First Secretary">
-  <data key="d1">1</data>
-</edge>
-<edge source="Abergavenny" target="Brandon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Abergavenny" target="Sergeant">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Viii" target="Lincoln">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Viii" target="Lovell">
-  <data key="d1">3</data>
-</edge>
-<edge source="King Henry Viii" target="Norfolk">
-  <data key="d1">4</data>
-</edge>
-<edge source="King Henry Viii" target="Queen Katharine">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Henry Viii" target="Surveyor">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Viii" target="Sands">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Viii" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Viii" target="Suffolk">
-  <data key="d1">4</data>
-</edge>
-<edge source="King Henry Viii" target="Scribe">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Viii" target="Surrey">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Henry Viii" target="Old Lady">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Katharine" target="Surveyor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Katharine" target="Scribe">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lovell" target="Surveyor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lovell" target="Sands">
-  <data key="d1">2</data>
-</edge>
-<edge source="Lovell" target="Vaux">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lovell" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lovell" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lovell" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lovell" target="Old Lady">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chamberlain" target="Lovell">
-  <data key="d1">2</data>
-</edge>
-<edge source="Chamberlain" target="Sands">
-  <data key="d1">2</data>
-</edge>
-<edge source="Chamberlain" target="Guildford">
-  <data key="d1">2</data>
-</edge>
-<edge source="Chamberlain" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chamberlain" target="King Henry Viii">
-  <data key="d1">4</data>
-</edge>
-<edge source="Chamberlain" target="Norfolk">
-  <data key="d1">3</data>
-</edge>
-<edge source="Chamberlain" target="Suffolk">
-  <data key="d1">3</data>
-</edge>
-<edge source="Chamberlain" target="Gardiner">
-  <data key="d1">2</data>
-</edge>
-<edge source="Chamberlain" target="Old Lady">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chamberlain" target="Surrey">
-  <data key="d1">2</data>
-</edge>
-<edge source="Chamberlain" target="Cromwell">
-  <data key="d1">2</data>
-</edge>
-<edge source="Chamberlain" target="Chancellor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chamberlain" target="Keeper">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chamberlain" target="Cranmer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chamberlain" target="Porter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chamberlain" target="Man">
-  <data key="d1">1</data>
-</edge>
-<edge source="Sands" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Guildford" target="Sands">
-  <data key="d1">1</data>
-</edge>
-<edge source="Guildford" target="Lovell">
-  <data key="d1">1</data>
-</edge>
-<edge source="Guildford" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Guildford" target="King Henry Viii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Anne" target="Sands">
-  <data key="d1">1</data>
-</edge>
-<edge source="Anne" target="Old Lady">
-  <data key="d1">1</data>
-</edge>
-<edge source="Anne" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Anne" target="Cardinal Wolsey">
-  <data key="d1">3</data>
-</edge>
-<edge source="Anne" target="Cromwell">
-  <data key="d1">1</data>
-</edge>
-<edge source="Anne" target="First Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Anne" target="Guildford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Anne" target="Chamberlain">
-  <data key="d1">2</data>
-</edge>
-<edge source="Anne" target="Lovell">
-  <data key="d1">1</data>
-</edge>
-<edge source="Anne" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Anne" target="King Henry Viii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Gentleman" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Gentleman" target="Vaux">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Gentleman" target="Third Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Gentleman" target="Surrey">
-  <data key="d1">2</data>
-</edge>
-<edge source="First Gentleman" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Gentleman" target="Norfolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Gentleman" target="Second Gentleman">
-  <data key="d1">2</data>
-</edge>
-<edge source="First Gentleman" target="Lovell">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Gentleman" target="Vaux">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Gentleman" target="Third Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Katharine" target="Second Gentleman">
-  <data key="d1">2</data>
-</edge>
-<edge source="Katharine" target="Scribe">
-  <data key="d1">1</data>
-</edge>
-<edge source="Katharine" target="King Henry Viii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Katharine" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Katharine" target="Patience">
-  <data key="d1">3</data>
-</edge>
-<edge source="Katharine" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Campeius" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Campeius" target="Cardinal Wolsey">
-  <data key="d1">3</data>
-</edge>
-<edge source="Cardinal Campeius" target="Suffolk">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cardinal Campeius" target="Chamberlain">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Campeius" target="Norfolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Campeius" target="King Henry Viii">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cardinal Campeius" target="Gardiner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Campeius" target="Scribe">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Campeius" target="Crier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Campeius" target="Queen Katharine">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cardinal Campeius" target="Griffith">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Campeius" target="Lincoln">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Campeius" target="Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gardiner" target="King Henry Viii">
-  <data key="d1">5</data>
-</edge>
-<edge source="Gardiner" target="Third Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gardiner" target="Suffolk">
-  <data key="d1">3</data>
-</edge>
-<edge source="Gardiner" target="Lovell">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gardiner" target="Norfolk">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gardiner" target="Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gardiner" target="Old Lady">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gardiner" target="Keeper">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gardiner" target="Surrey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Old Lady" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Crier" target="Katharine">
-  <data key="d1">2</data>
-</edge>
-<edge source="Crier" target="King Henry Viii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Crier" target="Scribe">
-  <data key="d1">1</data>
-</edge>
-<edge source="Crier" target="Queen Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Crier" target="Griffith">
-  <data key="d1">1</data>
-</edge>
-<edge source="Crier" target="Lincoln">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lincoln" target="Scribe">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lincoln" target="Queen Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cranmer" target="King Henry Viii">
-  <data key="d1">5</data>
-</edge>
-<edge source="Cranmer" target="Norfolk">
-  <data key="d1">3</data>
-</edge>
-<edge source="Cranmer" target="Cromwell">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cranmer" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cranmer" target="Third Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cranmer" target="Gardiner">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cranmer" target="Lovell">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cranmer" target="Suffolk">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cranmer" target="Denny">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cranmer" target="Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cranmer" target="Old Lady">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cranmer" target="Keeper">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cranmer" target="Doctor Butts">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cranmer" target="Surrey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cranmer" target="Garter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="Cardinal Campeius">
-  <data key="d1">2</data>
-</edge>
-<edge source="Both" target="Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="Old Lady">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="Cranmer">
-  <data key="d1">2</data>
-</edge>
-<edge source="Both" target="First Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="Third Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Suffolk" target="Surrey">
-  <data key="d1">2</data>
-</edge>
-<edge source="Norfolk" target="Surrey">
-  <data key="d1">2</data>
-</edge>
-<edge source="Norfolk" target="Second Gentleman">
-  <data key="d1">3</data>
-</edge>
-<edge source="Norfolk" target="Sergeant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Norfolk" target="Queen Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Norfolk" target="Surveyor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Norfolk" target="Suffolk">
-  <data key="d1">3</data>
-</edge>
-<edge source="Cromwell" target="Third Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cromwell" target="Gardiner">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cromwell" target="Lovell">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cromwell" target="Norfolk">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cromwell" target="Surrey">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cromwell" target="Suffolk">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cromwell" target="King Henry Viii">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cromwell" target="Keeper">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chancellor" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chancellor" target="Cromwell">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chancellor" target="Gardiner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chancellor" target="Norfolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chancellor" target="Keeper">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chancellor" target="Cranmer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chancellor" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chancellor" target="Surrey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chancellor" target="King Henry Viii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Garter" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Garter" target="King Henry Viii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Griffith" target="Katharine">
-  <data key="d1">10</data>
-</edge>
-<edge source="Griffith" target="Patience">
-  <data key="d1">1</data>
-</edge>
-<edge source="Griffith" target="King Henry Viii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Griffith" target="Scribe">
-  <data key="d1">1</data>
-</edge>
-<edge source="Griffith" target="Queen Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Griffith" target="Lincoln">
-  <data key="d1">1</data>
-</edge>
-<edge source="Griffith" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Capucius" target="Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Capucius" target="Griffith">
-  <data key="d1">1</data>
-</edge>
-<edge source="Capucius" target="Patience">
-  <data key="d1">1</data>
-</edge>
-<edge source="Capucius" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Denny" target="King Henry Viii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Denny" target="Gardiner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Denny" target="Lovell">
-  <data key="d1">1</data>
-</edge>
-<edge source="Denny" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Denny" target="Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Denny" target="Old Lady">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Secretary" target="Norfolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Secretary" target="Sergeant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Brandon" target="Buckingham">
-  <data key="d1">1</data>
-</edge>
-<edge source="Brandon" target="Norfolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Brandon" target="Cardinal Wolsey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Brandon" target="First Secretary">
-  <data key="d1">1</data>
-</edge>
-<edge source="Brandon" target="Sergeant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gentleman" target="Queen Katharine">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gentleman" target="Lovell">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gentleman" target="King Henry Viii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gentleman" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gentleman" target="Old Lady">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Patience">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boy" target="Gardiner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boy" target="Lovell">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boy" target="King Henry Viii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boy" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boy" target="Denny">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boy" target="Cranmer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boy" target="Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boy" target="Old Lady">
-  <data key="d1">1</data>
-</edge>
-<edge source="Keeper" target="King Henry Viii">
-  <data key="d1">2</data>
-</edge>
-<edge source="Keeper" target="Norfolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Keeper" target="Suffolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Keeper" target="Surrey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Doctor Butts" target="Keeper">
-  <data key="d1">1</data>
-</edge>
-<edge source="Doctor Butts" target="King Henry Viii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Man" target="Porter">
-  <data key="d1">1</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Man">
+      <data key="d0">10</data>
+    </node>
+    <node id="Norfolk">
+      <data key="d0">10</data>
+    </node>
+    <node id="Both">
+      <data key="d0">10</data>
+    </node>
+    <node id="Buckingham">
+      <data key="d0">10</data>
+    </node>
+    <node id="Cardinal Wolsey">
+      <data key="d0">10</data>
+    </node>
+    <node id="Surveyor">
+      <data key="d0">10</data>
+    </node>
+    <node id="Brandon">
+      <data key="d0">10</data>
+    </node>
+    <node id="Sergeant">
+      <data key="d0">10</data>
+    </node>
+    <node id="Abergavenny">
+      <data key="d0">10</data>
+    </node>
+    <node id="Chancellor">
+      <data key="d0">10</data>
+    </node>
+    <node id="King Henry Viii">
+      <data key="d0">10</data>
+    </node>
+    <node id="Gentleman">
+      <data key="d0">10</data>
+    </node>
+    <node id="Anne">
+      <data key="d0">10</data>
+    </node>
+    <node id="Queen Katharine">
+      <data key="d0">10</data>
+    </node>
+    <node id="Patience">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lovell">
+      <data key="d0">10</data>
+    </node>
+    <node id="Servant">
+      <data key="d0">10</data>
+    </node>
+    <node id="Sands">
+      <data key="d0">10</data>
+    </node>
+    <node id="Chamberlain">
+      <data key="d0">10</data>
+    </node>
+    <node id="Guildford">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Gentleman">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Gentleman">
+      <data key="d0">10</data>
+    </node>
+    <node id="Surrey">
+      <data key="d0">10</data>
+    </node>
+    <node id="Vaux">
+      <data key="d0">10</data>
+    </node>
+    <node id="Katharine">
+      <data key="d0">10</data>
+    </node>
+    <node id="Cardinal Campeius">
+      <data key="d0">10</data>
+    </node>
+    <node id="Suffolk">
+      <data key="d0">10</data>
+    </node>
+    <node id="Gardiner">
+      <data key="d0">10</data>
+    </node>
+    <node id="Old Lady">
+      <data key="d0">10</data>
+    </node>
+    <node id="Boy">
+      <data key="d0">10</data>
+    </node>
+    <node id="Scribe">
+      <data key="d0">10</data>
+    </node>
+    <node id="Crier">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lincoln">
+      <data key="d0">10</data>
+    </node>
+    <node id="Cranmer">
+      <data key="d0">10</data>
+    </node>
+    <node id="Cromwell">
+      <data key="d0">10</data>
+    </node>
+    <node id="Garter">
+      <data key="d0">10</data>
+    </node>
+    <node id="Third Gentleman">
+      <data key="d0">10</data>
+    </node>
+    <node id="Griffith">
+      <data key="d0">10</data>
+    </node>
+    <node id="Messenger">
+      <data key="d0">10</data>
+    </node>
+    <node id="Capucius">
+      <data key="d0">10</data>
+    </node>
+    <node id="Denny">
+      <data key="d0">10</data>
+    </node>
+    <node id="Doctor Butts">
+      <data key="d0">10</data>
+    </node>
+    <node id="Porter">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Secretary">
+      <data key="d0">10</data>
+    </node>
+    <node id="Keeper">
+      <data key="d0">10</data>
+    </node>
+    <edge source="Man" target="Norfolk">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Man" target="Buckingham">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Man" target="King Henry Viii">
+      <data key="d1">32</data>
+    </edge>
+    <edge source="Man" target="Queen Katharine">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Man" target="Surveyor">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Man" target="Cardinal Wolsey">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="Man" target="Sands">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Man" target="Chamberlain">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Man" target="Lovell">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Man" target="First Gentleman">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Man" target="Cardinal Campeius">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Man" target="Gardiner">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Man" target="Anne">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Man" target="Old Lady">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Man" target="Surrey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Man" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Man" target="Third Gentleman">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Man" target="Both">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Man" target="Griffith">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Man" target="Katharine">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Man" target="Messenger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Man" target="Capucius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Man" target="Denny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Man" target="Cranmer">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Man" target="Doctor Butts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Man" target="Suffolk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Man" target="Cromwell">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Man" target="Porter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Man" target="Boy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Both">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Anne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Chamberlain">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Norfolk" target="King Henry Viii">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Norfolk" target="Suffolk">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Norfolk" target="Cranmer">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Norfolk" target="Surrey">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Norfolk" target="Scribe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Second Gentleman">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Norfolk" target="Buckingham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Abergavenny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Cardinal Wolsey">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Norfolk" target="First Secretary">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Brandon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Sergeant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Queen Katharine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Surveyor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Cardinal Campeius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Gardiner">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Norfolk" target="Cromwell">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Norfolk" target="Chancellor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Keeper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Both" target="Buckingham">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Both" target="Chamberlain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Both" target="Cardinal Campeius">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Both" target="Queen Katharine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Both" target="Katharine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Both" target="Old Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Both" target="Cranmer">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Both" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Both" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Both" target="Third Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Cardinal Wolsey">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Buckingham" target="Sergeant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Abergavenny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Surveyor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="King Henry Viii">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Queen Katharine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Second Gentleman">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Buckingham" target="Lovell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Buckingham" target="Surrey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="First Secretary">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Brandon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buckingham" target="Vaux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Surveyor">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Gentleman">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Sands">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Chamberlain">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Lovell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Cardinal Campeius">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Gardiner">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Anne">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Cromwell">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Cranmer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Surrey">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Boy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Katharine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Abergavenny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="First Secretary">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Brandon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Sergeant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="King Henry Viii">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Queen Katharine">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Guildford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Suffolk">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Scribe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Crier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Griffith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Wolsey" target="Lincoln">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Surveyor" target="Abergavenny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Surveyor" target="Queen Katharine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Surveyor" target="Lovell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Surveyor" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Surveyor" target="King Henry Viii">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brandon" target="Sergeant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brandon" target="Chancellor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brandon" target="Abergavenny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brandon" target="First Secretary">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sergeant" target="Abergavenny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sergeant" target="First Secretary">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Abergavenny" target="First Secretary">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chancellor" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chancellor" target="Cromwell">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chancellor" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chancellor" target="Gardiner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chancellor" target="Keeper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chancellor" target="Cranmer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chancellor" target="Suffolk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chancellor" target="Chamberlain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chancellor" target="Surrey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chancellor" target="King Henry Viii">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Viii" target="Gentleman">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King Henry Viii" target="Servant">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry Viii" target="Chamberlain">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King Henry Viii" target="Anne">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry Viii" target="Suffolk">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King Henry Viii" target="Gardiner">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="King Henry Viii" target="Lincoln">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Viii" target="Katharine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Viii" target="Cranmer">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="King Henry Viii" target="Lovell">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry Viii" target="Denny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Viii" target="Patience">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Viii" target="Boy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Viii" target="Queen Katharine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Viii" target="Guildford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Viii" target="Sands">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Viii" target="Cardinal Campeius">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Viii" target="Scribe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Viii" target="Crier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Viii" target="Griffith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Viii" target="Surrey">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Viii" target="Cromwell">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Viii" target="Old Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Viii" target="Keeper">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Viii" target="Doctor Butts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Viii" target="Garter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gentleman" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gentleman" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gentleman" target="Gardiner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gentleman" target="Cranmer">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gentleman" target="Queen Katharine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gentleman" target="Cardinal Campeius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gentleman" target="Boy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gentleman" target="Lovell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gentleman" target="Suffolk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gentleman" target="Denny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gentleman" target="Old Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne" target="Queen Katharine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Anne" target="Sands">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne" target="Old Lady">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Anne" target="Suffolk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne" target="Cromwell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne" target="Second Gentleman">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Anne" target="Griffith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne" target="Guildford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne" target="Chamberlain">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Anne" target="Lovell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Katharine" target="Patience">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Queen Katharine" target="Scribe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Katharine" target="Crier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Katharine" target="Cardinal Campeius">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Katharine" target="Griffith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Katharine" target="Lincoln">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Patience" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Patience" target="Cromwell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Patience" target="Katharine">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Patience" target="Griffith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Patience" target="Cranmer">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Patience" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Patience" target="Capucius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lovell" target="Chamberlain">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lovell" target="Sands">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lovell" target="Vaux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lovell" target="Gardiner">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lovell" target="Cromwell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lovell" target="Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lovell" target="Guildford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lovell" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lovell" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lovell" target="Boy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lovell" target="Suffolk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lovell" target="Denny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lovell" target="Cranmer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lovell" target="Old Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Cardinal Campeius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Capucius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Cranmer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Guildford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Chamberlain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Sands">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sands" target="Chamberlain">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sands" target="Old Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sands" target="Guildford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chamberlain" target="Guildford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chamberlain" target="Porter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chamberlain" target="Suffolk">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Chamberlain" target="Cardinal Campeius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chamberlain" target="Gardiner">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chamberlain" target="Old Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chamberlain" target="Surrey">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chamberlain" target="Cromwell">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chamberlain" target="Keeper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chamberlain" target="Cranmer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Gentleman" target="Katharine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Second Gentleman" target="Cardinal Campeius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Gentleman" target="Garter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Gentleman" target="Surrey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Gentleman" target="Suffolk">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Second Gentleman" target="Cranmer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Gentleman" target="First Gentleman">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Second Gentleman" target="Vaux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Gentleman" target="Third Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Gentleman" target="Surrey">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="First Gentleman" target="Suffolk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Gentleman" target="Vaux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Gentleman" target="Third Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Surrey" target="Suffolk">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Surrey" target="Cromwell">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Surrey" target="Gardiner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Surrey" target="Keeper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Surrey" target="Cranmer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Katharine" target="Scribe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Katharine" target="Crier">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Katharine" target="Suffolk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Katharine" target="Griffith">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Katharine" target="Capucius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Katharine" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Campeius" target="Suffolk">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cardinal Campeius" target="Gardiner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Campeius" target="Scribe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Campeius" target="Crier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Campeius" target="Griffith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Campeius" target="Lincoln">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Gardiner">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Suffolk" target="Cromwell">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Suffolk" target="Boy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Denny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Cranmer">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Suffolk" target="Old Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Suffolk" target="Keeper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gardiner" target="Third Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gardiner" target="Boy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gardiner" target="Cromwell">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gardiner" target="Cranmer">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gardiner" target="Denny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gardiner" target="Old Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gardiner" target="Keeper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Old Lady" target="Boy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Old Lady" target="Denny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Old Lady" target="Cranmer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boy" target="Cranmer">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Boy" target="Doctor Butts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boy" target="Denny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Scribe" target="Crier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Scribe" target="Griffith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Scribe" target="Lincoln">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Crier" target="Griffith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Crier" target="Lincoln">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lincoln" target="Griffith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cranmer" target="Cromwell">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cranmer" target="Third Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cranmer" target="Denny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cranmer" target="Keeper">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cranmer" target="Doctor Butts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cranmer" target="Garter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cromwell" target="Third Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cromwell" target="Keeper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Griffith" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Griffith" target="Capucius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="Capucius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Doctor Butts" target="Keeper">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

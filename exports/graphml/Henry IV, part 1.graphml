@@ -1,661 +1,685 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
-<key id="d0" for="node" attr.name="size" attr.type="long"/>
-<graph edgedefault="directed"><node id="King Henry Iv">
-  <data key="d0">10</data>
-</node>
-<node id="Westmoreland">
-  <data key="d0">10</data>
-</node>
-<node id="Mortimer">
-  <data key="d0">10</data>
-</node>
-<node id="Glendower">
-  <data key="d0">10</data>
-</node>
-<node id="Hotspur">
-  <data key="d0">10</data>
-</node>
-<node id="Sir Walter Blunt">
-  <data key="d0">10</data>
-</node>
-<node id="Northumberland">
-  <data key="d0">10</data>
-</node>
-<node id="Worcester">
-  <data key="d0">10</data>
-</node>
-<node id="Falstaff">
-  <data key="d0">10</data>
-</node>
-<node id="Poins">
-  <data key="d0">10</data>
-</node>
-<node id="Gadshill">
-  <data key="d0">10</data>
-</node>
-<node id="Bardolph">
-  <data key="d0">10</data>
-</node>
-<node id="Peto">
-  <data key="d0">10</data>
-</node>
-<node id="Earl Of Worcester">
-  <data key="d0">10</data>
-</node>
-<node id="Ostler">
-  <data key="d0">10</data>
-</node>
-<node id="Second Carrier">
-  <data key="d0">10</data>
-</node>
-<node id="Chamberlain">
-  <data key="d0">10</data>
-</node>
-<node id="Prince Henry">
-  <data key="d0">10</data>
-</node>
-<node id="Lady Percy">
-  <data key="d0">10</data>
-</node>
-<node id="Francis">
-  <data key="d0">10</data>
-</node>
-<node id="Hostess">
-  <data key="d0">10</data>
-</node>
-<node id="Lancaster">
-  <data key="d0">10</data>
-</node>
-<node id="Vernon">
-  <data key="d0">10</data>
-</node>
-<node id="Archbishop Of York">
-  <data key="d0">10</data>
-</node>
-<node id="Sir Michael">
-  <data key="d0">10</data>
-</node>
-<node id="Earl Of Douglas">
-  <data key="d0">10</data>
-</node>
-<node id="First Carrier">
-  <data key="d0">10</data>
-</node>
-<node id="First Traveller">
-  <data key="d0">10</data>
-</node>
-<node id="Thieves">
-  <data key="d0">10</data>
-</node>
-<node id="Travellers">
-  <data key="d0">10</data>
-</node>
-<node id="Servant">
-  <data key="d0">10</data>
-</node>
-<node id="Vintner">
-  <data key="d0">10</data>
-</node>
-<node id="Sheriff">
-  <data key="d0">10</data>
-</node>
-<node id="Carrier">
-  <data key="d0">10</data>
-</node>
-<node id="Scene Iii">
-  <data key="d0">10</data>
-</node>
-<node id="Messenger">
-  <data key="d0">10</data>
-</node>
-<edge source="King Henry Iv" target="Westmoreland">
-  <data key="d1">4</data>
-</edge>
-<edge source="King Henry Iv" target="Sir Walter Blunt">
-  <data key="d1">3</data>
-</edge>
-<edge source="King Henry Iv" target="Northumberland">
-  <data key="d1">4</data>
-</edge>
-<edge source="King Henry Iv" target="Worcester">
-  <data key="d1">5</data>
-</edge>
-<edge source="King Henry Iv" target="Mortimer">
-  <data key="d1">4</data>
-</edge>
-<edge source="King Henry Iv" target="Lancaster">
-  <data key="d1">3</data>
-</edge>
-<edge source="King Henry Iv" target="Vernon">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Iv" target="Prince Henry">
-  <data key="d1">4</data>
-</edge>
-<edge source="King Henry Iv" target="Scene Iii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Westmoreland" target="Worcester">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mortimer" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mortimer" target="Prince Henry">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mortimer" target="Worcester">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mortimer" target="Sir Walter Blunt">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mortimer" target="Sir Michael">
-  <data key="d1">1</data>
-</edge>
-<edge source="Glendower" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Glendower" target="King Henry Iv">
-  <data key="d1">4</data>
-</edge>
-<edge source="Glendower" target="Hotspur">
-  <data key="d1">7</data>
-</edge>
-<edge source="Glendower" target="Poins">
-  <data key="d1">1</data>
-</edge>
-<edge source="Glendower" target="Lancaster">
-  <data key="d1">1</data>
-</edge>
-<edge source="Glendower" target="Mortimer">
-  <data key="d1">4</data>
-</edge>
-<edge source="Glendower" target="Lady Percy">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hotspur" target="Westmoreland">
-  <data key="d1">3</data>
-</edge>
-<edge source="Hotspur" target="King Henry Iv">
-  <data key="d1">4</data>
-</edge>
-<edge source="Hotspur" target="Mortimer">
-  <data key="d1">13</data>
-</edge>
-<edge source="Hotspur" target="Prince Henry">
-  <data key="d1">5</data>
-</edge>
-<edge source="Hotspur" target="Worcester">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hotspur" target="Vernon">
-  <data key="d1">3</data>
-</edge>
-<edge source="Hotspur" target="Sir Walter Blunt">
-  <data key="d1">3</data>
-</edge>
-<edge source="Hotspur" target="Lancaster">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hotspur" target="Northumberland">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hotspur" target="Lady Percy">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hotspur" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hotspur" target="Messenger">
-  <data key="d1">2</data>
-</edge>
-<edge source="Sir Walter Blunt" target="Vernon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Northumberland" target="Sir Walter Blunt">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Poins">
-  <data key="d1">12</data>
-</edge>
-<edge source="Falstaff" target="Gadshill">
-  <data key="d1">4</data>
-</edge>
-<edge source="Falstaff" target="Peto">
-  <data key="d1">3</data>
-</edge>
-<edge source="Falstaff" target="Prince Henry">
-  <data key="d1">14</data>
-</edge>
-<edge source="Falstaff" target="Hostess">
-  <data key="d1">3</data>
-</edge>
-<edge source="Falstaff" target="Mortimer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Northumberland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Worcester">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Glendower">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Westmoreland">
-  <data key="d1">2</data>
-</edge>
-<edge source="Falstaff" target="Sir Walter Blunt">
-  <data key="d1">2</data>
-</edge>
-<edge source="Falstaff" target="First Traveller">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Thieves">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Travellers">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Francis">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Vintner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Sheriff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="King Henry Iv">
-  <data key="d1">3</data>
-</edge>
-<edge source="Falstaff" target="Scene Iii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Hotspur">
-  <data key="d1">2</data>
-</edge>
-<edge source="Falstaff" target="Lancaster">
-  <data key="d1">1</data>
-</edge>
-<edge source="Poins" target="Prince Henry">
-  <data key="d1">3</data>
-</edge>
-<edge source="Poins" target="Thieves">
-  <data key="d1">1</data>
-</edge>
-<edge source="Poins" target="Travellers">
-  <data key="d1">1</data>
-</edge>
-<edge source="Poins" target="Vintner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Poins" target="Sheriff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gadshill" target="Poins">
-  <data key="d1">5</data>
-</edge>
-<edge source="Gadshill" target="Ostler">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gadshill" target="Second Carrier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gadshill" target="Prince Henry">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gadshill" target="Peto">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gadshill" target="Thieves">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gadshill" target="Travellers">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gadshill" target="Vintner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gadshill" target="Hostess">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gadshill" target="Sheriff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Poins">
-  <data key="d1">3</data>
-</edge>
-<edge source="Bardolph" target="Falstaff">
-  <data key="d1">6</data>
-</edge>
-<edge source="Bardolph" target="Prince Henry">
-  <data key="d1">4</data>
-</edge>
-<edge source="Bardolph" target="Gadshill">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bardolph" target="Peto">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bardolph" target="First Traveller">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Thieves">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Travellers">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Francis">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Vintner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Hostess">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bardolph" target="Sheriff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Carrier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="King Henry Iv">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Sir Walter Blunt">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Scene Iii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peto" target="Poins">
-  <data key="d1">3</data>
-</edge>
-<edge source="Peto" target="Prince Henry">
-  <data key="d1">4</data>
-</edge>
-<edge source="Peto" target="Thieves">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peto" target="Travellers">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peto" target="Vintner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peto" target="Sheriff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Earl Of Worcester" target="Glendower">
-  <data key="d1">2</data>
-</edge>
-<edge source="Earl Of Worcester" target="Mortimer">
-  <data key="d1">2</data>
-</edge>
-<edge source="Earl Of Worcester" target="Lancaster">
-  <data key="d1">2</data>
-</edge>
-<edge source="Earl Of Worcester" target="Hotspur">
-  <data key="d1">5</data>
-</edge>
-<edge source="Earl Of Worcester" target="King Henry Iv">
-  <data key="d1">3</data>
-</edge>
-<edge source="Earl Of Worcester" target="Northumberland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Earl Of Worcester" target="Sir Walter Blunt">
-  <data key="d1">2</data>
-</edge>
-<edge source="Earl Of Worcester" target="Lady Percy">
-  <data key="d1">1</data>
-</edge>
-<edge source="Earl Of Worcester" target="Messenger">
-  <data key="d1">2</data>
-</edge>
-<edge source="Earl Of Worcester" target="Vernon">
-  <data key="d1">3</data>
-</edge>
-<edge source="Earl Of Worcester" target="Worcester">
-  <data key="d1">1</data>
-</edge>
-<edge source="Earl Of Worcester" target="Prince Henry">
-  <data key="d1">2</data>
-</edge>
-<edge source="Earl Of Worcester" target="Falstaff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ostler" target="Second Carrier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chamberlain" target="Gadshill">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chamberlain" target="First Carrier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chamberlain" target="Ostler">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chamberlain" target="Second Carrier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prince Henry" target="Westmoreland">
-  <data key="d1">3</data>
-</edge>
-<edge source="Prince Henry" target="Thieves">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prince Henry" target="Travellers">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prince Henry" target="Vintner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prince Henry" target="Sheriff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prince Henry" target="Sir Walter Blunt">
-  <data key="d1">2</data>
-</edge>
-<edge source="Prince Henry" target="Scene Iii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lady Percy" target="Mortimer">
-  <data key="d1">2</data>
-</edge>
-<edge source="Lady Percy" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Francis" target="Prince Henry">
-  <data key="d1">15</data>
-</edge>
-<edge source="Francis" target="Poins">
-  <data key="d1">7</data>
-</edge>
-<edge source="Francis" target="Vintner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Francis" target="Gadshill">
-  <data key="d1">1</data>
-</edge>
-<edge source="Francis" target="Peto">
-  <data key="d1">1</data>
-</edge>
-<edge source="Francis" target="Hostess">
-  <data key="d1">1</data>
-</edge>
-<edge source="Francis" target="Sheriff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hostess" target="Prince Henry">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hostess" target="Poins">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hostess" target="Vintner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hostess" target="Peto">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hostess" target="Sheriff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hostess" target="King Henry Iv">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hostess" target="Sir Walter Blunt">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hostess" target="Scene Iii">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lancaster" target="Prince Henry">
-  <data key="d1">3</data>
-</edge>
-<edge source="Lancaster" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Vernon" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Vernon" target="Worcester">
-  <data key="d1">2</data>
-</edge>
-<edge source="Archbishop Of York" target="Sir Michael">
-  <data key="d1">5</data>
-</edge>
-<edge source="Archbishop Of York" target="Northumberland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Archbishop Of York" target="Glendower">
-  <data key="d1">1</data>
-</edge>
-<edge source="Archbishop Of York" target="Mortimer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Archbishop Of York" target="Lancaster">
-  <data key="d1">1</data>
-</edge>
-<edge source="Archbishop Of York" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Sir Michael" target="Vernon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Sir Michael" target="Worcester">
-  <data key="d1">1</data>
-</edge>
-<edge source="Earl Of Douglas" target="Westmoreland">
-  <data key="d1">3</data>
-</edge>
-<edge source="Earl Of Douglas" target="Hotspur">
-  <data key="d1">5</data>
-</edge>
-<edge source="Earl Of Douglas" target="Messenger">
-  <data key="d1">2</data>
-</edge>
-<edge source="Earl Of Douglas" target="Earl Of Worcester">
-  <data key="d1">3</data>
-</edge>
-<edge source="Earl Of Douglas" target="Vernon">
-  <data key="d1">3</data>
-</edge>
-<edge source="Earl Of Douglas" target="Worcester">
-  <data key="d1">1</data>
-</edge>
-<edge source="Earl Of Douglas" target="Sir Walter Blunt">
-  <data key="d1">2</data>
-</edge>
-<edge source="Earl Of Douglas" target="Falstaff">
-  <data key="d1">2</data>
-</edge>
-<edge source="Earl Of Douglas" target="Prince Henry">
-  <data key="d1">2</data>
-</edge>
-<edge source="Earl Of Douglas" target="King Henry Iv">
-  <data key="d1">1</data>
-</edge>
-<edge source="Earl Of Douglas" target="Lancaster">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Carrier" target="Ostler">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Carrier" target="Second Carrier">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Carrier" target="Gadshill">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Traveller" target="Poins">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Traveller" target="Prince Henry">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Traveller" target="Gadshill">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Traveller" target="Peto">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Traveller" target="Thieves">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Traveller" target="Travellers">
-  <data key="d1">1</data>
-</edge>
-<edge source="Thieves" target="Travellers">
-  <data key="d1">1</data>
-</edge>
-<edge source="Sheriff" target="Vintner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Carrier" target="Prince Henry">
-  <data key="d1">1</data>
-</edge>
-<edge source="Carrier" target="Poins">
-  <data key="d1">1</data>
-</edge>
-<edge source="Carrier" target="Francis">
-  <data key="d1">1</data>
-</edge>
-<edge source="Carrier" target="Vintner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Carrier" target="Falstaff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Carrier" target="Gadshill">
-  <data key="d1">1</data>
-</edge>
-<edge source="Carrier" target="Peto">
-  <data key="d1">1</data>
-</edge>
-<edge source="Carrier" target="Hostess">
-  <data key="d1">1</data>
-</edge>
-<edge source="Carrier" target="Sheriff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Scene Iii" target="Sir Walter Blunt">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Vernon">
-  <data key="d1">2</data>
-</edge>
-<edge source="Messenger" target="Worcester">
-  <data key="d1">1</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="King Henry Iv">
+      <data key="d0">10</data>
+    </node>
+    <node id="Westmoreland">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mortimer">
+      <data key="d0">10</data>
+    </node>
+    <node id="Glendower">
+      <data key="d0">10</data>
+    </node>
+    <node id="Hotspur">
+      <data key="d0">10</data>
+    </node>
+    <node id="Sir Walter Blunt">
+      <data key="d0">10</data>
+    </node>
+    <node id="Earl Of Douglas">
+      <data key="d0">10</data>
+    </node>
+    <node id="Northumberland">
+      <data key="d0">10</data>
+    </node>
+    <node id="Worcester">
+      <data key="d0">10</data>
+    </node>
+    <node id="Falstaff">
+      <data key="d0">10</data>
+    </node>
+    <node id="Thieves">
+      <data key="d0">10</data>
+    </node>
+    <node id="Hostess">
+      <data key="d0">10</data>
+    </node>
+    <node id="Prince Henry">
+      <data key="d0">10</data>
+    </node>
+    <node id="Poins">
+      <data key="d0">10</data>
+    </node>
+    <node id="Gadshill">
+      <data key="d0">10</data>
+    </node>
+    <node id="Bardolph">
+      <data key="d0">10</data>
+    </node>
+    <node id="Peto">
+      <data key="d0">10</data>
+    </node>
+    <node id="Servant">
+      <data key="d0">10</data>
+    </node>
+    <node id="Earl Of Worcester">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Carrier">
+      <data key="d0">10</data>
+    </node>
+    <node id="Ostler">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Carrier">
+      <data key="d0">10</data>
+    </node>
+    <node id="Carrier">
+      <data key="d0">10</data>
+    </node>
+    <node id="Chamberlain">
+      <data key="d0">10</data>
+    </node>
+    <node id="Travellers">
+      <data key="d0">10</data>
+    </node>
+    <node id="Sheriff">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lady Percy">
+      <data key="d0">10</data>
+    </node>
+    <node id="Francis">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lancaster">
+      <data key="d0">10</data>
+    </node>
+    <node id="Vernon">
+      <data key="d0">10</data>
+    </node>
+    <node id="Archbishop Of York">
+      <data key="d0">10</data>
+    </node>
+    <node id="Sir Michael">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Traveller">
+      <data key="d0">10</data>
+    </node>
+    <node id="Vintner">
+      <data key="d0">10</data>
+    </node>
+    <node id="Scene Iii">
+      <data key="d0">10</data>
+    </node>
+    <node id="Messenger">
+      <data key="d0">10</data>
+    </node>
+    <edge source="King Henry Iv" target="Westmoreland">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King Henry Iv" target="Sir Walter Blunt">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry Iv" target="Earl Of Douglas">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Iv" target="Hotspur">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King Henry Iv" target="Northumberland">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King Henry Iv" target="Worcester">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="King Henry Iv" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Iv" target="Mortimer">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King Henry Iv" target="Glendower">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King Henry Iv" target="Lancaster">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry Iv" target="Vernon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Iv" target="Earl Of Worcester">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry Iv" target="Prince Henry">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King Henry Iv" target="Scene Iii">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Iv" target="Falstaff">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry Iv" target="Bardolph">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Iv" target="Hostess">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Mortimer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Glendower">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Hotspur">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Westmoreland" target="Worcester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Prince Henry">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Westmoreland" target="Vernon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Falstaff">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Westmoreland" target="Archbishop Of York">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Earl Of Douglas">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Westmoreland" target="Lancaster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Bardolph">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mortimer" target="Hotspur">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Mortimer" target="Earl Of Worcester">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mortimer" target="Lady Percy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mortimer" target="Prince Henry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mortimer" target="Falstaff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mortimer" target="Glendower">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mortimer" target="Worcester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mortimer" target="Sir Walter Blunt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mortimer" target="Sir Michael">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mortimer" target="Archbishop Of York">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glendower" target="Hotspur">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Glendower" target="Earl Of Worcester">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Glendower" target="Poins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glendower" target="Falstaff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glendower" target="Lancaster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glendower" target="Archbishop Of York">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glendower" target="Lady Percy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hotspur" target="Sheriff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hotspur" target="Prince Henry">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Hotspur" target="Worcester">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hotspur" target="Vernon">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Hotspur" target="Sir Walter Blunt">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Hotspur" target="Lancaster">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hotspur" target="Northumberland">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hotspur" target="Earl Of Worcester">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Hotspur" target="Lady Percy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hotspur" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hotspur" target="Earl Of Douglas">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Hotspur" target="Messenger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hotspur" target="Falstaff">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Walter Blunt" target="Falstaff">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Walter Blunt" target="Earl Of Worcester">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Walter Blunt" target="Northumberland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Walter Blunt" target="Prince Henry">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Walter Blunt" target="Scene Iii">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Walter Blunt" target="Bardolph">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Walter Blunt" target="Hostess">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Walter Blunt" target="Earl Of Douglas">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Walter Blunt" target="Vernon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Earl Of Douglas" target="Messenger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Earl Of Douglas" target="Earl Of Worcester">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Earl Of Douglas" target="Vernon">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Earl Of Douglas" target="Worcester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Earl Of Douglas" target="Falstaff">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Earl Of Douglas" target="Prince Henry">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Earl Of Douglas" target="Lancaster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Falstaff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Archbishop Of York">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Earl Of Worcester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Worcester" target="Falstaff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Worcester" target="Vernon">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Worcester" target="Sir Michael">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Worcester" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Worcester" target="Earl Of Worcester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Thieves">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Falstaff" target="Hostess">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Falstaff" target="Poins">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Falstaff" target="Gadshill">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Falstaff" target="Bardolph">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Falstaff" target="Peto">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Falstaff" target="Prince Henry">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Falstaff" target="Sheriff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Ostler">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="First Traveller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Travellers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Francis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Vintner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Carrier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Scene Iii">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Earl Of Worcester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Lancaster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Thieves" target="Prince Henry">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Thieves" target="Hostess">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Thieves" target="Poins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Thieves" target="Gadshill">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Thieves" target="Bardolph">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Thieves" target="Peto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Thieves" target="First Traveller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Thieves" target="Travellers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hostess" target="Prince Henry">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Hostess" target="Sheriff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hostess" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hostess" target="Poins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hostess" target="Francis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hostess" target="Vintner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hostess" target="Gadshill">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hostess" target="Peto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hostess" target="Bardolph">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hostess" target="Carrier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hostess" target="Scene Iii">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Henry" target="Travellers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Henry" target="Ostler">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Henry" target="Poins">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Prince Henry" target="Francis">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Prince Henry" target="Bardolph">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Prince Henry" target="Peto">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Prince Henry" target="Sheriff">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Prince Henry" target="Lancaster">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Prince Henry" target="Gadshill">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Prince Henry" target="First Traveller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Henry" target="Vintner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Henry" target="Carrier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Henry" target="Scene Iii">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Henry" target="Earl Of Worcester">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Poins" target="Gadshill">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Poins" target="Bardolph">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Poins" target="Peto">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Poins" target="Francis">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Poins" target="First Traveller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poins" target="Travellers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poins" target="Vintner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poins" target="Sheriff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poins" target="Carrier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gadshill" target="Carrier">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Gadshill" target="Chamberlain">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Gadshill" target="Ostler">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gadshill" target="First Carrier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gadshill" target="Second Carrier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gadshill" target="Bardolph">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gadshill" target="Peto">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gadshill" target="First Traveller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gadshill" target="Travellers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gadshill" target="Francis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gadshill" target="Vintner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gadshill" target="Sheriff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Sheriff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Peto">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bardolph" target="First Traveller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Travellers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Francis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Vintner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Carrier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Scene Iii">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Peto" target="First Traveller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Peto" target="Travellers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Peto" target="Francis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Peto" target="Vintner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Peto" target="Sheriff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Peto" target="Carrier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Lady Percy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Earl Of Worcester" target="Lancaster">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Earl Of Worcester" target="Lady Percy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Earl Of Worcester" target="Messenger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Earl Of Worcester" target="Vernon">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="First Carrier" target="Ostler">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="First Carrier" target="Second Carrier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Carrier" target="Chamberlain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ostler" target="Second Carrier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ostler" target="Chamberlain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Carrier" target="Chamberlain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Carrier" target="Francis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Carrier" target="Vintner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Carrier" target="Sheriff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Travellers" target="First Traveller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sheriff" target="Francis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sheriff" target="Vintner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Francis" target="Vintner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lancaster" target="Archbishop Of York">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vernon" target="Sir Michael">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vernon" target="Messenger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Archbishop Of York" target="Sir Michael">
+      <data key="d1">5</data>
+    </edge>
+  </graph>
+</graphml>

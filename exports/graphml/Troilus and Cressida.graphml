@@ -1,604 +1,625 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
-<key id="d0" for="node" attr.name="size" attr.type="long"/>
-<graph edgedefault="directed"><node id="Priam">
-  <data key="d0">10</data>
-</node>
-<node id="Troilus">
-  <data key="d0">10</data>
-</node>
-<node id="Hector">
-  <data key="d0">10</data>
-</node>
-<node id="Cassandra">
-  <data key="d0">10</data>
-</node>
-<node id="Pandarus">
-  <data key="d0">10</data>
-</node>
-<node id="Helen">
-  <data key="d0">10</data>
-</node>
-<node id="Aeneas">
-  <data key="d0">10</data>
-</node>
-<node id="Paris">
-  <data key="d0">10</data>
-</node>
-<node id="Menelaus">
-  <data key="d0">10</data>
-</node>
-<node id="Alexander">
-  <data key="d0">10</data>
-</node>
-<node id="Andromache">
-  <data key="d0">10</data>
-</node>
-<node id="Ajax">
-  <data key="d0">10</data>
-</node>
-<node id="Cressida">
-  <data key="d0">10</data>
-</node>
-<node id="Helenus">
-  <data key="d0">10</data>
-</node>
-<node id="Deiphobus">
-  <data key="d0">10</data>
-</node>
-<node id="Agamemnon">
-  <data key="d0">10</data>
-</node>
-<node id="Achilles">
-  <data key="d0">10</data>
-</node>
-<node id="Nestor">
-  <data key="d0">10</data>
-</node>
-<node id="Ulysses">
-  <data key="d0">10</data>
-</node>
-<node id="Thersites">
-  <data key="d0">10</data>
-</node>
-<node id="Patroclus">
-  <data key="d0">10</data>
-</node>
-<node id="Diomedes">
-  <data key="d0">10</data>
-</node>
-<node id="Servant">
-  <data key="d0">10</data>
-</node>
-<node id="Calchas">
-  <data key="d0">10</data>
-</node>
-<node id="Margarelon">
-  <data key="d0">10</data>
-</node>
-<node id="Myrmidons">
-  <data key="d0">10</data>
-</node>
-<node id="Boy">
-  <data key="d0">10</data>
-</node>
-<edge source="Priam" target="Troilus">
-  <data key="d1">6</data>
-</edge>
-<edge source="Priam" target="Ulysses">
-  <data key="d1">2</data>
-</edge>
-<edge source="Troilus" target="Ulysses">
-  <data key="d1">6</data>
-</edge>
-<edge source="Hector" target="Troilus">
-  <data key="d1">20</data>
-</edge>
-<edge source="Hector" target="Pandarus">
-  <data key="d1">13</data>
-</edge>
-<edge source="Hector" target="Ulysses">
-  <data key="d1">17</data>
-</edge>
-<edge source="Hector" target="Nestor">
-  <data key="d1">6</data>
-</edge>
-<edge source="Hector" target="Thersites">
-  <data key="d1">6</data>
-</edge>
-<edge source="Hector" target="Priam">
-  <data key="d1">5</data>
-</edge>
-<edge source="Hector" target="Helen">
-  <data key="d1">4</data>
-</edge>
-<edge source="Hector" target="Paris">
-  <data key="d1">5</data>
-</edge>
-<edge source="Hector" target="Patroclus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Hector" target="Menelaus">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hector" target="Helenus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hector" target="Myrmidons">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cassandra" target="Pandarus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Cassandra" target="Hector">
-  <data key="d1">8</data>
-</edge>
-<edge source="Cassandra" target="Paris">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cassandra" target="Helen">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cassandra" target="Troilus">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cassandra" target="Priam">
-  <data key="d1">4</data>
-</edge>
-<edge source="Cassandra" target="Helenus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Pandarus" target="Troilus">
-  <data key="d1">42</data>
-</edge>
-<edge source="Pandarus" target="Paris">
-  <data key="d1">11</data>
-</edge>
-<edge source="Pandarus" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Pandarus" target="Priam">
-  <data key="d1">1</data>
-</edge>
-<edge source="Helen" target="Pandarus">
-  <data key="d1">13</data>
-</edge>
-<edge source="Helen" target="Troilus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Helen" target="Thersites">
-  <data key="d1">1</data>
-</edge>
-<edge source="Helen" target="Priam">
-  <data key="d1">1</data>
-</edge>
-<edge source="Helen" target="Paris">
-  <data key="d1">6</data>
-</edge>
-<edge source="Helen" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Helen" target="Ulysses">
-  <data key="d1">1</data>
-</edge>
-<edge source="Aeneas" target="Troilus">
-  <data key="d1">8</data>
-</edge>
-<edge source="Aeneas" target="Paris">
-  <data key="d1">4</data>
-</edge>
-<edge source="Aeneas" target="Menelaus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Aeneas" target="Agamemnon">
-  <data key="d1">5</data>
-</edge>
-<edge source="Aeneas" target="Hector">
-  <data key="d1">9</data>
-</edge>
-<edge source="Aeneas" target="Deiphobus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Aeneas" target="Diomedes">
-  <data key="d1">5</data>
-</edge>
-<edge source="Aeneas" target="Cressida">
-  <data key="d1">4</data>
-</edge>
-<edge source="Aeneas" target="Priam">
-  <data key="d1">1</data>
-</edge>
-<edge source="Aeneas" target="Ajax">
-  <data key="d1">2</data>
-</edge>
-<edge source="Aeneas" target="Nestor">
-  <data key="d1">2</data>
-</edge>
-<edge source="Aeneas" target="Pandarus">
-  <data key="d1">4</data>
-</edge>
-<edge source="Aeneas" target="Ulysses">
-  <data key="d1">3</data>
-</edge>
-<edge source="Aeneas" target="Patroclus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Aeneas" target="Calchas">
-  <data key="d1">1</data>
-</edge>
-<edge source="Aeneas" target="Thersites">
-  <data key="d1">1</data>
-</edge>
-<edge source="Paris" target="Troilus">
-  <data key="d1">9</data>
-</edge>
-<edge source="Paris" target="Priam">
-  <data key="d1">2</data>
-</edge>
-<edge source="Paris" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Paris" target="Patroclus">
-  <data key="d1">2</data>
-</edge>
-<edge source="Paris" target="Thersites">
-  <data key="d1">2</data>
-</edge>
-<edge source="Menelaus" target="Troilus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Menelaus" target="Paris">
-  <data key="d1">1</data>
-</edge>
-<edge source="Menelaus" target="Patroclus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Menelaus" target="Ulysses">
-  <data key="d1">4</data>
-</edge>
-<edge source="Menelaus" target="Thersites">
-  <data key="d1">3</data>
-</edge>
-<edge source="Menelaus" target="Nestor">
-  <data key="d1">3</data>
-</edge>
-<edge source="Alexander" target="Helen">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alexander" target="Hector">
-  <data key="d1">5</data>
-</edge>
-<edge source="Alexander" target="Andromache">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alexander" target="Pandarus">
-  <data key="d1">2</data>
-</edge>
-<edge source="Alexander" target="Cressida">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alexander" target="Boy">
-  <data key="d1">1</data>
-</edge>
-<edge source="Andromache" target="Cassandra">
-  <data key="d1">2</data>
-</edge>
-<edge source="Andromache" target="Hector">
-  <data key="d1">1</data>
-</edge>
-<edge source="Andromache" target="Troilus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Andromache" target="Priam">
-  <data key="d1">1</data>
-</edge>
-<edge source="Andromache" target="Pandarus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ajax" target="Alexander">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ajax" target="Nestor">
-  <data key="d1">8</data>
-</edge>
-<edge source="Ajax" target="Ulysses">
-  <data key="d1">16</data>
-</edge>
-<edge source="Ajax" target="Thersites">
-  <data key="d1">13</data>
-</edge>
-<edge source="Ajax" target="Diomedes">
-  <data key="d1">7</data>
-</edge>
-<edge source="Ajax" target="Patroclus">
-  <data key="d1">6</data>
-</edge>
-<edge source="Ajax" target="Hector">
-  <data key="d1">8</data>
-</edge>
-<edge source="Ajax" target="Troilus">
-  <data key="d1">9</data>
-</edge>
-<edge source="Ajax" target="Calchas">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ajax" target="Menelaus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Ajax" target="Cressida">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ajax" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cressida" target="Hector">
-  <data key="d1">6</data>
-</edge>
-<edge source="Cressida" target="Pandarus">
-  <data key="d1">8</data>
-</edge>
-<edge source="Cressida" target="Helen">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cressida" target="Paris">
-  <data key="d1">4</data>
-</edge>
-<edge source="Cressida" target="Troilus">
-  <data key="d1">18</data>
-</edge>
-<edge source="Cressida" target="Helenus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cressida" target="Ulysses">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cressida" target="Diomedes">
-  <data key="d1">3</data>
-</edge>
-<edge source="Cressida" target="Deiphobus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cressida" target="Nestor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cressida" target="Menelaus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cressida" target="Patroclus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cressida" target="Thersites">
-  <data key="d1">1</data>
-</edge>
-<edge source="Helenus" target="Pandarus">
-  <data key="d1">5</data>
-</edge>
-<edge source="Helenus" target="Troilus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Helenus" target="Paris">
-  <data key="d1">2</data>
-</edge>
-<edge source="Helenus" target="Priam">
-  <data key="d1">1</data>
-</edge>
-<edge source="Deiphobus" target="Pandarus">
-  <data key="d1">2</data>
-</edge>
-<edge source="Deiphobus" target="Paris">
-  <data key="d1">3</data>
-</edge>
-<edge source="Deiphobus" target="Diomedes">
-  <data key="d1">2</data>
-</edge>
-<edge source="Deiphobus" target="Troilus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Agamemnon" target="Pandarus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Agamemnon" target="Nestor">
-  <data key="d1">7</data>
-</edge>
-<edge source="Agamemnon" target="Ulysses">
-  <data key="d1">12</data>
-</edge>
-<edge source="Agamemnon" target="Thersites">
-  <data key="d1">9</data>
-</edge>
-<edge source="Agamemnon" target="Menelaus">
-  <data key="d1">4</data>
-</edge>
-<edge source="Agamemnon" target="Hector">
-  <data key="d1">7</data>
-</edge>
-<edge source="Agamemnon" target="Patroclus">
-  <data key="d1">5</data>
-</edge>
-<edge source="Agamemnon" target="Ajax">
-  <data key="d1">11</data>
-</edge>
-<edge source="Agamemnon" target="Diomedes">
-  <data key="d1">6</data>
-</edge>
-<edge source="Agamemnon" target="Calchas">
-  <data key="d1">2</data>
-</edge>
-<edge source="Agamemnon" target="Troilus">
-  <data key="d1">2</data>
-</edge>
-<edge source="Agamemnon" target="Margarelon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Agamemnon" target="Cressida">
-  <data key="d1">1</data>
-</edge>
-<edge source="Agamemnon" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Achilles" target="Cressida">
-  <data key="d1">2</data>
-</edge>
-<edge source="Achilles" target="Pandarus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Achilles" target="Ulysses">
-  <data key="d1">28</data>
-</edge>
-<edge source="Achilles" target="Nestor">
-  <data key="d1">13</data>
-</edge>
-<edge source="Achilles" target="Agamemnon">
-  <data key="d1">11</data>
-</edge>
-<edge source="Achilles" target="Thersites">
-  <data key="d1">25</data>
-</edge>
-<edge source="Achilles" target="Ajax">
-  <data key="d1">12</data>
-</edge>
-<edge source="Achilles" target="Patroclus">
-  <data key="d1">11</data>
-</edge>
-<edge source="Achilles" target="Hector">
-  <data key="d1">23</data>
-</edge>
-<edge source="Achilles" target="Diomedes">
-  <data key="d1">7</data>
-</edge>
-<edge source="Achilles" target="Troilus">
-  <data key="d1">4</data>
-</edge>
-<edge source="Achilles" target="Aeneas">
-  <data key="d1">2</data>
-</edge>
-<edge source="Achilles" target="Myrmidons">
-  <data key="d1">2</data>
-</edge>
-<edge source="Achilles" target="Calchas">
-  <data key="d1">1</data>
-</edge>
-<edge source="Achilles" target="Menelaus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Achilles" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Achilles" target="Margarelon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Nestor" target="Ulysses">
-  <data key="d1">14</data>
-</edge>
-<edge source="Nestor" target="Thersites">
-  <data key="d1">5</data>
-</edge>
-<edge source="Nestor" target="Priam">
-  <data key="d1">1</data>
-</edge>
-<edge source="Nestor" target="Patroclus">
-  <data key="d1">4</data>
-</edge>
-<edge source="Nestor" target="Troilus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Nestor" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Thersites" target="Ulysses">
-  <data key="d1">6</data>
-</edge>
-<edge source="Thersites" target="Troilus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Patroclus" target="Ulysses">
-  <data key="d1">8</data>
-</edge>
-<edge source="Patroclus" target="Thersites">
-  <data key="d1">16</data>
-</edge>
-<edge source="Patroclus" target="Troilus">
-  <data key="d1">2</data>
-</edge>
-<edge source="Diomedes" target="Paris">
-  <data key="d1">2</data>
-</edge>
-<edge source="Diomedes" target="Troilus">
-  <data key="d1">8</data>
-</edge>
-<edge source="Diomedes" target="Hector">
-  <data key="d1">6</data>
-</edge>
-<edge source="Diomedes" target="Thersites">
-  <data key="d1">5</data>
-</edge>
-<edge source="Diomedes" target="Patroclus">
-  <data key="d1">4</data>
-</edge>
-<edge source="Diomedes" target="Ulysses">
-  <data key="d1">6</data>
-</edge>
-<edge source="Diomedes" target="Nestor">
-  <data key="d1">5</data>
-</edge>
-<edge source="Diomedes" target="Menelaus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Diomedes" target="Pandarus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Diomedes" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Servant" target="Ulysses">
-  <data key="d1">1</data>
-</edge>
-<edge source="Calchas" target="Priam">
-  <data key="d1">1</data>
-</edge>
-<edge source="Calchas" target="Paris">
-  <data key="d1">1</data>
-</edge>
-<edge source="Calchas" target="Troilus">
-  <data key="d1">2</data>
-</edge>
-<edge source="Calchas" target="Ulysses">
-  <data key="d1">3</data>
-</edge>
-<edge source="Calchas" target="Thersites">
-  <data key="d1">3</data>
-</edge>
-<edge source="Calchas" target="Diomedes">
-  <data key="d1">2</data>
-</edge>
-<edge source="Calchas" target="Nestor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Calchas" target="Menelaus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Calchas" target="Patroclus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Calchas" target="Cressida">
-  <data key="d1">1</data>
-</edge>
-<edge source="Margarelon" target="Priam">
-  <data key="d1">1</data>
-</edge>
-<edge source="Margarelon" target="Thersites">
-  <data key="d1">1</data>
-</edge>
-<edge source="Myrmidons" target="Ulysses">
-  <data key="d1">1</data>
-</edge>
-<edge source="Boy" target="Cressida">
-  <data key="d1">2</data>
-</edge>
-<edge source="Boy" target="Pandarus">
-  <data key="d1">2</data>
-</edge>
-<edge source="Boy" target="Troilus">
-  <data key="d1">1</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Priam">
+      <data key="d0">10</data>
+    </node>
+    <node id="Troilus">
+      <data key="d0">10</data>
+    </node>
+    <node id="Hector">
+      <data key="d0">10</data>
+    </node>
+    <node id="Helen">
+      <data key="d0">10</data>
+    </node>
+    <node id="Pandarus">
+      <data key="d0">10</data>
+    </node>
+    <node id="Paris">
+      <data key="d0">10</data>
+    </node>
+    <node id="Cassandra">
+      <data key="d0">10</data>
+    </node>
+    <node id="Aeneas">
+      <data key="d0">10</data>
+    </node>
+    <node id="Menelaus">
+      <data key="d0">10</data>
+    </node>
+    <node id="Alexander">
+      <data key="d0">10</data>
+    </node>
+    <node id="Andromache">
+      <data key="d0">10</data>
+    </node>
+    <node id="Ajax">
+      <data key="d0">10</data>
+    </node>
+    <node id="Cressida">
+      <data key="d0">10</data>
+    </node>
+    <node id="Helenus">
+      <data key="d0">10</data>
+    </node>
+    <node id="Deiphobus">
+      <data key="d0">10</data>
+    </node>
+    <node id="Agamemnon">
+      <data key="d0">10</data>
+    </node>
+    <node id="Achilles">
+      <data key="d0">10</data>
+    </node>
+    <node id="Boy">
+      <data key="d0">10</data>
+    </node>
+    <node id="Nestor">
+      <data key="d0">10</data>
+    </node>
+    <node id="Ulysses">
+      <data key="d0">10</data>
+    </node>
+    <node id="Thersites">
+      <data key="d0">10</data>
+    </node>
+    <node id="Patroclus">
+      <data key="d0">10</data>
+    </node>
+    <node id="Servant">
+      <data key="d0">10</data>
+    </node>
+    <node id="Diomedes">
+      <data key="d0">10</data>
+    </node>
+    <node id="Calchas">
+      <data key="d0">10</data>
+    </node>
+    <node id="Margarelon">
+      <data key="d0">10</data>
+    </node>
+    <node id="Myrmidons">
+      <data key="d0">10</data>
+    </node>
+    <edge source="Priam" target="Troilus">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Priam" target="Aeneas">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Priam" target="Nestor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Priam" target="Helen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Priam" target="Hector">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Priam" target="Paris">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Priam" target="Calchas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Priam" target="Ulysses">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Priam" target="Cassandra">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Priam" target="Margarelon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Priam" target="Helenus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Priam" target="Andromache">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Priam" target="Pandarus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Troilus" target="Hector">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Troilus" target="Pandarus">
+      <data key="d1">42</data>
+    </edge>
+    <edge source="Troilus" target="Paris">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Troilus" target="Helen">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Troilus" target="Aeneas">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Troilus" target="Menelaus">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Troilus" target="Cressida">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Troilus" target="Helenus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Troilus" target="Cassandra">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Troilus" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Troilus" target="Achilles">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Troilus" target="Diomedes">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Troilus" target="Ulysses">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Troilus" target="Agamemnon">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Troilus" target="Calchas">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Troilus" target="Ajax">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Troilus" target="Boy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Troilus" target="Deiphobus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Troilus" target="Nestor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Troilus" target="Patroclus">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Troilus" target="Thersites">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Troilus" target="Andromache">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hector" target="Alexander">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Hector" target="Cressida">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Hector" target="Pandarus">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Hector" target="Ulysses">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Hector" target="Aeneas">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Hector" target="Agamemnon">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Hector" target="Nestor">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Hector" target="Thersites">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Hector" target="Achilles">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Hector" target="Helen">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Hector" target="Cassandra">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Hector" target="Paris">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Hector" target="Patroclus">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Hector" target="Ajax">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Hector" target="Diomedes">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Hector" target="Menelaus">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hector" target="Boy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hector" target="Andromache">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hector" target="Helenus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hector" target="Myrmidons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helen" target="Pandarus">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Helen" target="Alexander">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helen" target="Cressida">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Helen" target="Thersites">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helen" target="Cassandra">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Helen" target="Paris">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Helen" target="Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Helen" target="Ulysses">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pandarus" target="Paris">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Pandarus" target="Cassandra">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Pandarus" target="Alexander">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pandarus" target="Cressida">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Pandarus" target="Aeneas">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Pandarus" target="Helenus">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Pandarus" target="Deiphobus">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pandarus" target="Agamemnon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pandarus" target="Achilles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pandarus" target="Boy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pandarus" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pandarus" target="Diomedes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pandarus" target="Andromache">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Paris" target="Aeneas">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Paris" target="Cressida">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Paris" target="Nestor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Paris" target="Cassandra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Paris" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Paris" target="Helenus">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Paris" target="Deiphobus">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Paris" target="Calchas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Paris" target="Menelaus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Paris" target="Diomedes">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Paris" target="Patroclus">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Paris" target="Thersites">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cassandra" target="Boy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cassandra" target="Andromache">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cassandra" target="Helenus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aeneas" target="Menelaus">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Aeneas" target="Agamemnon">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Aeneas" target="Deiphobus">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Aeneas" target="Diomedes">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Aeneas" target="Cressida">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Aeneas" target="Achilles">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Aeneas" target="Ajax">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Aeneas" target="Ulysses">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Aeneas" target="Nestor">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Aeneas" target="Patroclus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aeneas" target="Calchas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aeneas" target="Thersites">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Menelaus" target="Agamemnon">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Menelaus" target="Patroclus">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Menelaus" target="Ulysses">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Menelaus" target="Thersites">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Menelaus" target="Nestor">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Menelaus" target="Calchas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Menelaus" target="Diomedes">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Menelaus" target="Achilles">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Menelaus" target="Ajax">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Menelaus" target="Cressida">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alexander" target="Andromache">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alexander" target="Ajax">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alexander" target="Cressida">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alexander" target="Boy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ajax" target="Nestor">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Ajax" target="Ulysses">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Ajax" target="Thersites">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Ajax" target="Achilles">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Ajax" target="Agamemnon">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Ajax" target="Diomedes">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Ajax" target="Patroclus">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Ajax" target="Calchas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ajax" target="Cressida">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ajax" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cressida" target="Helenus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cressida" target="Achilles">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cressida" target="Ulysses">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cressida" target="Boy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cressida" target="Diomedes">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Cressida" target="Deiphobus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cressida" target="Agamemnon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cressida" target="Nestor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cressida" target="Patroclus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cressida" target="Calchas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cressida" target="Thersites">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Deiphobus" target="Diomedes">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Agamemnon" target="Nestor">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Agamemnon" target="Ulysses">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Agamemnon" target="Thersites">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Agamemnon" target="Achilles">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Agamemnon" target="Patroclus">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Agamemnon" target="Diomedes">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Agamemnon" target="Calchas">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Agamemnon" target="Margarelon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Agamemnon" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Achilles" target="Ulysses">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Achilles" target="Nestor">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Achilles" target="Thersites">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Achilles" target="Patroclus">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Achilles" target="Diomedes">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Achilles" target="Boy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Achilles" target="Myrmidons">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Achilles" target="Calchas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Achilles" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Achilles" target="Margarelon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Boy" target="Thersites">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nestor" target="Ulysses">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Nestor" target="Thersites">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Nestor" target="Diomedes">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Nestor" target="Patroclus">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Nestor" target="Calchas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nestor" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ulysses" target="Patroclus">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Ulysses" target="Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ulysses" target="Thersites">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Ulysses" target="Calchas">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Ulysses" target="Myrmidons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ulysses" target="Diomedes">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Thersites" target="Patroclus">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Thersites" target="Calchas">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Thersites" target="Diomedes">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Thersites" target="Margarelon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Patroclus" target="Diomedes">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Patroclus" target="Calchas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Diomedes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Diomedes" target="Calchas">
+      <data key="d1">2</data>
+    </edge>
+  </graph>
+</graphml>

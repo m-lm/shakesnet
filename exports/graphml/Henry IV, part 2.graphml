@@ -1,787 +1,850 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
-<key id="d0" for="node" attr.name="size" attr.type="long"/>
-<graph edgedefault="directed"><node id="Northumberland">
-  <data key="d0">10</data>
-</node>
-<node id="Rumour">
-  <data key="d0">10</data>
-</node>
-<node id="Lord Bardolph">
-  <data key="d0">10</data>
-</node>
-<node id="Westmoreland">
-  <data key="d0">10</data>
-</node>
-<node id="Travers">
-  <data key="d0">10</data>
-</node>
-<node id="Morton">
-  <data key="d0">10</data>
-</node>
-<node id="Lancaster">
-  <data key="d0">10</data>
-</node>
-<node id="Bardolph">
-  <data key="d0">10</data>
-</node>
-<node id="Page">
-  <data key="d0">10</data>
-</node>
-<node id="Falstaff">
-  <data key="d0">10</data>
-</node>
-<node id="Servant">
-  <data key="d0">10</data>
-</node>
-<node id="Hastings">
-  <data key="d0">10</data>
-</node>
-<node id="Archbishop Of York">
-  <data key="d0">10</data>
-</node>
-<node id="Fang">
-  <data key="d0">10</data>
-</node>
-<node id="Mistress Quickly">
-  <data key="d0">10</data>
-</node>
-<node id="Snare">
-  <data key="d0">10</data>
-</node>
-<node id="Gower">
-  <data key="d0">10</data>
-</node>
-<node id="Doll Tearsheet">
-  <data key="d0">10</data>
-</node>
-<node id="Poins">
-  <data key="d0">10</data>
-</node>
-<node id="Prince Henry">
-  <data key="d0">10</data>
-</node>
-<node id="Second Drawer">
-  <data key="d0">10</data>
-</node>
-<node id="First Drawer">
-  <data key="d0">10</data>
-</node>
-<node id="Pistol">
-  <data key="d0">10</data>
-</node>
-<node id="Peto">
-  <data key="d0">10</data>
-</node>
-<node id="King Henry Iv">
-  <data key="d0">10</data>
-</node>
-<node id="Warwick">
-  <data key="d0">10</data>
-</node>
-<node id="Shallow">
-  <data key="d0">10</data>
-</node>
-<node id="Silence">
-  <data key="d0">10</data>
-</node>
-<node id="Mowbray">
-  <data key="d0">10</data>
-</node>
-<node id="Mouldy">
-  <data key="d0">10</data>
-</node>
-<node id="Shadow">
-  <data key="d0">10</data>
-</node>
-<node id="Wart">
-  <data key="d0">10</data>
-</node>
-<node id="Feeble">
-  <data key="d0">10</data>
-</node>
-<node id="Bullcalf">
-  <data key="d0">10</data>
-</node>
-<node id="Colevile">
-  <data key="d0">10</data>
-</node>
-<node id="Gloucester">
-  <data key="d0">10</data>
-</node>
-<node id="Clarence">
-  <data key="d0">10</data>
-</node>
-<node id="Harcourt">
-  <data key="d0">10</data>
-</node>
-<node id="Davy">
-  <data key="d0">10</data>
-</node>
-<node id="First Beadle">
-  <data key="d0">10</data>
-</node>
-<node id="Porter">
-  <data key="d0">10</data>
-</node>
-<node id="Lady Percy">
-  <data key="d0">10</data>
-</node>
-<node id="Messenger">
-  <data key="d0">10</data>
-</node>
-<node id="King Henry V">
-  <data key="d0">10</data>
-</node>
-<node id="Princes">
-  <data key="d0">10</data>
-</node>
-<node id="First Groom">
-  <data key="d0">10</data>
-</node>
-<node id="Second Groom">
-  <data key="d0">10</data>
-</node>
-<edge source="Northumberland" target="Rumour">
-  <data key="d1">1</data>
-</edge>
-<edge source="Northumberland" target="Travers">
-  <data key="d1">3</data>
-</edge>
-<edge source="Northumberland" target="Warwick">
-  <data key="d1">2</data>
-</edge>
-<edge source="Northumberland" target="Porter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Rumour" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lord Bardolph" target="Northumberland">
-  <data key="d1">2</data>
-</edge>
-<edge source="Lord Bardolph" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lord Bardolph" target="Porter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lord Bardolph" target="Travers">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lord Bardolph" target="Morton">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lord Bardolph" target="Mowbray">
-  <data key="d1">1</data>
-</edge>
-<edge source="Morton" target="Northumberland">
-  <data key="d1">2</data>
-</edge>
-<edge source="Morton" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Morton" target="Porter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Morton" target="Travers">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lancaster" target="Morton">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lancaster" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lancaster" target="Westmoreland">
-  <data key="d1">3</data>
-</edge>
-<edge source="Lancaster" target="Mowbray">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lancaster" target="Warwick">
-  <data key="d1">2</data>
-</edge>
-<edge source="Lancaster" target="Prince Henry">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lancaster" target="Princes">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lancaster" target="Second Groom">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lancaster" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lancaster" target="Shallow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Page">
-  <data key="d1">4</data>
-</edge>
-<edge source="Bardolph" target="Falstaff">
-  <data key="d1">14</data>
-</edge>
-<edge source="Bardolph" target="Mistress Quickly">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bardolph" target="Poins">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bardolph" target="Prince Henry">
-  <data key="d1">4</data>
-</edge>
-<edge source="Bardolph" target="Second Drawer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Pistol">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bardolph" target="Shallow">
-  <data key="d1">8</data>
-</edge>
-<edge source="Bardolph" target="Bullcalf">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bardolph" target="Mouldy">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Wart">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="First Drawer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Doll Tearsheet">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Peto">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Silence">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bardolph" target="Shadow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Feeble">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Colevile">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Lancaster">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Davy">
-  <data key="d1">2</data>
-</edge>
-<edge source="Page" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Page" target="Prince Henry">
-  <data key="d1">2</data>
-</edge>
-<edge source="Page" target="Poins">
-  <data key="d1">2</data>
-</edge>
-<edge source="Page" target="Second Drawer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Page" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="Page" target="Peto">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Servant">
-  <data key="d1">3</data>
-</edge>
-<edge source="Falstaff" target="Lancaster">
-  <data key="d1">5</data>
-</edge>
-<edge source="Falstaff" target="Northumberland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Westmoreland">
-  <data key="d1">3</data>
-</edge>
-<edge source="Falstaff" target="Fang">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Gower">
-  <data key="d1">5</data>
-</edge>
-<edge source="Falstaff" target="Prince Henry">
-  <data key="d1">4</data>
-</edge>
-<edge source="Falstaff" target="Poins">
-  <data key="d1">4</data>
-</edge>
-<edge source="Falstaff" target="Pistol">
-  <data key="d1">13</data>
-</edge>
-<edge source="Falstaff" target="Peto">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Page">
-  <data key="d1">2</data>
-</edge>
-<edge source="Falstaff" target="Shallow">
-  <data key="d1">30</data>
-</edge>
-<edge source="Falstaff" target="Silence">
-  <data key="d1">8</data>
-</edge>
-<edge source="Falstaff" target="Mouldy">
-  <data key="d1">5</data>
-</edge>
-<edge source="Falstaff" target="Shadow">
-  <data key="d1">3</data>
-</edge>
-<edge source="Falstaff" target="Wart">
-  <data key="d1">4</data>
-</edge>
-<edge source="Falstaff" target="Feeble">
-  <data key="d1">5</data>
-</edge>
-<edge source="Falstaff" target="Mistress Quickly">
-  <data key="d1">2</data>
-</edge>
-<edge source="Falstaff" target="Snare">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="First Drawer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Second Drawer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="First Groom">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Second Groom">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="King Henry Iv">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hastings" target="Northumberland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hastings" target="Lord Bardolph">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hastings" target="Lancaster">
-  <data key="d1">3</data>
-</edge>
-<edge source="Hastings" target="Westmoreland">
-  <data key="d1">4</data>
-</edge>
-<edge source="Hastings" target="Mowbray">
-  <data key="d1">3</data>
-</edge>
-<edge source="Hastings" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Archbishop Of York" target="Lord Bardolph">
-  <data key="d1">1</data>
-</edge>
-<edge source="Archbishop Of York" target="Northumberland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Archbishop Of York" target="Westmoreland">
-  <data key="d1">5</data>
-</edge>
-<edge source="Archbishop Of York" target="Lancaster">
-  <data key="d1">1</data>
-</edge>
-<edge source="Archbishop Of York" target="Hastings">
-  <data key="d1">3</data>
-</edge>
-<edge source="Archbishop Of York" target="Mowbray">
-  <data key="d1">3</data>
-</edge>
-<edge source="Archbishop Of York" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fang" target="Mistress Quickly">
-  <data key="d1">4</data>
-</edge>
-<edge source="Fang" target="Snare">
-  <data key="d1">2</data>
-</edge>
-<edge source="Fang" target="Gower">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Quickly" target="Snare">
-  <data key="d1">4</data>
-</edge>
-<edge source="Mistress Quickly" target="Page">
-  <data key="d1">2</data>
-</edge>
-<edge source="Mistress Quickly" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Quickly" target="Second Drawer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Quickly" target="Prince Henry">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Quickly" target="Poins">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Quickly" target="Peto">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gower" target="Lancaster">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gower" target="Northumberland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gower" target="Mistress Quickly">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gower" target="Snare">
-  <data key="d1">1</data>
-</edge>
-<edge source="Doll Tearsheet" target="Mistress Quickly">
-  <data key="d1">3</data>
-</edge>
-<edge source="Doll Tearsheet" target="Page">
-  <data key="d1">2</data>
-</edge>
-<edge source="Doll Tearsheet" target="Prince Henry">
-  <data key="d1">2</data>
-</edge>
-<edge source="Doll Tearsheet" target="Poins">
-  <data key="d1">1</data>
-</edge>
-<edge source="Doll Tearsheet" target="First Drawer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Doll Tearsheet" target="Second Drawer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Doll Tearsheet" target="Falstaff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Doll Tearsheet" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="Doll Tearsheet" target="Peto">
-  <data key="d1">1</data>
-</edge>
-<edge source="Doll Tearsheet" target="First Beadle">
-  <data key="d1">1</data>
-</edge>
-<edge source="Poins" target="Prince Henry">
-  <data key="d1">2</data>
-</edge>
-<edge source="Poins" target="Second Drawer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prince Henry" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prince Henry" target="Second Drawer">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Drawer" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Drawer" target="Second Drawer">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Drawer" target="Mistress Quickly">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Drawer" target="Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Drawer" target="Prince Henry">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Drawer" target="Poins">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Drawer" target="Peto">
-  <data key="d1">1</data>
-</edge>
-<edge source="Pistol" target="Second Drawer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Pistol" target="Prince Henry">
-  <data key="d1">1</data>
-</edge>
-<edge source="Pistol" target="Poins">
-  <data key="d1">1</data>
-</edge>
-<edge source="Pistol" target="Shallow">
-  <data key="d1">2</data>
-</edge>
-<edge source="Pistol" target="Silence">
-  <data key="d1">1</data>
-</edge>
-<edge source="Pistol" target="Second Groom">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peto" target="Prince Henry">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peto" target="Second Drawer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peto" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peto" target="Poins">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Iv" target="Warwick">
-  <data key="d1">5</data>
-</edge>
-<edge source="King Henry Iv" target="Northumberland">
-  <data key="d1">4</data>
-</edge>
-<edge source="King Henry Iv" target="Westmoreland">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Henry Iv" target="Lancaster">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Henry Iv" target="Prince Henry">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Iv" target="Second Groom">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Iv" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Iv" target="Shallow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Warwick" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Shallow" target="Silence">
-  <data key="d1">7</data>
-</edge>
-<edge source="Shallow" target="Wart">
-  <data key="d1">1</data>
-</edge>
-<edge source="Silence" target="Wart">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mowbray" target="Shallow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mowbray" target="Westmoreland">
-  <data key="d1">8</data>
-</edge>
-<edge source="Mouldy" target="Shallow">
-  <data key="d1">3</data>
-</edge>
-<edge source="Mouldy" target="Silence">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mouldy" target="Shadow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mouldy" target="Wart">
-  <data key="d1">1</data>
-</edge>
-<edge source="Shadow" target="Shallow">
-  <data key="d1">3</data>
-</edge>
-<edge source="Shadow" target="Silence">
-  <data key="d1">1</data>
-</edge>
-<edge source="Shadow" target="Wart">
-  <data key="d1">1</data>
-</edge>
-<edge source="Feeble" target="Shallow">
-  <data key="d1">2</data>
-</edge>
-<edge source="Feeble" target="Wart">
-  <data key="d1">1</data>
-</edge>
-<edge source="Feeble" target="Silence">
-  <data key="d1">1</data>
-</edge>
-<edge source="Feeble" target="Shadow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Feeble" target="Mouldy">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bullcalf" target="Shallow">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bullcalf" target="Falstaff">
-  <data key="d1">4</data>
-</edge>
-<edge source="Bullcalf" target="Silence">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bullcalf" target="Shadow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bullcalf" target="Mouldy">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bullcalf" target="Wart">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bullcalf" target="Feeble">
-  <data key="d1">1</data>
-</edge>
-<edge source="Colevile" target="Falstaff">
-  <data key="d1">7</data>
-</edge>
-<edge source="Colevile" target="Lancaster">
-  <data key="d1">3</data>
-</edge>
-<edge source="Colevile" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="King Henry Iv">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gloucester" target="Warwick">
-  <data key="d1">3</data>
-</edge>
-<edge source="Gloucester" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Harcourt">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Prince Henry">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Lancaster">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gloucester" target="King Henry V">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Princes">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clarence" target="King Henry Iv">
-  <data key="d1">3</data>
-</edge>
-<edge source="Clarence" target="Poins">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clarence" target="Prince Henry">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clarence" target="Falstaff">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clarence" target="Warwick">
-  <data key="d1">3</data>
-</edge>
-<edge source="Clarence" target="Gloucester">
-  <data key="d1">3</data>
-</edge>
-<edge source="Clarence" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clarence" target="Harcourt">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clarence" target="Lancaster">
-  <data key="d1">2</data>
-</edge>
-<edge source="Clarence" target="King Henry V">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clarence" target="Princes">
-  <data key="d1">1</data>
-</edge>
-<edge source="Harcourt" target="Northumberland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Harcourt" target="Lord Bardolph">
-  <data key="d1">1</data>
-</edge>
-<edge source="Harcourt" target="King Henry Iv">
-  <data key="d1">1</data>
-</edge>
-<edge source="Harcourt" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Harcourt" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Davy" target="Shallow">
-  <data key="d1">21</data>
-</edge>
-<edge source="Davy" target="Falstaff">
-  <data key="d1">2</data>
-</edge>
-<edge source="Davy" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="Davy" target="Silence">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Beadle" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Beadle" target="Mistress Quickly">
-  <data key="d1">1</data>
-</edge>
-<edge source="Porter" target="Travers">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lady Percy" target="Northumberland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Mowbray">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry V" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry V" target="Lancaster">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry V" target="Princes">
-  <data key="d1">1</data>
-</edge>
-<edge source="Princes" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Groom" target="Second Groom">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Groom" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Groom" target="Shallow">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Groom" target="King Henry Iv">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Groom" target="Lancaster">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Groom" target="Shallow">
-  <data key="d1">1</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Northumberland">
+      <data key="d0">10</data>
+    </node>
+    <node id="Rumour">
+      <data key="d0">10</data>
+    </node>
+    <node id="Bardolph">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lord Bardolph">
+      <data key="d0">10</data>
+    </node>
+    <node id="Westmoreland">
+      <data key="d0">10</data>
+    </node>
+    <node id="Travers">
+      <data key="d0">10</data>
+    </node>
+    <node id="Servant">
+      <data key="d0">10</data>
+    </node>
+    <node id="Morton">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lancaster">
+      <data key="d0">10</data>
+    </node>
+    <node id="Princes">
+      <data key="d0">10</data>
+    </node>
+    <node id="Archbishop Of York">
+      <data key="d0">10</data>
+    </node>
+    <node id="Shadow">
+      <data key="d0">10</data>
+    </node>
+    <node id="Page">
+      <data key="d0">10</data>
+    </node>
+    <node id="Falstaff">
+      <data key="d0">10</data>
+    </node>
+    <node id="Hastings">
+      <data key="d0">10</data>
+    </node>
+    <node id="Feeble">
+      <data key="d0">10</data>
+    </node>
+    <node id="Fang">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mistress Quickly">
+      <data key="d0">10</data>
+    </node>
+    <node id="Snare">
+      <data key="d0">10</data>
+    </node>
+    <node id="Gower">
+      <data key="d0">10</data>
+    </node>
+    <node id="Doll Tearsheet">
+      <data key="d0">10</data>
+    </node>
+    <node id="Poins">
+      <data key="d0">10</data>
+    </node>
+    <node id="Prince Henry">
+      <data key="d0">10</data>
+    </node>
+    <node id="Silence">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Drawer">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Drawer">
+      <data key="d0">10</data>
+    </node>
+    <node id="Pistol">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mouldy">
+      <data key="d0">10</data>
+    </node>
+    <node id="Shallow">
+      <data key="d0">10</data>
+    </node>
+    <node id="Peto">
+      <data key="d0">10</data>
+    </node>
+    <node id="King Henry Iv">
+      <data key="d0">10</data>
+    </node>
+    <node id="Warwick">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mowbray">
+      <data key="d0">10</data>
+    </node>
+    <node id="Wart">
+      <data key="d0">10</data>
+    </node>
+    <node id="Bullcalf">
+      <data key="d0">10</data>
+    </node>
+    <node id="Colevile">
+      <data key="d0">10</data>
+    </node>
+    <node id="Gloucester">
+      <data key="d0">10</data>
+    </node>
+    <node id="Clarence">
+      <data key="d0">10</data>
+    </node>
+    <node id="Harcourt">
+      <data key="d0">10</data>
+    </node>
+    <node id="Davy">
+      <data key="d0">10</data>
+    </node>
+    <node id="King Henry V">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Beadle">
+      <data key="d0">10</data>
+    </node>
+    <node id="Porter">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lady Percy">
+      <data key="d0">10</data>
+    </node>
+    <node id="Messenger">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Groom">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Groom">
+      <data key="d0">10</data>
+    </node>
+    <edge source="Northumberland" target="Rumour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Lord Bardolph">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Northumberland" target="Bardolph">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Travers">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Northumberland" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Morton">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Northumberland" target="Princes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Falstaff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Hastings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Gower">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Warwick">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Northumberland" target="King Henry Iv">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Northumberland" target="Archbishop Of York">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Harcourt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Porter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Lady Percy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rumour" target="Warwick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Lord Bardolph">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Page">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Bardolph" target="Falstaff">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Bardolph" target="Archbishop Of York">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Hastings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Mistress Quickly">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bardolph" target="Poins">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bardolph" target="Prince Henry">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Bardolph" target="Second Drawer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Pistol">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bardolph" target="Shallow">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Bardolph" target="Bullcalf">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bardolph" target="Mouldy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Travers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Wart">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Harcourt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Davy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bardolph" target="First Drawer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Doll Tearsheet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Peto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Silence">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bardolph" target="Shadow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Feeble">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Colevile">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Lancaster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Westmoreland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Bardolph" target="Westmoreland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Bardolph" target="Hastings">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lord Bardolph" target="Feeble">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Bardolph" target="Archbishop Of York">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Bardolph" target="Harcourt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Bardolph" target="Porter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Bardolph" target="Travers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Bardolph" target="Morton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Bardolph" target="Mowbray">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Morton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Falstaff">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Westmoreland" target="Hastings">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Westmoreland" target="Mowbray">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Westmoreland" target="Lancaster">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Westmoreland" target="Archbishop Of York">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Westmoreland" target="King Henry Iv">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Westmoreland" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Colevile">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Warwick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Gloucester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Clarence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Harcourt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Travers" target="Porter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Travers" target="Morton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Falstaff">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Servant" target="Lancaster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Page">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Morton" target="Lancaster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Morton" target="Archbishop Of York">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Morton" target="Shadow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Morton" target="Porter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lancaster" target="Falstaff">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Lancaster" target="Hastings">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lancaster" target="Gower">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lancaster" target="Mowbray">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lancaster" target="Shadow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lancaster" target="Princes">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lancaster" target="Archbishop Of York">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lancaster" target="Shallow">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lancaster" target="Colevile">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lancaster" target="King Henry Iv">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lancaster" target="Warwick">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lancaster" target="Clarence">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lancaster" target="Prince Henry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lancaster" target="Gloucester">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lancaster" target="King Henry V">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lancaster" target="First Groom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lancaster" target="Second Groom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lancaster" target="Pistol">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Princes" target="Poins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Princes" target="Warwick">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Princes" target="Clarence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Princes" target="King Henry V">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Princes" target="Gloucester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Archbishop Of York" target="Hastings">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Archbishop Of York" target="Mowbray">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Archbishop Of York" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shadow" target="Poins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shadow" target="Shallow">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Shadow" target="Falstaff">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Shadow" target="Silence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shadow" target="Mouldy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shadow" target="Wart">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shadow" target="Feeble">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shadow" target="Bullcalf">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Page" target="Mistress Quickly">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Page" target="Doll Tearsheet">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Page" target="Falstaff">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Page" target="Shallow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Page" target="Davy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Page" target="Prince Henry">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Page" target="Poins">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Page" target="First Drawer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Page" target="Second Drawer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Page" target="Pistol">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Page" target="Peto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Fang">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Gower">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Falstaff" target="Prince Henry">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Falstaff" target="Poins">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Falstaff" target="Pistol">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Falstaff" target="Shallow">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="Falstaff" target="Peto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Silence">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Falstaff" target="Mouldy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Falstaff" target="Wart">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Falstaff" target="Feeble">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Falstaff" target="Bullcalf">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Falstaff" target="Colevile">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Falstaff" target="Gloucester">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Falstaff" target="Clarence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Davy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Falstaff" target="Mistress Quickly">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Falstaff" target="Snare">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="First Drawer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Second Drawer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Doll Tearsheet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="First Groom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Second Groom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="King Henry Iv">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hastings" target="Fang">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hastings" target="Mowbray">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Hastings" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Feeble" target="Shallow">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Feeble" target="Wart">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Feeble" target="Silence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Feeble" target="Mouldy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Feeble" target="Bullcalf">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fang" target="Mistress Quickly">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Fang" target="Snare">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Fang" target="Gower">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Quickly" target="Snare">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mistress Quickly" target="Doll Tearsheet">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mistress Quickly" target="Pistol">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Quickly" target="Gower">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Quickly" target="First Drawer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Quickly" target="Second Drawer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Quickly" target="Prince Henry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Quickly" target="Poins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Quickly" target="Peto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Quickly" target="First Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Snare" target="Gower">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Doll Tearsheet" target="Prince Henry">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Doll Tearsheet" target="Mouldy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Doll Tearsheet" target="Poins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Doll Tearsheet" target="First Drawer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Doll Tearsheet" target="Second Drawer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Doll Tearsheet" target="Pistol">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Doll Tearsheet" target="Peto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Doll Tearsheet" target="First Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poins" target="Prince Henry">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Poins" target="Second Drawer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poins" target="Clarence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poins" target="First Drawer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poins" target="Pistol">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poins" target="Peto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Henry" target="Silence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Henry" target="Peto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Henry" target="Clarence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Henry" target="Warwick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Henry" target="First Drawer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Henry" target="Second Drawer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Henry" target="Pistol">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Henry" target="King Henry Iv">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Henry" target="Gloucester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Silence" target="Shallow">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Silence" target="Mouldy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Silence" target="Wart">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Silence" target="Bullcalf">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Silence" target="Davy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Silence" target="Pistol">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Drawer" target="First Drawer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Drawer" target="Pistol">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Drawer" target="Peto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Drawer" target="Pistol">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Drawer" target="Peto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pistol" target="Davy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pistol" target="First Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pistol" target="Peto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pistol" target="Shallow">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pistol" target="First Groom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pistol" target="Second Groom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pistol" target="King Henry Iv">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mouldy" target="Shallow">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mouldy" target="Wart">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mouldy" target="Bullcalf">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shallow" target="Mowbray">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shallow" target="Wart">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shallow" target="Bullcalf">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shallow" target="Davy">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Shallow" target="First Groom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shallow" target="Second Groom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shallow" target="King Henry Iv">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Iv" target="Warwick">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="King Henry Iv" target="Gloucester">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Iv" target="Clarence">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry Iv" target="Harcourt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Iv" target="First Groom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Iv" target="Second Groom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Gloucester">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Warwick" target="Clarence">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Warwick" target="Harcourt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="King Henry V">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mowbray" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wart" target="Bullcalf">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Clarence">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Gloucester" target="Harcourt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="King Henry V">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clarence" target="Harcourt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clarence" target="King Henry V">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Groom" target="Second Groom">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

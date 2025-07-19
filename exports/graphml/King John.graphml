@@ -1,583 +1,589 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
-<key id="d0" for="node" attr.name="size" attr.type="long"/>
-<graph edgedefault="directed"><node id="Chatillon">
-  <data key="d0">10</data>
-</node>
-<node id="King John">
-  <data key="d0">10</data>
-</node>
-<node id="Arthur">
-  <data key="d0">10</data>
-</node>
-<node id="Pembroke">
-  <data key="d0">10</data>
-</node>
-<node id="Constance">
-  <data key="d0">10</data>
-</node>
-<node id="Queen Elinor">
-  <data key="d0">10</data>
-</node>
-<node id="Bastard">
-  <data key="d0">10</data>
-</node>
-<node id="Robert">
-  <data key="d0">10</data>
-</node>
-<node id="Peter">
-  <data key="d0">10</data>
-</node>
-<node id="Lady Faulconbridge">
-  <data key="d0">10</data>
-</node>
-<node id="Gurney">
-  <data key="d0">10</data>
-</node>
-<node id="Austria">
-  <data key="d0">10</data>
-</node>
-<node id="Lewis">
-  <data key="d0">10</data>
-</node>
-<node id="King Philip">
-  <data key="d0">10</data>
-</node>
-<node id="Blanch">
-  <data key="d0">10</data>
-</node>
-<node id="French Herald">
-  <data key="d0">10</data>
-</node>
-<node id="English Herald">
-  <data key="d0">10</data>
-</node>
-<node id="First Citizen">
-  <data key="d0">10</data>
-</node>
-<node id="Cardinal Pandulph">
-  <data key="d0">10</data>
-</node>
-<node id="Hubert">
-  <data key="d0">10</data>
-</node>
-<node id="Salisbury">
-  <data key="d0">10</data>
-</node>
-<node id="Messenger">
-  <data key="d0">10</data>
-</node>
-<node id="Bigot">
-  <data key="d0">10</data>
-</node>
-<node id="Melun">
-  <data key="d0">10</data>
-</node>
-<node id="Prince Henry">
-  <data key="d0">10</data>
-</node>
-<node id="Essex">
-  <data key="d0">10</data>
-</node>
-<node id="Elinor">
-  <data key="d0">10</data>
-</node>
-<node id="First Executioner">
-  <data key="d0">10</data>
-</node>
-<edge source="Chatillon" target="King John">
-  <data key="d1">3</data>
-</edge>
-<edge source="Chatillon" target="Constance">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chatillon" target="King Philip">
-  <data key="d1">2</data>
-</edge>
-<edge source="Chatillon" target="Queen Elinor">
-  <data key="d1">2</data>
-</edge>
-<edge source="Chatillon" target="Essex">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chatillon" target="Robert">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chatillon" target="Lady Faulconbridge">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chatillon" target="Gurney">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chatillon" target="Lewis">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chatillon" target="First Citizen">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chatillon" target="French Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="Chatillon" target="English Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="King John" target="Pembroke">
-  <data key="d1">4</data>
-</edge>
-<edge source="King John" target="Lewis">
-  <data key="d1">3</data>
-</edge>
-<edge source="King John" target="Melun">
-  <data key="d1">1</data>
-</edge>
-<edge source="King John" target="Salisbury">
-  <data key="d1">4</data>
-</edge>
-<edge source="King John" target="Queen Elinor">
-  <data key="d1">4</data>
-</edge>
-<edge source="King John" target="Robert">
-  <data key="d1">1</data>
-</edge>
-<edge source="King John" target="Lady Faulconbridge">
-  <data key="d1">1</data>
-</edge>
-<edge source="King John" target="King Philip">
-  <data key="d1">2</data>
-</edge>
-<edge source="King John" target="Messenger">
-  <data key="d1">2</data>
-</edge>
-<edge source="King John" target="Peter">
-  <data key="d1">1</data>
-</edge>
-<edge source="King John" target="Prince Henry">
-  <data key="d1">1</data>
-</edge>
-<edge source="Arthur" target="Chatillon">
-  <data key="d1">3</data>
-</edge>
-<edge source="Arthur" target="Lewis">
-  <data key="d1">7</data>
-</edge>
-<edge source="Arthur" target="King John">
-  <data key="d1">9</data>
-</edge>
-<edge source="Arthur" target="King Philip">
-  <data key="d1">4</data>
-</edge>
-<edge source="Arthur" target="French Herald">
-  <data key="d1">2</data>
-</edge>
-<edge source="Arthur" target="Bastard">
-  <data key="d1">5</data>
-</edge>
-<edge source="Arthur" target="Constance">
-  <data key="d1">5</data>
-</edge>
-<edge source="Arthur" target="Cardinal Pandulph">
-  <data key="d1">6</data>
-</edge>
-<edge source="Arthur" target="Hubert">
-  <data key="d1">21</data>
-</edge>
-<edge source="Arthur" target="Pembroke">
-  <data key="d1">2</data>
-</edge>
-<edge source="Arthur" target="Austria">
-  <data key="d1">2</data>
-</edge>
-<edge source="Arthur" target="Queen Elinor">
-  <data key="d1">3</data>
-</edge>
-<edge source="Arthur" target="Blanch">
-  <data key="d1">2</data>
-</edge>
-<edge source="Arthur" target="First Citizen">
-  <data key="d1">1</data>
-</edge>
-<edge source="Arthur" target="English Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="Arthur" target="Salisbury">
-  <data key="d1">2</data>
-</edge>
-<edge source="Arthur" target="Elinor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Arthur" target="First Executioner">
-  <data key="d1">1</data>
-</edge>
-<edge source="Arthur" target="Bigot">
-  <data key="d1">1</data>
-</edge>
-<edge source="Pembroke" target="Salisbury">
-  <data key="d1">4</data>
-</edge>
-<edge source="Pembroke" target="Peter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Pembroke" target="Prince Henry">
-  <data key="d1">1</data>
-</edge>
-<edge source="Constance" target="Queen Elinor">
-  <data key="d1">3</data>
-</edge>
-<edge source="Constance" target="King Philip">
-  <data key="d1">3</data>
-</edge>
-<edge source="Constance" target="King John">
-  <data key="d1">2</data>
-</edge>
-<edge source="Constance" target="Lewis">
-  <data key="d1">6</data>
-</edge>
-<edge source="Constance" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Constance" target="First Citizen">
-  <data key="d1">1</data>
-</edge>
-<edge source="Constance" target="French Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="Constance" target="English Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="Constance" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Elinor" target="Robert">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Elinor" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bastard" target="Robert">
-  <data key="d1">16</data>
-</edge>
-<edge source="Bastard" target="Peter">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bastard" target="Gurney">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bastard" target="Bigot">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bastard" target="Salisbury">
-  <data key="d1">5</data>
-</edge>
-<edge source="Bastard" target="Hubert">
-  <data key="d1">5</data>
-</edge>
-<edge source="Bastard" target="King John">
-  <data key="d1">8</data>
-</edge>
-<edge source="Bastard" target="Chatillon">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bastard" target="Queen Elinor">
-  <data key="d1">4</data>
-</edge>
-<edge source="Bastard" target="Essex">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bastard" target="Lady Faulconbridge">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bastard" target="Lewis">
-  <data key="d1">3</data>
-</edge>
-<edge source="Bastard" target="Constance">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bastard" target="King Philip">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bastard" target="Blanch">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bastard" target="First Citizen">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bastard" target="French Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bastard" target="English Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bastard" target="Cardinal Pandulph">
-  <data key="d1">3</data>
-</edge>
-<edge source="Bastard" target="Elinor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bastard" target="Pembroke">
-  <data key="d1">3</data>
-</edge>
-<edge source="Bastard" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bastard" target="Prince Henry">
-  <data key="d1">1</data>
-</edge>
-<edge source="Peter" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lady Faulconbridge" target="Robert">
-  <data key="d1">4</data>
-</edge>
-<edge source="Lady Faulconbridge" target="Queen Elinor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gurney" target="King John">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gurney" target="Queen Elinor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gurney" target="Robert">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gurney" target="Lady Faulconbridge">
-  <data key="d1">1</data>
-</edge>
-<edge source="Austria" target="Lewis">
-  <data key="d1">2</data>
-</edge>
-<edge source="Austria" target="Bastard">
-  <data key="d1">3</data>
-</edge>
-<edge source="Austria" target="Constance">
-  <data key="d1">3</data>
-</edge>
-<edge source="Austria" target="King Philip">
-  <data key="d1">3</data>
-</edge>
-<edge source="Austria" target="Chatillon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Austria" target="King John">
-  <data key="d1">2</data>
-</edge>
-<edge source="Austria" target="Queen Elinor">
-  <data key="d1">2</data>
-</edge>
-<edge source="Austria" target="Blanch">
-  <data key="d1">2</data>
-</edge>
-<edge source="Austria" target="First Citizen">
-  <data key="d1">1</data>
-</edge>
-<edge source="Austria" target="French Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="Austria" target="English Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="Austria" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Austria" target="Cardinal Pandulph">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lewis" target="Melun">
-  <data key="d1">3</data>
-</edge>
-<edge source="Lewis" target="Salisbury">
-  <data key="d1">2</data>
-</edge>
-<edge source="Lewis" target="Queen Elinor">
-  <data key="d1">2</data>
-</edge>
-<edge source="Lewis" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Philip" target="Lewis">
-  <data key="d1">3</data>
-</edge>
-<edge source="King Philip" target="Queen Elinor">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Philip" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Blanch" target="Chatillon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Blanch" target="First Citizen">
-  <data key="d1">4</data>
-</edge>
-<edge source="Blanch" target="Constance">
-  <data key="d1">5</data>
-</edge>
-<edge source="Blanch" target="Cardinal Pandulph">
-  <data key="d1">2</data>
-</edge>
-<edge source="Blanch" target="Lewis">
-  <data key="d1">2</data>
-</edge>
-<edge source="Blanch" target="King Philip">
-  <data key="d1">2</data>
-</edge>
-<edge source="Blanch" target="King John">
-  <data key="d1">2</data>
-</edge>
-<edge source="Blanch" target="Queen Elinor">
-  <data key="d1">2</data>
-</edge>
-<edge source="Blanch" target="French Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="Blanch" target="English Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="Blanch" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="French Herald" target="Lewis">
-  <data key="d1">1</data>
-</edge>
-<edge source="French Herald" target="King Philip">
-  <data key="d1">1</data>
-</edge>
-<edge source="French Herald" target="King John">
-  <data key="d1">1</data>
-</edge>
-<edge source="French Herald" target="Queen Elinor">
-  <data key="d1">1</data>
-</edge>
-<edge source="English Herald" target="King John">
-  <data key="d1">1</data>
-</edge>
-<edge source="English Herald" target="Lewis">
-  <data key="d1">1</data>
-</edge>
-<edge source="English Herald" target="King Philip">
-  <data key="d1">1</data>
-</edge>
-<edge source="English Herald" target="Queen Elinor">
-  <data key="d1">1</data>
-</edge>
-<edge source="English Herald" target="First Citizen">
-  <data key="d1">1</data>
-</edge>
-<edge source="English Herald" target="French Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Citizen" target="Lewis">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Citizen" target="King Philip">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Citizen" target="King John">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Citizen" target="Queen Elinor">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Citizen" target="French Herald">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Pandulph" target="King John">
-  <data key="d1">4</data>
-</edge>
-<edge source="Cardinal Pandulph" target="Salisbury">
-  <data key="d1">3</data>
-</edge>
-<edge source="Cardinal Pandulph" target="Constance">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cardinal Pandulph" target="King Philip">
-  <data key="d1">2</data>
-</edge>
-<edge source="Cardinal Pandulph" target="Queen Elinor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cardinal Pandulph" target="Lewis">
-  <data key="d1">3</data>
-</edge>
-<edge source="Hubert" target="King John">
-  <data key="d1">13</data>
-</edge>
-<edge source="Hubert" target="Salisbury">
-  <data key="d1">3</data>
-</edge>
-<edge source="Hubert" target="Melun">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hubert" target="Prince Henry">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hubert" target="Queen Elinor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hubert" target="Pembroke">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hubert" target="Messenger">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hubert" target="Peter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Pembroke">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Peter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bigot" target="Hubert">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bigot" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bigot" target="Pembroke">
-  <data key="d1">1</data>
-</edge>
-<edge source="Melun" target="Salisbury">
-  <data key="d1">2</data>
-</edge>
-<edge source="Melun" target="Pembroke">
-  <data key="d1">1</data>
-</edge>
-<edge source="Melun" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prince Henry" target="Salisbury">
-  <data key="d1">1</data>
-</edge>
-<edge source="Essex" target="King John">
-  <data key="d1">1</data>
-</edge>
-<edge source="Essex" target="Queen Elinor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Essex" target="Robert">
-  <data key="d1">1</data>
-</edge>
-<edge source="Essex" target="Lady Faulconbridge">
-  <data key="d1">1</data>
-</edge>
-<edge source="Essex" target="Gurney">
-  <data key="d1">1</data>
-</edge>
-<edge source="Elinor" target="King John">
-  <data key="d1">1</data>
-</edge>
-<edge source="Elinor" target="Queen Elinor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Elinor" target="Hubert">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Executioner" target="Hubert">
-  <data key="d1">1</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Chatillon">
+      <data key="d0">10</data>
+    </node>
+    <node id="King John">
+      <data key="d0">10</data>
+    </node>
+    <node id="Arthur">
+      <data key="d0">10</data>
+    </node>
+    <node id="Pembroke">
+      <data key="d0">10</data>
+    </node>
+    <node id="Constance">
+      <data key="d0">10</data>
+    </node>
+    <node id="Queen Elinor">
+      <data key="d0">10</data>
+    </node>
+    <node id="Bastard">
+      <data key="d0">10</data>
+    </node>
+    <node id="Robert">
+      <data key="d0">10</data>
+    </node>
+    <node id="Peter">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lady Faulconbridge">
+      <data key="d0">10</data>
+    </node>
+    <node id="Gurney">
+      <data key="d0">10</data>
+    </node>
+    <node id="Austria">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lewis">
+      <data key="d0">10</data>
+    </node>
+    <node id="King Philip">
+      <data key="d0">10</data>
+    </node>
+    <node id="Messenger">
+      <data key="d0">10</data>
+    </node>
+    <node id="Blanch">
+      <data key="d0">10</data>
+    </node>
+    <node id="French Herald">
+      <data key="d0">10</data>
+    </node>
+    <node id="English Herald">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Citizen">
+      <data key="d0">10</data>
+    </node>
+    <node id="Cardinal Pandulph">
+      <data key="d0">10</data>
+    </node>
+    <node id="Hubert">
+      <data key="d0">10</data>
+    </node>
+    <node id="Elinor">
+      <data key="d0">10</data>
+    </node>
+    <node id="Salisbury">
+      <data key="d0">10</data>
+    </node>
+    <node id="Bigot">
+      <data key="d0">10</data>
+    </node>
+    <node id="Melun">
+      <data key="d0">10</data>
+    </node>
+    <node id="Prince Henry">
+      <data key="d0">10</data>
+    </node>
+    <node id="Essex">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Executioner">
+      <data key="d0">10</data>
+    </node>
+    <edge source="Chatillon" target="King John">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Chatillon" target="Arthur">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Chatillon" target="Constance">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chatillon" target="King Philip">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chatillon" target="Blanch">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chatillon" target="Bastard">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chatillon" target="Queen Elinor">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chatillon" target="Essex">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chatillon" target="Robert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chatillon" target="Lady Faulconbridge">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chatillon" target="Gurney">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chatillon" target="Lewis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chatillon" target="Austria">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chatillon" target="First Citizen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chatillon" target="French Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chatillon" target="English Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King John" target="Pembroke">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King John" target="Lewis">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King John" target="Arthur">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="King John" target="English Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King John" target="Constance">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King John" target="Messenger">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King John" target="Cardinal Pandulph">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King John" target="Hubert">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="King John" target="Queen Elinor">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King John" target="Elinor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King John" target="Bastard">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="King John" target="Melun">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King John" target="Salisbury">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="King John" target="Essex">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King John" target="Robert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King John" target="Lady Faulconbridge">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King John" target="Gurney">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King John" target="Austria">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King John" target="King Philip">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King John" target="Blanch">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King John" target="First Citizen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King John" target="French Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King John" target="Peter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King John" target="Prince Henry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Arthur" target="Lewis">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Arthur" target="King Philip">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Arthur" target="French Herald">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Arthur" target="Bastard">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Arthur" target="Constance">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Arthur" target="Cardinal Pandulph">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Arthur" target="Hubert">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Arthur" target="Pembroke">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Arthur" target="Austria">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Arthur" target="Queen Elinor">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Arthur" target="Blanch">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Arthur" target="First Citizen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Arthur" target="English Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Arthur" target="Salisbury">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Arthur" target="Elinor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Arthur" target="First Executioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Arthur" target="Bigot">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pembroke" target="Salisbury">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Pembroke" target="Melun">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pembroke" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pembroke" target="Bastard">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Pembroke" target="Peter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pembroke" target="Hubert">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pembroke" target="Bigot">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pembroke" target="Prince Henry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Constance" target="Queen Elinor">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Constance" target="Bastard">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Constance" target="King Philip">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Constance" target="Lewis">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Constance" target="Blanch">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Constance" target="Austria">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Constance" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Constance" target="First Citizen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Constance" target="French Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Constance" target="English Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Constance" target="Salisbury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Constance" target="Cardinal Pandulph">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Elinor" target="Bastard">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Queen Elinor" target="Essex">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Elinor" target="Robert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Elinor" target="Lady Faulconbridge">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Elinor" target="Gurney">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Elinor" target="Lewis">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Elinor" target="Austria">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Elinor" target="King Philip">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Elinor" target="Blanch">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Elinor" target="First Citizen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Elinor" target="French Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Elinor" target="English Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Elinor" target="Salisbury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Elinor" target="Cardinal Pandulph">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Elinor" target="Elinor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Elinor" target="Hubert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bastard" target="Robert">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Bastard" target="Peter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bastard" target="Gurney">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bastard" target="Austria">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Bastard" target="Cardinal Pandulph">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Bastard" target="Salisbury">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Bastard" target="Bigot">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bastard" target="Hubert">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Bastard" target="Essex">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bastard" target="Lady Faulconbridge">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bastard" target="Lewis">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Bastard" target="King Philip">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bastard" target="Blanch">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bastard" target="First Citizen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bastard" target="French Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bastard" target="English Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bastard" target="Elinor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bastard" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bastard" target="Prince Henry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Robert" target="Lady Faulconbridge">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Robert" target="Essex">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Robert" target="Gurney">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Peter" target="Salisbury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Peter" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Peter" target="Hubert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Faulconbridge" target="Essex">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Faulconbridge" target="Gurney">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gurney" target="Essex">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Austria" target="Lewis">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Austria" target="King Philip">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Austria" target="Blanch">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Austria" target="First Citizen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Austria" target="French Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Austria" target="English Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Austria" target="Salisbury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Austria" target="Cardinal Pandulph">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lewis" target="King Philip">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lewis" target="First Citizen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lewis" target="Melun">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lewis" target="Salisbury">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lewis" target="Blanch">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lewis" target="French Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lewis" target="English Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lewis" target="Cardinal Pandulph">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lewis" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Philip" target="Messenger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Philip" target="Blanch">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Philip" target="First Citizen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Philip" target="French Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Philip" target="English Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Philip" target="Salisbury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Philip" target="Cardinal Pandulph">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Messenger" target="Melun">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="Salisbury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="Hubert">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Blanch" target="First Citizen">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Blanch" target="Cardinal Pandulph">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Blanch" target="French Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Blanch" target="English Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Blanch" target="Salisbury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="French Herald" target="First Citizen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="French Herald" target="English Herald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="English Herald" target="First Citizen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinal Pandulph" target="Salisbury">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Hubert" target="Salisbury">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Hubert" target="Bigot">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hubert" target="Melun">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hubert" target="Prince Henry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hubert" target="Elinor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hubert" target="First Executioner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="Melun">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Salisbury" target="Bigot">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salisbury" target="Prince Henry">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

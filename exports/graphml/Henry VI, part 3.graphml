@@ -1,1036 +1,1183 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
-<key id="d0" for="node" attr.name="size" attr.type="long"/>
-<graph edgedefault="directed"><node id="Northumberland">
-  <data key="d0">10</data>
-</node>
-<node id="York">
-  <data key="d0">10</data>
-</node>
-<node id="Clifford">
-  <data key="d0">10</data>
-</node>
-<node id="Richard">
-  <data key="d0">10</data>
-</node>
-<node id="Somerset">
-  <data key="d0">10</data>
-</node>
-<node id="Prince">
-  <data key="d0">10</data>
-</node>
-<node id="Warwick">
-  <data key="d0">10</data>
-</node>
-<node id="Norfolk">
-  <data key="d0">10</data>
-</node>
-<node id="King Henry Vi">
-  <data key="d0">10</data>
-</node>
-<node id="Westmoreland">
-  <data key="d0">10</data>
-</node>
-<node id="Exeter">
-  <data key="d0">10</data>
-</node>
-<node id="Father">
-  <data key="d0">10</data>
-</node>
-<node id="Prince Edward">
-  <data key="d0">10</data>
-</node>
-<node id="Queen Margaret">
-  <data key="d0">10</data>
-</node>
-<node id="Edward">
-  <data key="d0">10</data>
-</node>
-<node id="Montague">
-  <data key="d0">10</data>
-</node>
-<node id="Rutland">
-  <data key="d0">10</data>
-</node>
-<node id="Tutor">
-  <data key="d0">10</data>
-</node>
-<node id="George">
-  <data key="d0">10</data>
-</node>
-<node id="Messenger">
-  <data key="d0">10</data>
-</node>
-<node id="Son">
-  <data key="d0">10</data>
-</node>
-<node id="Bona">
-  <data key="d0">10</data>
-</node>
-<node id="Gloucester">
-  <data key="d0">10</data>
-</node>
-<node id="Clarence">
-  <data key="d0">10</data>
-</node>
-<node id="Second Keeper">
-  <data key="d0">10</data>
-</node>
-<node id="First Keeper">
-  <data key="d0">10</data>
-</node>
-<node id="King Edward Iv">
-  <data key="d0">10</data>
-</node>
-<node id="King Lewis Xi">
-  <data key="d0">10</data>
-</node>
-<node id="Oxford">
-  <data key="d0">10</data>
-</node>
-<node id="Post">
-  <data key="d0">10</data>
-</node>
-<node id="Lady Grey">
-  <data key="d0">10</data>
-</node>
-<node id="Hastings">
-  <data key="d0">10</data>
-</node>
-<node id="First Watchman">
-  <data key="d0">10</data>
-</node>
-<node id="Second Watchman">
-  <data key="d0">10</data>
-</node>
-<node id="Third Watchman">
-  <data key="d0">10</data>
-</node>
-<node id="Queen Elizabeth">
-  <data key="d0">10</data>
-</node>
-<node id="Rivers">
-  <data key="d0">10</data>
-</node>
-<node id="Huntsman">
-  <data key="d0">10</data>
-</node>
-<node id="Soldier">
-  <data key="d0">10</data>
-</node>
-<node id="John Mortimer">
-  <data key="d0">10</data>
-</node>
-<node id="Nobleman">
-  <data key="d0">10</data>
-</node>
-<node id="Lieutenant">
-  <data key="d0">10</data>
-</node>
-<node id="Mayor">
-  <data key="d0">10</data>
-</node>
-<node id="First Messenger">
-  <data key="d0">10</data>
-</node>
-<node id="Second Messenger">
-  <data key="d0">10</data>
-</node>
-<edge source="Northumberland" target="York">
-  <data key="d1">3</data>
-</edge>
-<edge source="Northumberland" target="Warwick">
-  <data key="d1">3</data>
-</edge>
-<edge source="Northumberland" target="Queen Margaret">
-  <data key="d1">5</data>
-</edge>
-<edge source="Northumberland" target="Richard">
-  <data key="d1">2</data>
-</edge>
-<edge source="Northumberland" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Northumberland" target="Prince Edward">
-  <data key="d1">2</data>
-</edge>
-<edge source="Northumberland" target="Prince">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clifford" target="York">
-  <data key="d1">13</data>
-</edge>
-<edge source="Clifford" target="King Henry Vi">
-  <data key="d1">5</data>
-</edge>
-<edge source="Clifford" target="Warwick">
-  <data key="d1">11</data>
-</edge>
-<edge source="Clifford" target="Rutland">
-  <data key="d1">6</data>
-</edge>
-<edge source="Clifford" target="Tutor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clifford" target="Queen Margaret">
-  <data key="d1">5</data>
-</edge>
-<edge source="Clifford" target="Northumberland">
-  <data key="d1">3</data>
-</edge>
-<edge source="Clifford" target="Edward">
-  <data key="d1">8</data>
-</edge>
-<edge source="Clifford" target="Richard">
-  <data key="d1">12</data>
-</edge>
-<edge source="Clifford" target="Messenger">
-  <data key="d1">3</data>
-</edge>
-<edge source="Clifford" target="Montague">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clifford" target="Norfolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clifford" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clifford" target="Exeter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clifford" target="Prince Edward">
-  <data key="d1">2</data>
-</edge>
-<edge source="Clifford" target="Prince">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clifford" target="George">
-  <data key="d1">2</data>
-</edge>
-<edge source="Richard" target="York">
-  <data key="d1">12</data>
-</edge>
-<edge source="Richard" target="Warwick">
-  <data key="d1">17</data>
-</edge>
-<edge source="Richard" target="Rutland">
-  <data key="d1">5</data>
-</edge>
-<edge source="Richard" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Somerset" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Somerset" target="Warwick">
-  <data key="d1">10</data>
-</edge>
-<edge source="Somerset" target="Third Watchman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prince" target="Warwick">
-  <data key="d1">2</data>
-</edge>
-<edge source="Prince" target="Queen Margaret">
-  <data key="d1">2</data>
-</edge>
-<edge source="Prince" target="Prince Edward">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prince" target="Richard">
-  <data key="d1">1</data>
-</edge>
-<edge source="Warwick" target="York">
-  <data key="d1">18</data>
-</edge>
-<edge source="Warwick" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Norfolk" target="York">
-  <data key="d1">2</data>
-</edge>
-<edge source="Norfolk" target="Northumberland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Norfolk" target="Warwick">
-  <data key="d1">4</data>
-</edge>
-<edge source="Norfolk" target="Richard">
-  <data key="d1">1</data>
-</edge>
-<edge source="Norfolk" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Norfolk" target="Queen Margaret">
-  <data key="d1">1</data>
-</edge>
-<edge source="Norfolk" target="Prince Edward">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Warwick">
-  <data key="d1">13</data>
-</edge>
-<edge source="King Henry Vi" target="Northumberland">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Henry Vi" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="York">
-  <data key="d1">3</data>
-</edge>
-<edge source="King Henry Vi" target="Richard">
-  <data key="d1">3</data>
-</edge>
-<edge source="King Henry Vi" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Oxford">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Henry Vi" target="Montague">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Henry Vi" target="Norfolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Queen Margaret">
-  <data key="d1">3</data>
-</edge>
-<edge source="King Henry Vi" target="Prince Edward">
-  <data key="d1">3</data>
-</edge>
-<edge source="King Henry Vi" target="Prince">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Son">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Second Keeper">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Lieutenant">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Henry Vi" target="Post">
-  <data key="d1">1</data>
-</edge>
-<edge source="Westmoreland" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="King Henry Vi">
-  <data key="d1">7</data>
-</edge>
-<edge source="Exeter" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="Warwick">
-  <data key="d1">2</data>
-</edge>
-<edge source="Exeter" target="Montague">
-  <data key="d1">2</data>
-</edge>
-<edge source="Exeter" target="Richard">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="Norfolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="Northumberland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="Queen Margaret">
-  <data key="d1">2</data>
-</edge>
-<edge source="Exeter" target="Prince Edward">
-  <data key="d1">2</data>
-</edge>
-<edge source="Exeter" target="Son">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="Father">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="Oxford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="King Edward Iv">
-  <data key="d1">1</data>
-</edge>
-<edge source="Exeter" target="Gloucester">
-  <data key="d1">1</data>
-</edge>
-<edge source="Father" target="Richard">
-  <data key="d1">1</data>
-</edge>
-<edge source="Father" target="Prince Edward">
-  <data key="d1">2</data>
-</edge>
-<edge source="Father" target="King Henry Vi">
-  <data key="d1">1</data>
-</edge>
-<edge source="Father" target="Son">
-  <data key="d1">1</data>
-</edge>
-<edge source="Father" target="Queen Margaret">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prince Edward" target="Warwick">
-  <data key="d1">4</data>
-</edge>
-<edge source="Prince Edward" target="Queen Margaret">
-  <data key="d1">7</data>
-</edge>
-<edge source="Prince Edward" target="York">
-  <data key="d1">2</data>
-</edge>
-<edge source="Prince Edward" target="Richard">
-  <data key="d1">2</data>
-</edge>
-<edge source="Prince Edward" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prince Edward" target="Son">
-  <data key="d1">1</data>
-</edge>
-<edge source="Prince Edward" target="Somerset">
-  <data key="d1">2</data>
-</edge>
-<edge source="Queen Margaret" target="York">
-  <data key="d1">12</data>
-</edge>
-<edge source="Queen Margaret" target="Warwick">
-  <data key="d1">12</data>
-</edge>
-<edge source="Queen Margaret" target="Rutland">
-  <data key="d1">2</data>
-</edge>
-<edge source="Queen Margaret" target="Richard">
-  <data key="d1">6</data>
-</edge>
-<edge source="Queen Margaret" target="Son">
-  <data key="d1">2</data>
-</edge>
-<edge source="Queen Margaret" target="Somerset">
-  <data key="d1">3</data>
-</edge>
-<edge source="Queen Margaret" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="King Henry Vi">
-  <data key="d1">12</data>
-</edge>
-<edge source="Edward" target="York">
-  <data key="d1">5</data>
-</edge>
-<edge source="Edward" target="Queen Margaret">
-  <data key="d1">11</data>
-</edge>
-<edge source="Edward" target="Northumberland">
-  <data key="d1">3</data>
-</edge>
-<edge source="Edward" target="Warwick">
-  <data key="d1">25</data>
-</edge>
-<edge source="Edward" target="Norfolk">
-  <data key="d1">2</data>
-</edge>
-<edge source="Edward" target="George">
-  <data key="d1">5</data>
-</edge>
-<edge source="Edward" target="Rutland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="Richard">
-  <data key="d1">6</data>
-</edge>
-<edge source="Edward" target="Gloucester">
-  <data key="d1">8</data>
-</edge>
-<edge source="Edward" target="Second Keeper">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="First Keeper">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="King Edward Iv">
-  <data key="d1">13</data>
-</edge>
-<edge source="Edward" target="King Lewis Xi">
-  <data key="d1">6</data>
-</edge>
-<edge source="Edward" target="Prince Edward">
-  <data key="d1">4</data>
-</edge>
-<edge source="Edward" target="Post">
-  <data key="d1">2</data>
-</edge>
-<edge source="Edward" target="Hastings">
-  <data key="d1">2</data>
-</edge>
-<edge source="Edward" target="Queen Elizabeth">
-  <data key="d1">5</data>
-</edge>
-<edge source="Edward" target="Somerset">
-  <data key="d1">2</data>
-</edge>
-<edge source="Edward" target="Oxford">
-  <data key="d1">2</data>
-</edge>
-<edge source="Edward" target="Montague">
-  <data key="d1">6</data>
-</edge>
-<edge source="Edward" target="Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="Messenger">
-  <data key="d1">4</data>
-</edge>
-<edge source="Edward" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="Exeter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="John Mortimer">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="Prince">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="First Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Edward" target="Second Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Montague" target="York">
-  <data key="d1">2</data>
-</edge>
-<edge source="Montague" target="Warwick">
-  <data key="d1">8</data>
-</edge>
-<edge source="Montague" target="Post">
-  <data key="d1">2</data>
-</edge>
-<edge source="Montague" target="Somerset">
-  <data key="d1">3</data>
-</edge>
-<edge source="Montague" target="Queen Margaret">
-  <data key="d1">2</data>
-</edge>
-<edge source="Montague" target="Richard">
-  <data key="d1">2</data>
-</edge>
-<edge source="Montague" target="Norfolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Montague" target="Northumberland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Montague" target="Westmoreland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Montague" target="Prince Edward">
-  <data key="d1">1</data>
-</edge>
-<edge source="Montague" target="Queen Elizabeth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Montague" target="Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Montague" target="Oxford">
-  <data key="d1">2</data>
-</edge>
-<edge source="Montague" target="Second Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Rutland" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Rutland" target="Tutor">
-  <data key="d1">1</data>
-</edge>
-<edge source="George" target="Queen Margaret">
-  <data key="d1">2</data>
-</edge>
-<edge source="George" target="Warwick">
-  <data key="d1">6</data>
-</edge>
-<edge source="George" target="Prince Edward">
-  <data key="d1">2</data>
-</edge>
-<edge source="George" target="Richard">
-  <data key="d1">3</data>
-</edge>
-<edge source="George" target="King Edward Iv">
-  <data key="d1">1</data>
-</edge>
-<edge source="George" target="King Henry Vi">
-  <data key="d1">1</data>
-</edge>
-<edge source="George" target="Prince">
-  <data key="d1">1</data>
-</edge>
-<edge source="George" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="George" target="Northumberland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="York">
-  <data key="d1">4</data>
-</edge>
-<edge source="Messenger" target="Rutland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Norfolk">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Warwick">
-  <data key="d1">2</data>
-</edge>
-<edge source="Messenger" target="Richard">
-  <data key="d1">3</data>
-</edge>
-<edge source="Messenger" target="Montague">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Queen Margaret">
-  <data key="d1">2</data>
-</edge>
-<edge source="Messenger" target="Prince">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Northumberland">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Prince Edward">
-  <data key="d1">2</data>
-</edge>
-<edge source="Messenger" target="Oxford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="Son" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Son" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bona" target="Warwick">
-  <data key="d1">6</data>
-</edge>
-<edge source="Bona" target="Queen Margaret">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bona" target="King Lewis Xi">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bona" target="Clarence">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bona" target="King Edward Iv">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bona" target="Prince Edward">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bona" target="Oxford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bona" target="Post">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Richard">
-  <data key="d1">3</data>
-</edge>
-<edge source="Gloucester" target="Warwick">
-  <data key="d1">6</data>
-</edge>
-<edge source="Gloucester" target="King Edward Iv">
-  <data key="d1">9</data>
-</edge>
-<edge source="Gloucester" target="Lady Grey">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gloucester" target="Hastings">
-  <data key="d1">3</data>
-</edge>
-<edge source="Gloucester" target="Post">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gloucester" target="Somerset">
-  <data key="d1">4</data>
-</edge>
-<edge source="Gloucester" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Oxford">
-  <data key="d1">4</data>
-</edge>
-<edge source="Gloucester" target="King Henry Vi">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gloucester" target="Nobleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Montague">
-  <data key="d1">4</data>
-</edge>
-<edge source="Gloucester" target="Queen Elizabeth">
-  <data key="d1">2</data>
-</edge>
-<edge source="Gloucester" target="Huntsman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Mayor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Second Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Queen Margaret">
-  <data key="d1">1</data>
-</edge>
-<edge source="Gloucester" target="Prince Edward">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clarence" target="Edward">
-  <data key="d1">2</data>
-</edge>
-<edge source="Clarence" target="Richard">
-  <data key="d1">2</data>
-</edge>
-<edge source="Clarence" target="King Edward Iv">
-  <data key="d1">11</data>
-</edge>
-<edge source="Clarence" target="Gloucester">
-  <data key="d1">10</data>
-</edge>
-<edge source="Clarence" target="Warwick">
-  <data key="d1">24</data>
-</edge>
-<edge source="Clarence" target="Hastings">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clarence" target="King Henry Vi">
-  <data key="d1">2</data>
-</edge>
-<edge source="Clarence" target="Father">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clarence" target="Queen Margaret">
-  <data key="d1">4</data>
-</edge>
-<edge source="Clarence" target="Queen Elizabeth">
-  <data key="d1">2</data>
-</edge>
-<edge source="Clarence" target="Lady Grey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clarence" target="Nobleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clarence" target="Somerset">
-  <data key="d1">4</data>
-</edge>
-<edge source="Clarence" target="Montague">
-  <data key="d1">3</data>
-</edge>
-<edge source="Clarence" target="Post">
-  <data key="d1">2</data>
-</edge>
-<edge source="Clarence" target="Lieutenant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clarence" target="Oxford">
-  <data key="d1">4</data>
-</edge>
-<edge source="Clarence" target="Exeter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clarence" target="First Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clarence" target="Second Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Clarence" target="Prince Edward">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Keeper" target="Second Keeper">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Keeper" target="King Henry Vi">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Edward Iv" target="Richard">
-  <data key="d1">6</data>
-</edge>
-<edge source="King Edward Iv" target="York">
-  <data key="d1">4</data>
-</edge>
-<edge source="King Edward Iv" target="Warwick">
-  <data key="d1">25</data>
-</edge>
-<edge source="King Edward Iv" target="Lady Grey">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Edward Iv" target="Somerset">
-  <data key="d1">8</data>
-</edge>
-<edge source="King Edward Iv" target="Montague">
-  <data key="d1">7</data>
-</edge>
-<edge source="King Edward Iv" target="Oxford">
-  <data key="d1">6</data>
-</edge>
-<edge source="King Edward Iv" target="Nobleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Edward Iv" target="Queen Elizabeth">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Edward Iv" target="Post">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Edward Iv" target="Second Watchman">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Edward Iv" target="Third Watchman">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Edward Iv" target="Mayor">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Edward Iv" target="Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Edward Iv" target="King Henry Vi">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Edward Iv" target="Second Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Edward Iv" target="Queen Margaret">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Edward Iv" target="Prince Edward">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Edward Iv" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Lewis Xi" target="Queen Margaret">
-  <data key="d1">3</data>
-</edge>
-<edge source="King Lewis Xi" target="Warwick">
-  <data key="d1">7</data>
-</edge>
-<edge source="King Lewis Xi" target="Prince Edward">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Lewis Xi" target="Oxford">
-  <data key="d1">2</data>
-</edge>
-<edge source="King Lewis Xi" target="Lady Grey">
-  <data key="d1">1</data>
-</edge>
-<edge source="King Lewis Xi" target="Post">
-  <data key="d1">1</data>
-</edge>
-<edge source="Oxford" target="Warwick">
-  <data key="d1">13</data>
-</edge>
-<edge source="Oxford" target="Somerset">
-  <data key="d1">6</data>
-</edge>
-<edge source="Oxford" target="Queen Margaret">
-  <data key="d1">4</data>
-</edge>
-<edge source="Oxford" target="Prince Edward">
-  <data key="d1">3</data>
-</edge>
-<edge source="Oxford" target="Post">
-  <data key="d1">2</data>
-</edge>
-<edge source="Oxford" target="Second Watchman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Oxford" target="Third Watchman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Oxford" target="Second Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Post" target="Prince Edward">
-  <data key="d1">2</data>
-</edge>
-<edge source="Post" target="Warwick">
-  <data key="d1">3</data>
-</edge>
-<edge source="Post" target="Richard">
-  <data key="d1">1</data>
-</edge>
-<edge source="Post" target="Queen Margaret">
-  <data key="d1">1</data>
-</edge>
-<edge source="Post" target="Somerset">
-  <data key="d1">2</data>
-</edge>
-<edge source="Post" target="Queen Elizabeth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lady Grey" target="Nobleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hastings" target="Montague">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hastings" target="King Edward Iv">
-  <data key="d1">3</data>
-</edge>
-<edge source="Hastings" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hastings" target="Post">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hastings" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hastings" target="Queen Elizabeth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hastings" target="Huntsman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hastings" target="Mayor">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hastings" target="Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Watchman" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Watchman" target="Hastings">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Watchman" target="Second Watchman">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Watchman" target="Third Watchman">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Watchman" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Watchman" target="King Edward Iv">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Watchman" target="Oxford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Watchman" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Watchman" target="Third Watchman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Watchman" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="Third Watchman" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Elizabeth" target="Rivers">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Elizabeth" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="Queen Elizabeth" target="Warwick">
-  <data key="d1">2</data>
-</edge>
-<edge source="Queen Elizabeth" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="Rivers" target="Warwick">
-  <data key="d1">3</data>
-</edge>
-<edge source="Huntsman" target="King Edward Iv">
-  <data key="d1">1</data>
-</edge>
-<edge source="John Mortimer" target="Richard">
-  <data key="d1">1</data>
-</edge>
-<edge source="John Mortimer" target="Montague">
-  <data key="d1">1</data>
-</edge>
-<edge source="John Mortimer" target="York">
-  <data key="d1">1</data>
-</edge>
-<edge source="John Mortimer" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lieutenant" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lieutenant" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lieutenant" target="Post">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lieutenant" target="Oxford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mayor" target="Montague">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mayor" target="Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Messenger" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Messenger" target="Second Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Messenger" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Messenger" target="King Edward Iv">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Messenger" target="Gloucester">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Messenger" target="Oxford">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Messenger" target="Montague">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Messenger" target="Warwick">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Messenger" target="Somerset">
-  <data key="d1">1</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Northumberland">
+      <data key="d0">10</data>
+    </node>
+    <node id="York">
+      <data key="d0">10</data>
+    </node>
+    <node id="Clifford">
+      <data key="d0">10</data>
+    </node>
+    <node id="Soldier">
+      <data key="d0">10</data>
+    </node>
+    <node id="Edward">
+      <data key="d0">10</data>
+    </node>
+    <node id="Father">
+      <data key="d0">10</data>
+    </node>
+    <node id="Richard">
+      <data key="d0">10</data>
+    </node>
+    <node id="Son">
+      <data key="d0">10</data>
+    </node>
+    <node id="Somerset">
+      <data key="d0">10</data>
+    </node>
+    <node id="Warwick">
+      <data key="d0">10</data>
+    </node>
+    <node id="Prince">
+      <data key="d0">10</data>
+    </node>
+    <node id="Norfolk">
+      <data key="d0">10</data>
+    </node>
+    <node id="King Henry Vi">
+      <data key="d0">10</data>
+    </node>
+    <node id="Westmoreland">
+      <data key="d0">10</data>
+    </node>
+    <node id="Exeter">
+      <data key="d0">10</data>
+    </node>
+    <node id="Messenger">
+      <data key="d0">10</data>
+    </node>
+    <node id="Queen Margaret">
+      <data key="d0">10</data>
+    </node>
+    <node id="Prince Edward">
+      <data key="d0">10</data>
+    </node>
+    <node id="Montague">
+      <data key="d0">10</data>
+    </node>
+    <node id="Post">
+      <data key="d0">10</data>
+    </node>
+    <node id="Rutland">
+      <data key="d0">10</data>
+    </node>
+    <node id="Tutor">
+      <data key="d0">10</data>
+    </node>
+    <node id="George">
+      <data key="d0">10</data>
+    </node>
+    <node id="Bona">
+      <data key="d0">10</data>
+    </node>
+    <node id="Gloucester">
+      <data key="d0">10</data>
+    </node>
+    <node id="Clarence">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Keeper">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Keeper">
+      <data key="d0">10</data>
+    </node>
+    <node id="King Edward Iv">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lady Grey">
+      <data key="d0">10</data>
+    </node>
+    <node id="Nobleman">
+      <data key="d0">10</data>
+    </node>
+    <node id="King Lewis Xi">
+      <data key="d0">10</data>
+    </node>
+    <node id="Oxford">
+      <data key="d0">10</data>
+    </node>
+    <node id="Hastings">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Watchman">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Watchman">
+      <data key="d0">10</data>
+    </node>
+    <node id="Third Watchman">
+      <data key="d0">10</data>
+    </node>
+    <node id="Queen Elizabeth">
+      <data key="d0">10</data>
+    </node>
+    <node id="Rivers">
+      <data key="d0">10</data>
+    </node>
+    <node id="Huntsman">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lieutenant">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mayor">
+      <data key="d0">10</data>
+    </node>
+    <node id="John Mortimer">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Messenger">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Messenger">
+      <data key="d0">10</data>
+    </node>
+    <edge source="Northumberland" target="York">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Northumberland" target="King Henry Vi">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Northumberland" target="Warwick">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Northumberland" target="Norfolk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Queen Margaret">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Northumberland" target="Clifford">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Northumberland" target="Edward">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Northumberland" target="Richard">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Northumberland" target="King Edward Iv">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Montague">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Westmoreland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Prince Edward">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Northumberland" target="Prince">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Northumberland" target="George">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Clifford">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="York" target="Soldier">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="York" target="Richard">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="York" target="Son">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="York" target="Somerset">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Warwick">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="York" target="Norfolk">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="York" target="King Henry Vi">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="York" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Queen Margaret">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="York" target="Edward">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="York" target="Post">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="York" target="Montague">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="York" target="Father">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="York" target="Rutland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Messenger">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="York" target="King Edward Iv">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="York" target="Queen Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Gloucester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="Prince Edward">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="York" target="Westmoreland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="York" target="John Mortimer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clifford" target="King Henry Vi">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Clifford" target="Father">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Clifford" target="Warwick">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Clifford" target="Messenger">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Clifford" target="Prince">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Clifford" target="Son">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Clifford" target="Rutland">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Clifford" target="Soldier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clifford" target="Tutor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clifford" target="Queen Margaret">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Clifford" target="Edward">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Clifford" target="Richard">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Clifford" target="King Edward Iv">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clifford" target="Montague">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clifford" target="Norfolk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clifford" target="Westmoreland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clifford" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clifford" target="Prince Edward">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Clifford" target="George">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Soldier" target="King Henry Vi">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Soldier" target="Warwick">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Soldier" target="Queen Margaret">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Soldier" target="King Lewis Xi">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Soldier" target="Oxford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Soldier" target="Hastings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Soldier" target="Edward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Soldier" target="King Edward Iv">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Soldier" target="Gloucester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Soldier" target="Mayor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Soldier" target="Montague">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edward" target="Father">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Edward" target="King Henry Vi">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Edward" target="Queen Margaret">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Edward" target="Prince">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Edward" target="Son">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Edward" target="Warwick">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Edward" target="Norfolk">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Edward" target="George">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Edward" target="Rutland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edward" target="Richard">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Edward" target="Gloucester">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Edward" target="Clarence">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Edward" target="Second Keeper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edward" target="First Keeper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edward" target="King Edward Iv">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Edward" target="King Lewis Xi">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Edward" target="Prince Edward">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Edward" target="Post">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Edward" target="Hastings">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Edward" target="Queen Elizabeth">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Edward" target="Somerset">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Edward" target="Oxford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Edward" target="Montague">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Edward" target="Messenger">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Edward" target="Westmoreland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edward" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edward" target="John Mortimer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edward" target="First Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edward" target="Second Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Father" target="King Henry Vi">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Father" target="Exeter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Father" target="Warwick">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Father" target="Westmoreland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Father" target="Richard">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Father" target="Queen Margaret">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Father" target="Prince Edward">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Father" target="Rutland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Father" target="Messenger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Father" target="Prince">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Father" target="Son">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Father" target="King Edward Iv">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Father" target="Lady Grey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Father" target="Gloucester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Father" target="Oxford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Father" target="Clarence">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Richard" target="Warwick">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Richard" target="King Henry Vi">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Richard" target="Son">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Richard" target="Prince">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Richard" target="Rutland">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Richard" target="Queen Margaret">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Richard" target="George">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Richard" target="Gloucester">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Richard" target="Clarence">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Richard" target="King Edward Iv">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Richard" target="Post">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Richard" target="Montague">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Richard" target="Norfolk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Richard" target="Westmoreland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Richard" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Richard" target="Prince Edward">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Richard" target="Messenger">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Richard" target="John Mortimer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Son" target="King Henry Vi">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Son" target="Westmoreland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Son" target="Queen Margaret">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Son" target="Montague">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Son" target="Rutland">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Son" target="Warwick">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Son" target="Lady Grey">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Son" target="King Edward Iv">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Son" target="Nobleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Son" target="Gloucester">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Son" target="Oxford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Son" target="King Lewis Xi">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Son" target="Clarence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Son" target="Second Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Son" target="Queen Elizabeth">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Son" target="Hastings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Son" target="Prince Edward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Son" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="King Edward Iv">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Somerset" target="Warwick">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Somerset" target="King Henry Vi">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Oxford">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Somerset" target="Gloucester">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Somerset" target="Montague">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Somerset" target="Queen Margaret">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Somerset" target="Clarence">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Somerset" target="Hastings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Queen Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Post">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Somerset" target="First Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Second Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Third Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Lieutenant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="First Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Second Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Somerset" target="Prince Edward">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Somerset" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Prince">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Warwick" target="King Henry Vi">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Warwick" target="Exeter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Warwick" target="Queen Margaret">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Warwick" target="Post">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Warwick" target="Norfolk">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Warwick" target="George">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Warwick" target="Montague">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Warwick" target="Messenger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Warwick" target="Prince Edward">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Warwick" target="Bona">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Warwick" target="Gloucester">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Warwick" target="King Lewis Xi">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Warwick" target="Oxford">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Warwick" target="Clarence">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Warwick" target="King Edward Iv">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="Warwick" target="First Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Second Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Third Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Hastings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Rivers">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Warwick" target="Queen Elizabeth">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Warwick" target="Westmoreland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Lieutenant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="First Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Warwick" target="Second Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince" target="Messenger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Prince" target="King Henry Vi">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Prince" target="Queen Margaret">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Prince" target="Oxford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Prince" target="King Lewis Xi">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Prince" target="Post">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince" target="Gloucester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince" target="King Edward Iv">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince" target="Prince Edward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince" target="George">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Montague">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="King Henry Vi">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Westmoreland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Queen Margaret">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Norfolk" target="Prince Edward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Westmoreland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Exeter">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="King Henry Vi" target="Messenger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Vi" target="Lieutenant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Vi" target="Clarence">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Vi" target="Montague">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Vi" target="Oxford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Vi" target="Post">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry Vi" target="Gloucester">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Henry Vi" target="Queen Margaret">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry Vi" target="Prince Edward">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Henry Vi" target="George">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="First Keeper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="Second Keeper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Henry Vi" target="King Edward Iv">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Montague">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Exeter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Queen Margaret">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Westmoreland" target="Prince Edward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Exeter" target="Post">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Exeter" target="Montague">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Exeter" target="Queen Margaret">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Exeter" target="Prince Edward">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Exeter" target="Clarence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Exeter" target="Oxford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Exeter" target="King Edward Iv">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Exeter" target="Gloucester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="Rutland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="King Lewis Xi">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="King Edward Iv">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Messenger" target="Montague">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="John Mortimer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="Queen Margaret">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Messenger" target="Prince Edward">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Messenger" target="George">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="Oxford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="George">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Margaret" target="Rutland">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Margaret" target="Post">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Margaret" target="King Lewis Xi">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Queen Margaret" target="Prince Edward">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Queen Margaret" target="Bona">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Margaret" target="Montague">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Margaret" target="Oxford">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Queen Margaret" target="Clarence">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Queen Margaret" target="King Edward Iv">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Queen Margaret" target="Gloucester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Edward" target="George">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Prince Edward" target="King Lewis Xi">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Edward" target="Post">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Prince Edward" target="Montague">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Edward" target="Oxford">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Prince Edward" target="Bona">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Edward" target="King Edward Iv">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Prince Edward" target="Gloucester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Edward" target="Clarence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Montague" target="Post">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Montague" target="King Edward Iv">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Montague" target="Hastings">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Montague" target="John Mortimer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Montague" target="Gloucester">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Montague" target="Clarence">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Montague" target="Queen Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Montague" target="Mayor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Montague" target="Oxford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Montague" target="First Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Montague" target="Second Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Post" target="King Lewis Xi">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Post" target="Gloucester">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Post" target="Hastings">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Post" target="Clarence">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Post" target="Oxford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Post" target="Bona">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Post" target="King Edward Iv">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Post" target="Queen Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Post" target="Lieutenant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rutland" target="Tutor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tutor" target="Clarence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="George" target="King Edward Iv">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bona" target="King Lewis Xi">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bona" target="Clarence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bona" target="King Edward Iv">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bona" target="Oxford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="King Edward Iv">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Gloucester" target="Clarence">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="Gloucester" target="Lady Grey">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gloucester" target="Hastings">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Gloucester" target="Oxford">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Gloucester" target="Nobleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Queen Elizabeth">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Gloucester" target="Huntsman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Mayor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="First Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gloucester" target="Second Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clarence" target="King Edward Iv">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Clarence" target="Hastings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clarence" target="Rivers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clarence" target="Queen Elizabeth">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Clarence" target="Lady Grey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clarence" target="Nobleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clarence" target="Lieutenant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clarence" target="Oxford">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Clarence" target="First Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clarence" target="Second Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Keeper" target="First Keeper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Edward Iv" target="Lady Grey">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Edward Iv" target="Hastings">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="King Edward Iv" target="Huntsman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Edward Iv" target="Mayor">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Edward Iv" target="Oxford">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="King Edward Iv" target="Nobleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Edward Iv" target="Queen Elizabeth">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="King Edward Iv" target="First Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Edward Iv" target="Second Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Edward Iv" target="Third Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Edward Iv" target="First Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Edward Iv" target="Second Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Grey" target="King Lewis Xi">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Grey" target="Nobleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nobleman" target="Third Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Lewis Xi" target="Oxford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Oxford" target="First Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oxford" target="Second Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oxford" target="Third Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oxford" target="Lieutenant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oxford" target="First Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oxford" target="Second Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hastings" target="First Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hastings" target="Mayor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hastings" target="Queen Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hastings" target="Huntsman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Watchman" target="Second Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Watchman" target="Third Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Watchman" target="Third Watchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Elizabeth" target="Rivers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Messenger" target="Second Messenger">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

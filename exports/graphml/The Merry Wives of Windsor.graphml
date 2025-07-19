@@ -1,625 +1,637 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
-<key id="d0" for="node" attr.name="size" attr.type="long"/>
-<graph edgedefault="directed"><node id="Shallow">
-  <data key="d0">10</data>
-</node>
-<node id="Slender">
-  <data key="d0">10</data>
-</node>
-<node id="Falstaff">
-  <data key="d0">10</data>
-</node>
-<node id="Sir Hugh Evans">
-  <data key="d0">10</data>
-</node>
-<node id="Anne Page">
-  <data key="d0">10</data>
-</node>
-<node id="Page">
-  <data key="d0">10</data>
-</node>
-<node id="Bardolph">
-  <data key="d0">10</data>
-</node>
-<node id="Nym">
-  <data key="d0">10</data>
-</node>
-<node id="Pistol">
-  <data key="d0">10</data>
-</node>
-<node id="Simple">
-  <data key="d0">10</data>
-</node>
-<node id="Mistress Ford">
-  <data key="d0">10</data>
-</node>
-<node id="Doctor Caius">
-  <data key="d0">10</data>
-</node>
-<node id="Mistress Quickly">
-  <data key="d0">10</data>
-</node>
-<node id="Host">
-  <data key="d0">10</data>
-</node>
-<node id="Ford">
-  <data key="d0">10</data>
-</node>
-<node id="Mistress Page">
-  <data key="d0">10</data>
-</node>
-<node id="Rugby">
-  <data key="d0">10</data>
-</node>
-<node id="Fenton">
-  <data key="d0">10</data>
-</node>
-<node id="Robin">
-  <data key="d0">10</data>
-</node>
-<node id="&amp; C">
-  <data key="d0">10</data>
-</node>
-<node id="Servant">
-  <data key="d0">10</data>
-</node>
-<node id="William Page">
-  <data key="d0">10</data>
-</node>
-<node id="First Servant">
-  <data key="d0">10</data>
-</node>
-<node id="Second Servant">
-  <data key="d0">10</data>
-</node>
-<edge source="Shallow" target="Slender">
-  <data key="d1">9</data>
-</edge>
-<edge source="Shallow" target="Sir Hugh Evans">
-  <data key="d1">3</data>
-</edge>
-<edge source="Shallow" target="Simple">
-  <data key="d1">2</data>
-</edge>
-<edge source="Falstaff" target="Sir Hugh Evans">
-  <data key="d1">5</data>
-</edge>
-<edge source="Falstaff" target="Shallow">
-  <data key="d1">4</data>
-</edge>
-<edge source="Falstaff" target="Slender">
-  <data key="d1">4</data>
-</edge>
-<edge source="Falstaff" target="Pistol">
-  <data key="d1">7</data>
-</edge>
-<edge source="Falstaff" target="Mistress Ford">
-  <data key="d1">15</data>
-</edge>
-<edge source="Falstaff" target="Ford">
-  <data key="d1">23</data>
-</edge>
-<edge source="Falstaff" target="Page">
-  <data key="d1">7</data>
-</edge>
-<edge source="Falstaff" target="Mistress Page">
-  <data key="d1">10</data>
-</edge>
-<edge source="Falstaff" target="Nym">
-  <data key="d1">4</data>
-</edge>
-<edge source="Falstaff" target="Robin">
-  <data key="d1">3</data>
-</edge>
-<edge source="Falstaff" target="Host">
-  <data key="d1">3</data>
-</edge>
-<edge source="Falstaff" target="Mistress Quickly">
-  <data key="d1">6</data>
-</edge>
-<edge source="Falstaff" target="Simple">
-  <data key="d1">3</data>
-</edge>
-<edge source="Falstaff" target="Fenton">
-  <data key="d1">2</data>
-</edge>
-<edge source="Falstaff" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="First Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Falstaff" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Sir Hugh Evans" target="Slender">
-  <data key="d1">5</data>
-</edge>
-<edge source="Sir Hugh Evans" target="William Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="Anne Page" target="Sir Hugh Evans">
-  <data key="d1">6</data>
-</edge>
-<edge source="Anne Page" target="Slender">
-  <data key="d1">7</data>
-</edge>
-<edge source="Anne Page" target="Mistress Quickly">
-  <data key="d1">4</data>
-</edge>
-<edge source="Anne Page" target="Simple">
-  <data key="d1">2</data>
-</edge>
-<edge source="Anne Page" target="Doctor Caius">
-  <data key="d1">6</data>
-</edge>
-<edge source="Anne Page" target="Host">
-  <data key="d1">1</data>
-</edge>
-<edge source="Anne Page" target="Shallow">
-  <data key="d1">4</data>
-</edge>
-<edge source="Anne Page" target="Fenton">
-  <data key="d1">3</data>
-</edge>
-<edge source="Anne Page" target="Mistress Page">
-  <data key="d1">2</data>
-</edge>
-<edge source="Anne Page" target="Page">
-  <data key="d1">3</data>
-</edge>
-<edge source="Anne Page" target="Falstaff">
-  <data key="d1">2</data>
-</edge>
-<edge source="Anne Page" target="Bardolph">
-  <data key="d1">1</data>
-</edge>
-<edge source="Anne Page" target="Pistol">
-  <data key="d1">2</data>
-</edge>
-<edge source="Anne Page" target="Nym">
-  <data key="d1">1</data>
-</edge>
-<edge source="Anne Page" target="Mistress Ford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Anne Page" target="Ford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Page" target="Sir Hugh Evans">
-  <data key="d1">9</data>
-</edge>
-<edge source="Page" target="Shallow">
-  <data key="d1">20</data>
-</edge>
-<edge source="Page" target="Slender">
-  <data key="d1">13</data>
-</edge>
-<edge source="Page" target="Pistol">
-  <data key="d1">3</data>
-</edge>
-<edge source="Page" target="Simple">
-  <data key="d1">3</data>
-</edge>
-<edge source="Page" target="Rugby">
-  <data key="d1">1</data>
-</edge>
-<edge source="Page" target="Robin">
-  <data key="d1">2</data>
-</edge>
-<edge source="Page" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Page" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Slender">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Host">
-  <data key="d1">3</data>
-</edge>
-<edge source="Bardolph" target="Falstaff">
-  <data key="d1">5</data>
-</edge>
-<edge source="Bardolph" target="Mistress Quickly">
-  <data key="d1">3</data>
-</edge>
-<edge source="Bardolph" target="Shallow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Sir Hugh Evans">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bardolph" target="Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Pistol">
-  <data key="d1">3</data>
-</edge>
-<edge source="Bardolph" target="Nym">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bardolph" target="Simple">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bardolph" target="Robin">
-  <data key="d1">1</data>
-</edge>
-<edge source="Bardolph" target="Ford">
-  <data key="d1">2</data>
-</edge>
-<edge source="Bardolph" target="Doctor Caius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Nym" target="Slender">
-  <data key="d1">1</data>
-</edge>
-<edge source="Nym" target="Page">
-  <data key="d1">4</data>
-</edge>
-<edge source="Nym" target="Pistol">
-  <data key="d1">3</data>
-</edge>
-<edge source="Nym" target="Simple">
-  <data key="d1">2</data>
-</edge>
-<edge source="Nym" target="Shallow">
-  <data key="d1">2</data>
-</edge>
-<edge source="Nym" target="Sir Hugh Evans">
-  <data key="d1">1</data>
-</edge>
-<edge source="Pistol" target="Slender">
-  <data key="d1">2</data>
-</edge>
-<edge source="Pistol" target="Shallow">
-  <data key="d1">2</data>
-</edge>
-<edge source="Pistol" target="Sir Hugh Evans">
-  <data key="d1">2</data>
-</edge>
-<edge source="Pistol" target="Simple">
-  <data key="d1">1</data>
-</edge>
-<edge source="Pistol" target="Robin">
-  <data key="d1">1</data>
-</edge>
-<edge source="Simple" target="Slender">
-  <data key="d1">5</data>
-</edge>
-<edge source="Simple" target="Sir Hugh Evans">
-  <data key="d1">4</data>
-</edge>
-<edge source="Mistress Ford" target="Page">
-  <data key="d1">6</data>
-</edge>
-<edge source="Mistress Ford" target="Mistress Page">
-  <data key="d1">15</data>
-</edge>
-<edge source="Mistress Ford" target="Mistress Quickly">
-  <data key="d1">6</data>
-</edge>
-<edge source="Mistress Ford" target="Robin">
-  <data key="d1">4</data>
-</edge>
-<edge source="Mistress Ford" target="Pistol">
-  <data key="d1">2</data>
-</edge>
-<edge source="Mistress Ford" target="Nym">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Ford" target="Shallow">
-  <data key="d1">2</data>
-</edge>
-<edge source="Mistress Ford" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Ford" target="Sir Hugh Evans">
-  <data key="d1">4</data>
-</edge>
-<edge source="Mistress Ford" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Ford" target="Slender">
-  <data key="d1">1</data>
-</edge>
-<edge source="Doctor Caius" target="Sir Hugh Evans">
-  <data key="d1">5</data>
-</edge>
-<edge source="Doctor Caius" target="Rugby">
-  <data key="d1">11</data>
-</edge>
-<edge source="Doctor Caius" target="Shallow">
-  <data key="d1">3</data>
-</edge>
-<edge source="Doctor Caius" target="Page">
-  <data key="d1">5</data>
-</edge>
-<edge source="Doctor Caius" target="Fenton">
-  <data key="d1">3</data>
-</edge>
-<edge source="Doctor Caius" target="Mistress Page">
-  <data key="d1">5</data>
-</edge>
-<edge source="Doctor Caius" target="Mistress Quickly">
-  <data key="d1">3</data>
-</edge>
-<edge source="Doctor Caius" target="Simple">
-  <data key="d1">3</data>
-</edge>
-<edge source="Doctor Caius" target="Host">
-  <data key="d1">4</data>
-</edge>
-<edge source="Doctor Caius" target="Slender">
-  <data key="d1">4</data>
-</edge>
-<edge source="Doctor Caius" target="Robin">
-  <data key="d1">2</data>
-</edge>
-<edge source="Doctor Caius" target="Ford">
-  <data key="d1">3</data>
-</edge>
-<edge source="Doctor Caius" target="Mistress Ford">
-  <data key="d1">3</data>
-</edge>
-<edge source="Doctor Caius" target="Falstaff">
-  <data key="d1">3</data>
-</edge>
-<edge source="Doctor Caius" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Doctor Caius" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Quickly" target="Sir Hugh Evans">
-  <data key="d1">4</data>
-</edge>
-<edge source="Mistress Quickly" target="Rugby">
-  <data key="d1">3</data>
-</edge>
-<edge source="Mistress Quickly" target="Simple">
-  <data key="d1">2</data>
-</edge>
-<edge source="Mistress Quickly" target="Slender">
-  <data key="d1">4</data>
-</edge>
-<edge source="Mistress Quickly" target="Page">
-  <data key="d1">4</data>
-</edge>
-<edge source="Mistress Quickly" target="Shallow">
-  <data key="d1">2</data>
-</edge>
-<edge source="Mistress Quickly" target="Pistol">
-  <data key="d1">3</data>
-</edge>
-<edge source="Mistress Quickly" target="Nym">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Quickly" target="Robin">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Quickly" target="William Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="Host" target="Page">
-  <data key="d1">5</data>
-</edge>
-<edge source="Host" target="Slender">
-  <data key="d1">3</data>
-</edge>
-<edge source="Host" target="Pistol">
-  <data key="d1">2</data>
-</edge>
-<edge source="Host" target="Nym">
-  <data key="d1">2</data>
-</edge>
-<edge source="Host" target="Mistress Page">
-  <data key="d1">2</data>
-</edge>
-<edge source="Host" target="Mistress Ford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Host" target="Mistress Quickly">
-  <data key="d1">2</data>
-</edge>
-<edge source="Host" target="Shallow">
-  <data key="d1">4</data>
-</edge>
-<edge source="Host" target="Rugby">
-  <data key="d1">1</data>
-</edge>
-<edge source="Host" target="Sir Hugh Evans">
-  <data key="d1">2</data>
-</edge>
-<edge source="Host" target="Simple">
-  <data key="d1">2</data>
-</edge>
-<edge source="Host" target="Robin">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ford" target="Pistol">
-  <data key="d1">5</data>
-</edge>
-<edge source="Ford" target="Mistress Page">
-  <data key="d1">11</data>
-</edge>
-<edge source="Ford" target="Page">
-  <data key="d1">19</data>
-</edge>
-<edge source="Ford" target="Mistress Quickly">
-  <data key="d1">5</data>
-</edge>
-<edge source="Ford" target="Shallow">
-  <data key="d1">5</data>
-</edge>
-<edge source="Ford" target="Mistress Ford">
-  <data key="d1">6</data>
-</edge>
-<edge source="Ford" target="Sir Hugh Evans">
-  <data key="d1">4</data>
-</edge>
-<edge source="Ford" target="Nym">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ford" target="Host">
-  <data key="d1">2</data>
-</edge>
-<edge source="Ford" target="Robin">
-  <data key="d1">3</data>
-</edge>
-<edge source="Ford" target="Slender">
-  <data key="d1">2</data>
-</edge>
-<edge source="Ford" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Ford" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Page" target="Page">
-  <data key="d1">8</data>
-</edge>
-<edge source="Mistress Page" target="Mistress Quickly">
-  <data key="d1">6</data>
-</edge>
-<edge source="Mistress Page" target="Robin">
-  <data key="d1">3</data>
-</edge>
-<edge source="Mistress Page" target="Sir Hugh Evans">
-  <data key="d1">5</data>
-</edge>
-<edge source="Mistress Page" target="Slender">
-  <data key="d1">4</data>
-</edge>
-<edge source="Mistress Page" target="Pistol">
-  <data key="d1">2</data>
-</edge>
-<edge source="Mistress Page" target="Nym">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Page" target="Shallow">
-  <data key="d1">4</data>
-</edge>
-<edge source="Mistress Page" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Page" target="William Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Page" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Rugby" target="Simple">
-  <data key="d1">1</data>
-</edge>
-<edge source="Rugby" target="Shallow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Rugby" target="Slender">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fenton" target="Mistress Quickly">
-  <data key="d1">6</data>
-</edge>
-<edge source="Fenton" target="Host">
-  <data key="d1">3</data>
-</edge>
-<edge source="Fenton" target="Page">
-  <data key="d1">7</data>
-</edge>
-<edge source="Fenton" target="Mistress Page">
-  <data key="d1">4</data>
-</edge>
-<edge source="Fenton" target="Slender">
-  <data key="d1">4</data>
-</edge>
-<edge source="Fenton" target="Rugby">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fenton" target="Simple">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fenton" target="Shallow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fenton" target="Mistress Ford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fenton" target="Pistol">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fenton" target="Sir Hugh Evans">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fenton" target="Ford">
-  <data key="d1">1</data>
-</edge>
-<edge source="Robin" target="Shallow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Robin" target="Slender">
-  <data key="d1">1</data>
-</edge>
-<edge source="Robin" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Robin" target="Sir Hugh Evans">
-  <data key="d1">1</data>
-</edge>
-<edge source="&amp; C" target="Ford">
-  <data key="d1">1</data>
-</edge>
-<edge source="&amp; C" target="Mistress Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="&amp; C" target="Robin">
-  <data key="d1">1</data>
-</edge>
-<edge source="&amp; C" target="Shallow">
-  <data key="d1">1</data>
-</edge>
-<edge source="&amp; C" target="Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="&amp; C" target="Slender">
-  <data key="d1">1</data>
-</edge>
-<edge source="&amp; C" target="Doctor Caius">
-  <data key="d1">1</data>
-</edge>
-<edge source="&amp; C" target="Host">
-  <data key="d1">1</data>
-</edge>
-<edge source="Servant" target="Sir Hugh Evans">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Servant" target="Mistress Ford">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Servant" target="Mistress Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Servant" target="Ford">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Servant" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Servant" target="Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Servant" target="Sir Hugh Evans">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Servant" target="Shallow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Servant" target="Sir Hugh Evans">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Servant" target="Shallow">
-  <data key="d1">1</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Falstaff">
+      <data key="d0">10</data>
+    </node>
+    <node id="Shallow">
+      <data key="d0">10</data>
+    </node>
+    <node id="Slender">
+      <data key="d0">10</data>
+    </node>
+    <node id="Simple">
+      <data key="d0">10</data>
+    </node>
+    <node id="Sir Hugh Evans">
+      <data key="d0">10</data>
+    </node>
+    <node id="Page">
+      <data key="d0">10</data>
+    </node>
+    <node id="Anne Page">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mistress Page">
+      <data key="d0">10</data>
+    </node>
+    <node id="Bardolph">
+      <data key="d0">10</data>
+    </node>
+    <node id="Pistol">
+      <data key="d0">10</data>
+    </node>
+    <node id="Nym">
+      <data key="d0">10</data>
+    </node>
+    <node id="Host">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mistress Ford">
+      <data key="d0">10</data>
+    </node>
+    <node id="Ford">
+      <data key="d0">10</data>
+    </node>
+    <node id="Doctor Caius">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mistress Quickly">
+      <data key="d0">10</data>
+    </node>
+    <node id="Robin">
+      <data key="d0">10</data>
+    </node>
+    <node id="Rugby">
+      <data key="d0">10</data>
+    </node>
+    <node id="Servant">
+      <data key="d0">10</data>
+    </node>
+    <node id="Fenton">
+      <data key="d0">10</data>
+    </node>
+    <node id="&amp; C">
+      <data key="d0">10</data>
+    </node>
+    <node id="William Page">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Servant">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Servant">
+      <data key="d0">10</data>
+    </node>
+    <edge source="Falstaff" target="Shallow">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Falstaff" target="Sir Hugh Evans">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Falstaff" target="Slender">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Falstaff" target="Pistol">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Falstaff" target="Mistress Ford">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Falstaff" target="Ford">
+      <data key="d1">35</data>
+    </edge>
+    <edge source="Falstaff" target="Host">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Falstaff" target="Bardolph">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Falstaff" target="Page">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Falstaff" target="Mistress Page">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Falstaff" target="Robin">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Falstaff" target="Nym">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Falstaff" target="Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Falstaff" target="Simple">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Falstaff" target="Mistress Quickly">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Falstaff" target="Fenton">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Falstaff" target="Anne Page">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Falstaff" target="Doctor Caius">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Falstaff" target="First Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falstaff" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shallow" target="Slender">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Shallow" target="Page">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Shallow" target="Sir Hugh Evans">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Shallow" target="Mistress Page">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Shallow" target="Host">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Shallow" target="Doctor Caius">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Shallow" target="Simple">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shallow" target="Anne Page">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Shallow" target="Ford">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Shallow" target="Mistress Quickly">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shallow" target="Bardolph">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shallow" target="Pistol">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shallow" target="Nym">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shallow" target="Mistress Ford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shallow" target="Rugby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shallow" target="Robin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shallow" target="&amp; C">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shallow" target="Fenton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shallow" target="First Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shallow" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Slender" target="Page">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Slender" target="Anne Page">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Slender" target="Sir Hugh Evans">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Slender" target="Bardolph">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Slender" target="Pistol">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Slender" target="Nym">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Slender" target="Simple">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Slender" target="Mistress Quickly">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Slender" target="Host">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Slender" target="Mistress Page">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Slender" target="Fenton">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Slender" target="Doctor Caius">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Slender" target="Rugby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Slender" target="Robin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Slender" target="Ford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Slender" target="&amp; C">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Slender" target="Mistress Ford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Simple" target="Sir Hugh Evans">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Simple" target="Mistress Quickly">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Simple" target="Doctor Caius">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Simple" target="Page">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Simple" target="Anne Page">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Simple" target="Ford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Simple" target="Mistress Page">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Simple" target="Nym">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Simple" target="Bardolph">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Simple" target="Pistol">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Simple" target="Rugby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Simple" target="Fenton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Simple" target="Host">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="Page">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="Anne Page">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="Host">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="Doctor Caius">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="Mistress Quickly">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="Mistress Page">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="Ford">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="Bardolph">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="Pistol">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="Nym">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="Mistress Ford">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="Robin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="William Page">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="First Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Hugh Evans" target="Fenton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Page" target="Mistress Ford">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Page" target="Ford">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Page" target="Nym">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Page" target="Mistress Quickly">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Page" target="Doctor Caius">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Page" target="Mistress Page">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Page" target="Pistol">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Page" target="Host">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Page" target="Robin">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Page" target="Fenton">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Page" target="Bardolph">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Page" target="Anne Page">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Page" target="Rugby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Page" target="&amp; C">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Page" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Page" target="First Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Page" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne Page" target="Mistress Quickly">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Anne Page" target="Doctor Caius">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Anne Page" target="Host">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne Page" target="Fenton">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Anne Page" target="Mistress Page">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Anne Page" target="Bardolph">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne Page" target="Pistol">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Anne Page" target="Nym">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne Page" target="Mistress Ford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne Page" target="Ford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Page" target="Mistress Ford">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Mistress Page" target="Ford">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Mistress Page" target="Host">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mistress Page" target="Mistress Quickly">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mistress Page" target="Robin">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mistress Page" target="Fenton">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mistress Page" target="Pistol">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mistress Page" target="Doctor Caius">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mistress Page" target="Nym">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Page" target="&amp; C">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Page" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Page" target="William Page">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Page" target="First Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Page" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Host">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Bardolph" target="Mistress Quickly">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Bardolph" target="Pistol">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Bardolph" target="Nym">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bardolph" target="Robin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardolph" target="Ford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bardolph" target="Doctor Caius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pistol" target="Host">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Pistol" target="Ford">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Pistol" target="Nym">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Pistol" target="Mistress Ford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pistol" target="Mistress Quickly">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Pistol" target="Robin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pistol" target="Doctor Caius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pistol" target="Fenton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nym" target="Host">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Nym" target="Mistress Ford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nym" target="Ford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nym" target="Mistress Quickly">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Host" target="Doctor Caius">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Host" target="Ford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Host" target="Fenton">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Host" target="Mistress Ford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Host" target="Mistress Quickly">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Host" target="Rugby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Host" target="Robin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Host" target="&amp; C">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Ford" target="Mistress Quickly">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mistress Ford" target="Robin">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mistress Ford" target="Ford">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Mistress Ford" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Ford" target="Doctor Caius">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mistress Ford" target="First Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Ford" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Ford" target="Fenton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ford" target="Mistress Quickly">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Ford" target="&amp; C">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ford" target="Robin">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Ford" target="Doctor Caius">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Ford" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ford" target="First Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ford" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ford" target="Fenton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Doctor Caius" target="Rugby">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Doctor Caius" target="Mistress Quickly">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Doctor Caius" target="Fenton">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Doctor Caius" target="Robin">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Doctor Caius" target="&amp; C">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Doctor Caius" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Quickly" target="Rugby">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mistress Quickly" target="Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mistress Quickly" target="Fenton">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mistress Quickly" target="Robin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Quickly" target="William Page">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Robin" target="&amp; C">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Robin" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rugby" target="Fenton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Servant" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

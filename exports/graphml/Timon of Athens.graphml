@@ -1,1222 +1,1255 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
-<key id="d0" for="node" attr.name="size" attr.type="long"/>
-<graph edgedefault="directed"><node id="Jeweller">
-  <data key="d0">10</data>
-</node>
-<node id="Merchant">
-  <data key="d0">10</data>
-</node>
-<node id="Timon">
-  <data key="d0">10</data>
-</node>
-<node id="Poet">
-  <data key="d0">10</data>
-</node>
-<node id="Apemantus">
-  <data key="d0">10</data>
-</node>
-<node id="Painter">
-  <data key="d0">10</data>
-</node>
-<node id="Ventidius">
-  <data key="d0">10</data>
-</node>
-<node id="Old Athenian">
-  <data key="d0">10</data>
-</node>
-<node id="Lucilius">
-  <data key="d0">10</data>
-</node>
-<node id="Alcibiades">
-  <data key="d0">10</data>
-</node>
-<node id="Messenger">
-  <data key="d0">10</data>
-</node>
-<node id="First Lord">
-  <data key="d0">10</data>
-</node>
-<node id="Second Lord">
-  <data key="d0">10</data>
-</node>
-<node id="Cupid">
-  <data key="d0">10</data>
-</node>
-<node id="Flavius">
-  <data key="d0">10</data>
-</node>
-<node id="Lucullus">
-  <data key="d0">10</data>
-</node>
-<node id="Third Servant">
-  <data key="d0">10</data>
-</node>
-<node id="Senator">
-  <data key="d0">10</data>
-</node>
-<node id="Caphis">
-  <data key="d0">10</data>
-</node>
-<node id="Servant">
-  <data key="d0">10</data>
-</node>
-<node id="All Servants">
-  <data key="d0">10</data>
-</node>
-<node id="Fool">
-  <data key="d0">10</data>
-</node>
-<node id="Page">
-  <data key="d0">10</data>
-</node>
-<node id="Flaminius">
-  <data key="d0">10</data>
-</node>
-<node id="Servilius">
-  <data key="d0">10</data>
-</node>
-<node id="Sempronius">
-  <data key="d0">10</data>
-</node>
-<node id="First Stranger">
-  <data key="d0">10</data>
-</node>
-<node id="Second Stranger">
-  <data key="d0">10</data>
-</node>
-<node id="First Servant">
-  <data key="d0">10</data>
-</node>
-<node id="Titus">
-  <data key="d0">10</data>
-</node>
-<node id="Hortensius">
-  <data key="d0">10</data>
-</node>
-<node id="Philotus">
-  <data key="d0">10</data>
-</node>
-<node id="Both">
-  <data key="d0">10</data>
-</node>
-<node id="Servants">
-  <data key="d0">10</data>
-</node>
-<node id="Third Lord">
-  <data key="d0">10</data>
-</node>
-<node id="Timandra">
-  <data key="d0">10</data>
-</node>
-<node id="Phrynia">
-  <data key="d0">10</data>
-</node>
-<node id="Banditti">
-  <data key="d0">10</data>
-</node>
-<node id="First Senator">
-  <data key="d0">10</data>
-</node>
-<node id="Second Senator">
-  <data key="d0">10</data>
-</node>
-<node id="Third Senator">
-  <data key="d0">10</data>
-</node>
-<node id="Soldier">
-  <data key="d0">10</data>
-</node>
-<node id="First Lady">
-  <data key="d0">10</data>
-</node>
-<node id="All Ladies">
-  <data key="d0">10</data>
-</node>
-<node id="Second Servant">
-  <data key="d0">10</data>
-</node>
-<node id="All Lords">
-  <data key="d0">10</data>
-</node>
-<node id="Third Stranger">
-  <data key="d0">10</data>
-</node>
-<node id="Some Speak">
-  <data key="d0">10</data>
-</node>
-<node id="Some Others">
-  <data key="d0">10</data>
-</node>
-<node id="Fourth Lord">
-  <data key="d0">10</data>
-</node>
-<node id="First Bandit">
-  <data key="d0">10</data>
-</node>
-<node id="Second Bandit">
-  <data key="d0">10</data>
-</node>
-<node id="Third Bandit">
-  <data key="d0">10</data>
-</node>
-<edge source="Jeweller" target="Merchant">
-  <data key="d1">2</data>
-</edge>
-<edge source="Jeweller" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Jeweller" target="Poet">
-  <data key="d1">1</data>
-</edge>
-<edge source="Jeweller" target="Painter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Jeweller" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Jeweller" target="Old Athenian">
-  <data key="d1">1</data>
-</edge>
-<edge source="Jeweller" target="Lucilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Jeweller" target="Second Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Merchant" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Merchant" target="Poet">
-  <data key="d1">1</data>
-</edge>
-<edge source="Merchant" target="Painter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Merchant" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Merchant" target="Old Athenian">
-  <data key="d1">1</data>
-</edge>
-<edge source="Merchant" target="Second Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Timon" target="Ventidius">
-  <data key="d1">5</data>
-</edge>
-<edge source="Timon" target="Titus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Poet" target="Timon">
-  <data key="d1">4</data>
-</edge>
-<edge source="Poet" target="Second Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Poet" target="Second Senator">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Poet">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Timon">
-  <data key="d1">24</data>
-</edge>
-<edge source="Apemantus" target="Jeweller">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Merchant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="First Lord">
-  <data key="d1">2</data>
-</edge>
-<edge source="Apemantus" target="Second Lord">
-  <data key="d1">2</data>
-</edge>
-<edge source="Apemantus" target="Caphis">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Servant">
-  <data key="d1">4</data>
-</edge>
-<edge source="Apemantus" target="Page">
-  <data key="d1">2</data>
-</edge>
-<edge source="Apemantus" target="Fool">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Painter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Old Athenian">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Lucilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Ventidius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Third Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Cupid">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="First Lady">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Flavius">
-  <data key="d1">3</data>
-</edge>
-<edge source="Apemantus" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Third Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Servants">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Flaminius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Phrynia">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Timandra">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="First Bandit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Second Bandit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Third Bandit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Apemantus" target="Banditti">
-  <data key="d1">1</data>
-</edge>
-<edge source="Painter" target="Timon">
-  <data key="d1">2</data>
-</edge>
-<edge source="Painter" target="Phrynia">
-  <data key="d1">1</data>
-</edge>
-<edge source="Painter" target="Timandra">
-  <data key="d1">1</data>
-</edge>
-<edge source="Painter" target="Poet">
-  <data key="d1">2</data>
-</edge>
-<edge source="Painter" target="Second Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Painter" target="Second Senator">
-  <data key="d1">1</data>
-</edge>
-<edge source="Old Athenian" target="Timon">
-  <data key="d1">4</data>
-</edge>
-<edge source="Old Athenian" target="Poet">
-  <data key="d1">1</data>
-</edge>
-<edge source="Old Athenian" target="Painter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Old Athenian" target="Second Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lucilius" target="Old Athenian">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lucilius" target="Timon">
-  <data key="d1">7</data>
-</edge>
-<edge source="Lucilius" target="Servilius">
-  <data key="d1">6</data>
-</edge>
-<edge source="Lucilius" target="Titus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Lucilius" target="Philotus">
-  <data key="d1">4</data>
-</edge>
-<edge source="Lucilius" target="Poet">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lucilius" target="Painter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lucilius" target="Merchant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lucilius" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lucilius" target="Second Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lucilius" target="Second Stranger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lucilius" target="Third Stranger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Messenger">
-  <data key="d1">2</data>
-</edge>
-<edge source="Alcibiades" target="Timon">
-  <data key="d1">19</data>
-</edge>
-<edge source="Alcibiades" target="Apemantus">
-  <data key="d1">4</data>
-</edge>
-<edge source="Alcibiades" target="Third Lord">
-  <data key="d1">2</data>
-</edge>
-<edge source="Alcibiades" target="First Lord">
-  <data key="d1">3</data>
-</edge>
-<edge source="Alcibiades" target="Second Lord">
-  <data key="d1">3</data>
-</edge>
-<edge source="Alcibiades" target="Timandra">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Painter">
-  <data key="d1">2</data>
-</edge>
-<edge source="Alcibiades" target="First Senator">
-  <data key="d1">3</data>
-</edge>
-<edge source="Alcibiades" target="Poet">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Merchant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Jeweller">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Old Athenian">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Lucilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Ventidius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Cupid">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="First Lady">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="All Ladies">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Flavius">
-  <data key="d1">2</data>
-</edge>
-<edge source="Alcibiades" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Third Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="All Lords">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Second Senator">
-  <data key="d1">2</data>
-</edge>
-<edge source="Alcibiades" target="Third Senator">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Phrynia">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="First Bandit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Second Bandit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Third Bandit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Banditti">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Both">
-  <data key="d1">1</data>
-</edge>
-<edge source="Alcibiades" target="Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Timon">
-  <data key="d1">2</data>
-</edge>
-<edge source="Messenger" target="Poet">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Painter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Old Athenian">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Second Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Second Senator">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Third Senator">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Timon">
-  <data key="d1">3</data>
-</edge>
-<edge source="First Lord" target="Poet">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Painter">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Merchant">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Jeweller">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Old Athenian">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Lucilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Second Lord">
-  <data key="d1">3</data>
-</edge>
-<edge source="First Lord" target="Ventidius">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Third Lord">
-  <data key="d1">2</data>
-</edge>
-<edge source="First Lord" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Flavius">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Third Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Some Speak">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Some Others">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lord" target="Fourth Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Lord" target="Timon">
-  <data key="d1">4</data>
-</edge>
-<edge source="Second Lord" target="Ventidius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Lord" target="Third Lord">
-  <data key="d1">2</data>
-</edge>
-<edge source="Second Lord" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Lord" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Lord" target="Third Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Lord" target="Some Speak">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Lord" target="Some Others">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cupid" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cupid" target="Ventidius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cupid" target="First Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cupid" target="Second Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cupid" target="Third Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cupid" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cupid" target="First Lady">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cupid" target="Flavius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cupid" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Cupid" target="Third Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Timon">
-  <data key="d1">12</data>
-</edge>
-<edge source="Flavius" target="Lucullus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Lucilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Servant">
-  <data key="d1">2</data>
-</edge>
-<edge source="Flavius" target="Ventidius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Second Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Third Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Second Servant">
-  <data key="d1">3</data>
-</edge>
-<edge source="Flavius" target="Third Servant">
-  <data key="d1">2</data>
-</edge>
-<edge source="Flavius" target="Fool">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Servants">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Titus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Hortensius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Philotus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Servilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Phrynia">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Timandra">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Second Bandit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Third Bandit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Painter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Poet">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flavius" target="Second Senator">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lucullus" target="Third Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lucullus" target="Timon">
-  <data key="d1">3</data>
-</edge>
-<edge source="Lucullus" target="Second Stranger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lucullus" target="Sempronius">
-  <data key="d1">2</data>
-</edge>
-<edge source="Lucullus" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Third Servant" target="Timon">
-  <data key="d1">2</data>
-</edge>
-<edge source="Third Servant" target="Ventidius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Senator" target="Timon">
-  <data key="d1">4</data>
-</edge>
-<edge source="Caphis" target="Senator">
-  <data key="d1">2</data>
-</edge>
-<edge source="Caphis" target="Servant">
-  <data key="d1">8</data>
-</edge>
-<edge source="Caphis" target="Flavius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Caphis" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Caphis" target="Fool">
-  <data key="d1">1</data>
-</edge>
-<edge source="Caphis" target="Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="Caphis" target="Servants">
-  <data key="d1">1</data>
-</edge>
-<edge source="Caphis" target="Flaminius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Servant" target="Timon">
-  <data key="d1">6</data>
-</edge>
-<edge source="Servant" target="Titus">
-  <data key="d1">3</data>
-</edge>
-<edge source="Servant" target="Servilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Servant" target="Ventidius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Servant" target="Third Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Servant" target="Third Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Servants" target="Apemantus">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Servants" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Servants" target="Flavius">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Servants" target="Caphis">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Servants" target="Fool">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Servants" target="Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Servants" target="Servants">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Servants" target="Flaminius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fool" target="Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fool" target="Servant">
-  <data key="d1">2</data>
-</edge>
-<edge source="Fool" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fool" target="Servants">
-  <data key="d1">1</data>
-</edge>
-<edge source="Page" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Page" target="Servants">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flaminius" target="Timon">
-  <data key="d1">2</data>
-</edge>
-<edge source="Flaminius" target="Lucullus">
-  <data key="d1">5</data>
-</edge>
-<edge source="Flaminius" target="Titus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flaminius" target="Lucilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flaminius" target="Servant">
-  <data key="d1">2</data>
-</edge>
-<edge source="Flaminius" target="Servilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flaminius" target="Flavius">
-  <data key="d1">2</data>
-</edge>
-<edge source="Flaminius" target="Fool">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flaminius" target="Page">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flaminius" target="Servants">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flaminius" target="Hortensius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flaminius" target="Philotus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Flaminius" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Servilius" target="Timon">
-  <data key="d1">2</data>
-</edge>
-<edge source="Servilius" target="Titus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Servilius" target="Third Stranger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Sempronius" target="Timon">
-  <data key="d1">2</data>
-</edge>
-<edge source="Sempronius" target="Ventidius">
-  <data key="d1">2</data>
-</edge>
-<edge source="Sempronius" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Stranger" target="Timon">
-  <data key="d1">5</data>
-</edge>
-<edge source="First Stranger" target="Lucilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Stranger" target="Second Stranger">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Stranger" target="Servilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Stranger" target="Third Stranger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Stranger" target="Servilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Stranger" target="Third Stranger">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Servant" target="Titus">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Servant" target="Hortensius">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Servant" target="Lucilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Servant" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Servant" target="Philotus">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Servant" target="Flaminius">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Servant" target="Second Servant">
-  <data key="d1">2</data>
-</edge>
-<edge source="First Servant" target="Flavius">
-  <data key="d1">2</data>
-</edge>
-<edge source="First Servant" target="Servilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Servant" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Servant" target="Third Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hortensius" target="Lucilius">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hortensius" target="Servant">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hortensius" target="Timon">
-  <data key="d1">2</data>
-</edge>
-<edge source="Hortensius" target="Servants">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hortensius" target="Titus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hortensius" target="Philotus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hortensius" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Hortensius" target="Servilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Philotus" target="Titus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Philotus" target="Servant">
-  <data key="d1">4</data>
-</edge>
-<edge source="Philotus" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Philotus" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Philotus" target="Servilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="Hortensius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="Timon">
-  <data key="d1">2</data>
-</edge>
-<edge source="Both" target="Painter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="Poet">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="Flavius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Both" target="First Senator">
-  <data key="d1">2</data>
-</edge>
-<edge source="Both" target="Second Senator">
-  <data key="d1">2</data>
-</edge>
-<edge source="Both" target="Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Servants" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Third Lord" target="Ventidius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Third Lord" target="Timon">
-  <data key="d1">2</data>
-</edge>
-<edge source="Third Lord" target="Third Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Timandra" target="Timon">
-  <data key="d1">3</data>
-</edge>
-<edge source="Phrynia" target="Timon">
-  <data key="d1">2</data>
-</edge>
-<edge source="Phrynia" target="Timandra">
-  <data key="d1">1</data>
-</edge>
-<edge source="Phrynia" target="Second Bandit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Phrynia" target="Third Bandit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Banditti" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Banditti" target="Phrynia">
-  <data key="d1">1</data>
-</edge>
-<edge source="Banditti" target="Timandra">
-  <data key="d1">1</data>
-</edge>
-<edge source="Banditti" target="First Bandit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Banditti" target="Second Bandit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Banditti" target="Third Bandit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Banditti" target="Flavius">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Senator" target="Timon">
-  <data key="d1">2</data>
-</edge>
-<edge source="First Senator" target="Second Senator">
-  <data key="d1">4</data>
-</edge>
-<edge source="First Senator" target="Third Senator">
-  <data key="d1">2</data>
-</edge>
-<edge source="First Senator" target="Painter">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Senator" target="Poet">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Senator" target="Flavius">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Senator" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Senator" target="Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Senator" target="Timon">
-  <data key="d1">4</data>
-</edge>
-<edge source="Second Senator" target="Third Senator">
-  <data key="d1">2</data>
-</edge>
-<edge source="Second Senator" target="Soldier">
-  <data key="d1">1</data>
-</edge>
-<edge source="Third Senator" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Soldier" target="Timon">
-  <data key="d1">2</data>
-</edge>
-<edge source="First Lady" target="Ventidius">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lady" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lady" target="First Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lady" target="Second Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lady" target="Third Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lady" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lady" target="Flavius">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lady" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Lady" target="Third Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Ladies" target="Ventidius">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Ladies" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Ladies" target="First Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Ladies" target="Apemantus">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Ladies" target="Second Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Ladies" target="Third Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Ladies" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Ladies" target="Cupid">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Ladies" target="First Lady">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Ladies" target="Flavius">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Ladies" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Ladies" target="Third Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Ladies" target="All Lords">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Servant" target="Ventidius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Servant" target="Timon">
-  <data key="d1">2</data>
-</edge>
-<edge source="Second Servant" target="Third Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Servant" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Servant" target="Third Servant">
-  <data key="d1">2</data>
-</edge>
-<edge source="Second Servant" target="Titus">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Servant" target="Servilius">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Lords" target="Ventidius">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Lords" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Lords" target="First Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Lords" target="Apemantus">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Lords" target="Second Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Lords" target="Third Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Lords" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Lords" target="Cupid">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Lords" target="First Lady">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Lords" target="Flavius">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Lords" target="Second Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="All Lords" target="Third Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Some Speak" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Some Speak" target="Third Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Some Others" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Some Others" target="Third Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Some Others" target="Some Speak">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fourth Lord" target="Second Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fourth Lord" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fourth Lord" target="Third Lord">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fourth Lord" target="Some Speak">
-  <data key="d1">1</data>
-</edge>
-<edge source="Fourth Lord" target="Some Others">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Bandit" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Bandit" target="Phrynia">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Bandit" target="Timandra">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Bandit" target="Second Bandit">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Bandit" target="Third Bandit">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Bandit" target="Flavius">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Bandit" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Bandit" target="Timandra">
-  <data key="d1">1</data>
-</edge>
-<edge source="Second Bandit" target="Third Bandit">
-  <data key="d1">1</data>
-</edge>
-<edge source="Third Bandit" target="Timon">
-  <data key="d1">1</data>
-</edge>
-<edge source="Third Bandit" target="Timandra">
-  <data key="d1">1</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Merchant">
+      <data key="d0">10</data>
+    </node>
+    <node id="Poet">
+      <data key="d0">10</data>
+    </node>
+    <node id="Jeweller">
+      <data key="d0">10</data>
+    </node>
+    <node id="Painter">
+      <data key="d0">10</data>
+    </node>
+    <node id="Both">
+      <data key="d0">10</data>
+    </node>
+    <node id="Timon">
+      <data key="d0">10</data>
+    </node>
+    <node id="Senator">
+      <data key="d0">10</data>
+    </node>
+    <node id="Apemantus">
+      <data key="d0">10</data>
+    </node>
+    <node id="Servant">
+      <data key="d0">10</data>
+    </node>
+    <node id="Servants">
+      <data key="d0">10</data>
+    </node>
+    <node id="Ventidius">
+      <data key="d0">10</data>
+    </node>
+    <node id="Old Athenian">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lucilius">
+      <data key="d0">10</data>
+    </node>
+    <node id="Alcibiades">
+      <data key="d0">10</data>
+    </node>
+    <node id="Messenger">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Lord">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Lord">
+      <data key="d0">10</data>
+    </node>
+    <node id="Fool">
+      <data key="d0">10</data>
+    </node>
+    <node id="Cupid">
+      <data key="d0">10</data>
+    </node>
+    <node id="Flavius">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lucullus">
+      <data key="d0">10</data>
+    </node>
+    <node id="Third Servant">
+      <data key="d0">10</data>
+    </node>
+    <node id="Soldier">
+      <data key="d0">10</data>
+    </node>
+    <node id="Caphis">
+      <data key="d0">10</data>
+    </node>
+    <node id="All Servants">
+      <data key="d0">10</data>
+    </node>
+    <node id="Page">
+      <data key="d0">10</data>
+    </node>
+    <node id="Flaminius">
+      <data key="d0">10</data>
+    </node>
+    <node id="Servilius">
+      <data key="d0">10</data>
+    </node>
+    <node id="Sempronius">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Stranger">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Stranger">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Servant">
+      <data key="d0">10</data>
+    </node>
+    <node id="Titus">
+      <data key="d0">10</data>
+    </node>
+    <node id="Hortensius">
+      <data key="d0">10</data>
+    </node>
+    <node id="Philotus">
+      <data key="d0">10</data>
+    </node>
+    <node id="Third Lord">
+      <data key="d0">10</data>
+    </node>
+    <node id="Timandra">
+      <data key="d0">10</data>
+    </node>
+    <node id="Phrynia">
+      <data key="d0">10</data>
+    </node>
+    <node id="Banditti">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Senator">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Senator">
+      <data key="d0">10</data>
+    </node>
+    <node id="Third Senator">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Lady">
+      <data key="d0">10</data>
+    </node>
+    <node id="All Ladies">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Servant">
+      <data key="d0">10</data>
+    </node>
+    <node id="All Lords">
+      <data key="d0">10</data>
+    </node>
+    <node id="Third Stranger">
+      <data key="d0">10</data>
+    </node>
+    <node id="Some Speak">
+      <data key="d0">10</data>
+    </node>
+    <node id="Some Others">
+      <data key="d0">10</data>
+    </node>
+    <node id="Fourth Lord">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Bandit">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Bandit">
+      <data key="d0">10</data>
+    </node>
+    <node id="Third Bandit">
+      <data key="d0">10</data>
+    </node>
+    <edge source="Merchant" target="Poet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Merchant" target="Jeweller">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Merchant" target="Timon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Merchant" target="Apemantus">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Merchant" target="Painter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Merchant" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Merchant" target="Old Athenian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Merchant" target="Lucilius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Merchant" target="Alcibiades">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Merchant" target="First Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Merchant" target="Second Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poet" target="Senator">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poet" target="Timon">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Poet" target="Apemantus">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Poet" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poet" target="Servants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poet" target="Painter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Poet" target="Jeweller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poet" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poet" target="Old Athenian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poet" target="Lucilius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poet" target="Alcibiades">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poet" target="First Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poet" target="Second Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poet" target="Both">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poet" target="Flavius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poet" target="First Senator">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poet" target="Second Senator">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jeweller" target="Painter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jeweller" target="Timon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jeweller" target="Apemantus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jeweller" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jeweller" target="Old Athenian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jeweller" target="Lucilius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jeweller" target="Alcibiades">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jeweller" target="First Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jeweller" target="Second Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Painter" target="Both">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Painter" target="Timon">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Painter" target="Apemantus">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Painter" target="Alcibiades">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Painter" target="Phrynia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Painter" target="Timandra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Painter" target="Soldier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Painter" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Painter" target="Old Athenian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Painter" target="Lucilius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Painter" target="First Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Painter" target="Second Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Painter" target="Flavius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Painter" target="First Senator">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Painter" target="Second Senator">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Both" target="Hortensius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Both" target="Alcibiades">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Both" target="Timon">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Both" target="Apemantus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Both" target="Flavius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Both" target="First Senator">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Both" target="Second Senator">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Both" target="Soldier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="Ventidius">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Timon" target="Old Athenian">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Timon" target="Lucilius">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Timon" target="Apemantus">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Timon" target="Second Lord">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Timon" target="First Lord">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Timon" target="Alcibiades">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Timon" target="Cupid">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="Flavius">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Timon" target="Soldier">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Timon" target="Senator">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Timon" target="Servant">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Timon" target="All Servants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="Flaminius">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Timon" target="Servilius">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Timon" target="Lucullus">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Timon" target="Sempronius">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Timon" target="First Stranger">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Timon" target="Philotus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="Titus">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Timon" target="Hortensius">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Timon" target="Fool">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Timon" target="Servants">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Timon" target="Third Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Timon" target="Timandra">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Timon" target="Phrynia">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Timon" target="Banditti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="First Senator">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Timon" target="Second Senator">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Timon" target="Messenger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Timon" target="Third Senator">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="Third Lord">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Timon" target="First Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="All Ladies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="Second Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Timon" target="All Lords">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="Caphis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="Page">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="First Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="Some Speak">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="Some Others">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="Fourth Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="First Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="Second Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timon" target="Third Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Senator" target="Caphis">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Senator" target="First Senator">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Apemantus" target="First Lord">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Apemantus" target="Fool">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Apemantus" target="Second Lord">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Apemantus" target="Caphis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="Servant">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Apemantus" target="All Servants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="Page">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Apemantus" target="Alcibiades">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Apemantus" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="Old Athenian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="Lucilius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="Ventidius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="Third Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="Cupid">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="First Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="All Ladies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="Flavius">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Apemantus" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="Third Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="All Lords">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="Servants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="Flaminius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="Phrynia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="Timandra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="First Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="Second Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="Third Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apemantus" target="Banditti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Old Athenian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Caphis">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Servant" target="Fool">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Servant" target="Hortensius">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Servant" target="Titus">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Servant" target="Philotus">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Servant" target="First Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Flaminius">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Servant" target="Flavius">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Servant" target="Servilius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Ventidius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="First Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Second Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Alcibiades">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Third Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Cupid">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="First Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="All Ladies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Third Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="All Lords">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Lucullus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servant" target="Sempronius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servants" target="Hortensius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servants" target="Flavius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servants" target="Caphis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servants" target="All Servants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servants" target="Fool">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servants" target="Page">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servants" target="Flaminius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ventidius" target="Sempronius">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ventidius" target="First Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ventidius" target="Second Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ventidius" target="Alcibiades">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ventidius" target="Third Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ventidius" target="Cupid">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ventidius" target="First Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ventidius" target="All Ladies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ventidius" target="Flavius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ventidius" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ventidius" target="Third Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ventidius" target="All Lords">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Old Athenian" target="Lucilius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Old Athenian" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Old Athenian" target="Alcibiades">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Old Athenian" target="First Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Old Athenian" target="Second Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilius" target="Servilius">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Lucilius" target="Hortensius">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lucilius" target="Titus">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lucilius" target="Philotus">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Lucilius" target="First Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilius" target="Flaminius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilius" target="Flavius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilius" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilius" target="Alcibiades">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilius" target="First Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilius" target="Second Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilius" target="First Stranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilius" target="Second Stranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilius" target="Third Stranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alcibiades" target="Messenger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Alcibiades" target="Soldier">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Alcibiades" target="Third Lord">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Alcibiades" target="First Lord">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Alcibiades" target="Second Lord">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Alcibiades" target="Timandra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alcibiades" target="First Senator">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Alcibiades" target="Cupid">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alcibiades" target="First Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alcibiades" target="All Ladies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alcibiades" target="Flavius">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Alcibiades" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alcibiades" target="Third Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alcibiades" target="All Lords">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alcibiades" target="Second Senator">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Alcibiades" target="Third Senator">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alcibiades" target="Phrynia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alcibiades" target="First Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alcibiades" target="Second Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alcibiades" target="Third Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alcibiades" target="Banditti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="First Lord">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Messenger" target="Second Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="First Senator">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="Second Senator">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Messenger" target="Third Senator">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="Second Lord">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="First Lord" target="Third Lord">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="First Lord" target="Cupid">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="First Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="All Ladies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="Flavius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="Third Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="All Lords">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="Some Speak">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="Some Others">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lord" target="Fourth Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Lord" target="Third Lord">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Second Lord" target="Cupid">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Lord" target="First Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Lord" target="All Ladies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Lord" target="Flavius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Lord" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Lord" target="Third Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Lord" target="All Lords">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Lord" target="Some Speak">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Lord" target="Some Others">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Lord" target="Fourth Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fool" target="Caphis">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Fool" target="All Servants">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Fool" target="Page">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Fool" target="Lucullus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fool" target="Sempronius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fool" target="Flavius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fool" target="Flaminius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cupid" target="Third Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cupid" target="First Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cupid" target="All Ladies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cupid" target="Flavius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cupid" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cupid" target="Third Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cupid" target="All Lords">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="Lucullus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="Third Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="First Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="All Ladies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="Second Servant">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Flavius" target="Third Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Flavius" target="All Lords">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="Caphis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="All Servants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="Page">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="Flaminius">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Flavius" target="First Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Flavius" target="Titus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="Hortensius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="Philotus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="Servilius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="Phrynia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="Timandra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="First Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="Second Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="Third Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="Banditti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="First Senator">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flavius" target="Second Senator">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucullus" target="Third Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucullus" target="Flaminius">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Lucullus" target="Second Stranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucullus" target="Sempronius">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Third Servant" target="Third Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Third Servant" target="First Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Third Servant" target="All Ladies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Third Servant" target="Second Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Third Servant" target="All Lords">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Third Servant" target="First Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Soldier" target="Banditti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Soldier" target="First Senator">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Soldier" target="Second Senator">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Caphis" target="All Servants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Caphis" target="Page">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Caphis" target="Flaminius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="All Servants" target="Page">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="All Servants" target="Flaminius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Page" target="Flaminius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flaminius" target="First Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flaminius" target="Titus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flaminius" target="Servilius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flaminius" target="Hortensius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flaminius" target="Philotus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flaminius" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servilius" target="Titus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servilius" target="First Stranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servilius" target="Second Stranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servilius" target="Third Stranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servilius" target="First Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servilius" target="Hortensius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servilius" target="Philotus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Servilius" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Stranger" target="Second Stranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Stranger" target="Third Stranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Stranger" target="Third Stranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Servant" target="Titus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Servant" target="Hortensius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Servant" target="Philotus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Servant" target="Second Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Titus" target="Philotus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Titus" target="Hortensius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Titus" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hortensius" target="Philotus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hortensius" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philotus" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Third Lord" target="First Lady">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Third Lord" target="All Ladies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Third Lord" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Third Lord" target="All Lords">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Third Lord" target="Some Speak">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Third Lord" target="Some Others">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Third Lord" target="Fourth Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timandra" target="Phrynia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timandra" target="First Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timandra" target="Second Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timandra" target="Third Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Timandra" target="Banditti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Phrynia" target="First Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Phrynia" target="Second Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Phrynia" target="Third Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Phrynia" target="Banditti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Banditti" target="First Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Banditti" target="Second Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Banditti" target="Third Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Senator" target="Second Senator">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="First Senator" target="Third Senator">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Second Senator" target="Third Senator">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="First Lady" target="All Ladies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lady" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Lady" target="All Lords">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="All Ladies" target="Second Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="All Ladies" target="All Lords">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Servant" target="All Lords">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Some Speak" target="Some Others">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Some Speak" target="Fourth Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Some Others" target="Fourth Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Bandit" target="Second Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Bandit" target="Third Bandit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Second Bandit" target="Third Bandit">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

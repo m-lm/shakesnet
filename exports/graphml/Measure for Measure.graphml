@@ -1,445 +1,478 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
-<key id="d0" for="node" attr.name="size" attr.type="long"/>
-<graph edgedefault="directed"><node id="Duke Vincentio">
-  <data key="d0">10</data>
-</node>
-<node id="Escalus">
-  <data key="d0">10</data>
-</node>
-<node id="Angelo">
-  <data key="d0">10</data>
-</node>
-<node id="Claudio">
-  <data key="d0">10</data>
-</node>
-<node id="Mistress Overdone">
-  <data key="d0">10</data>
-</node>
-<node id="First Gentleman">
-  <data key="d0">10</data>
-</node>
-<node id="Pompey">
-  <data key="d0">10</data>
-</node>
-<node id="Juliet">
-  <data key="d0">10</data>
-</node>
-<node id="Provost">
-  <data key="d0">10</data>
-</node>
-<node id="Lucio">
-  <data key="d0">10</data>
-</node>
-<node id="Friar Thomas">
-  <data key="d0">10</data>
-</node>
-<node id="Francisca">
-  <data key="d0">10</data>
-</node>
-<node id="Isabella">
-  <data key="d0">10</data>
-</node>
-<node id="Elbow">
-  <data key="d0">10</data>
-</node>
-<node id="Froth">
-  <data key="d0">10</data>
-</node>
-<node id="Justice">
-  <data key="d0">10</data>
-</node>
-<node id="Pomphey">
-  <data key="d0">10</data>
-</node>
-<node id="Mariana">
-  <data key="d0">10</data>
-</node>
-<node id="Barnardine">
-  <data key="d0">10</data>
-</node>
-<node id="Abhorson">
-  <data key="d0">10</data>
-</node>
-<node id="Friar Peter">
-  <data key="d0">10</data>
-</node>
-<node id="Duke">
-  <data key="d0">10</data>
-</node>
-<node id="Second Gentleman">
-  <data key="d0">10</data>
-</node>
-<node id="Servant">
-  <data key="d0">10</data>
-</node>
-<node id="As Long As You Or I">
-  <data key="d0">10</data>
-</node>
-<node id="Messenger">
-  <data key="d0">10</data>
-</node>
-<edge source="Duke Vincentio" target="Escalus">
-  <data key="d1">7</data>
-</edge>
-<edge source="Duke Vincentio" target="Provost">
-  <data key="d1">8</data>
-</edge>
-<edge source="Duke Vincentio" target="Mariana">
-  <data key="d1">8</data>
-</edge>
-<edge source="Duke Vincentio" target="Friar Peter">
-  <data key="d1">3</data>
-</edge>
-<edge source="Duke Vincentio" target="Friar Thomas">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duke Vincentio" target="Juliet">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duke Vincentio" target="Isabella">
-  <data key="d1">4</data>
-</edge>
-<edge source="Duke Vincentio" target="Elbow">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duke Vincentio" target="Pompey">
-  <data key="d1">3</data>
-</edge>
-<edge source="Duke Vincentio" target="Lucio">
-  <data key="d1">3</data>
-</edge>
-<edge source="Duke Vincentio" target="Mistress Overdone">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duke Vincentio" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Escalus" target="Justice">
-  <data key="d1">2</data>
-</edge>
-<edge source="Escalus" target="Froth">
-  <data key="d1">4</data>
-</edge>
-<edge source="Escalus" target="Pompey">
-  <data key="d1">12</data>
-</edge>
-<edge source="Escalus" target="Provost">
-  <data key="d1">3</data>
-</edge>
-<edge source="Escalus" target="Lucio">
-  <data key="d1">2</data>
-</edge>
-<edge source="Escalus" target="Pomphey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Escalus" target="Mistress Overdone">
-  <data key="d1">1</data>
-</edge>
-<edge source="Escalus" target="Friar Peter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Escalus" target="Isabella">
-  <data key="d1">1</data>
-</edge>
-<edge source="Escalus" target="Mariana">
-  <data key="d1">1</data>
-</edge>
-<edge source="Angelo" target="Duke Vincentio">
-  <data key="d1">37</data>
-</edge>
-<edge source="Angelo" target="Escalus">
-  <data key="d1">6</data>
-</edge>
-<edge source="Angelo" target="Provost">
-  <data key="d1">9</data>
-</edge>
-<edge source="Angelo" target="Friar Thomas">
-  <data key="d1">1</data>
-</edge>
-<edge source="Angelo" target="Lucio">
-  <data key="d1">9</data>
-</edge>
-<edge source="Angelo" target="Claudio">
-  <data key="d1">2</data>
-</edge>
-<edge source="Angelo" target="Elbow">
-  <data key="d1">2</data>
-</edge>
-<edge source="Angelo" target="Justice">
-  <data key="d1">1</data>
-</edge>
-<edge source="Angelo" target="Isabella">
-  <data key="d1">15</data>
-</edge>
-<edge source="Angelo" target="Friar Peter">
-  <data key="d1">1</data>
-</edge>
-<edge source="Angelo" target="Mariana">
-  <data key="d1">2</data>
-</edge>
-<edge source="Angelo" target="Duke">
-  <data key="d1">1</data>
-</edge>
-<edge source="Angelo" target="Pompey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Angelo" target="Froth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Angelo" target="Pomphey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Angelo" target="Servant">
-  <data key="d1">2</data>
-</edge>
-<edge source="Angelo" target="As Long As You Or I">
-  <data key="d1">1</data>
-</edge>
-<edge source="Claudio" target="Mistress Overdone">
-  <data key="d1">2</data>
-</edge>
-<edge source="Claudio" target="First Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Claudio" target="Pompey">
-  <data key="d1">2</data>
-</edge>
-<edge source="Claudio" target="Lucio">
-  <data key="d1">10</data>
-</edge>
-<edge source="Claudio" target="Juliet">
-  <data key="d1">1</data>
-</edge>
-<edge source="Claudio" target="Escalus">
-  <data key="d1">4</data>
-</edge>
-<edge source="Claudio" target="Provost">
-  <data key="d1">16</data>
-</edge>
-<edge source="Claudio" target="Isabella">
-  <data key="d1">7</data>
-</edge>
-<edge source="Claudio" target="Duke Vincentio">
-  <data key="d1">12</data>
-</edge>
-<edge source="Claudio" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Claudio" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Overdone" target="Pomphey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Overdone" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mistress Overdone" target="Pompey">
-  <data key="d1">2</data>
-</edge>
-<edge source="Mistress Overdone" target="Provost">
-  <data key="d1">2</data>
-</edge>
-<edge source="First Gentleman" target="Lucio">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Gentleman" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Gentleman" target="Mistress Overdone">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Gentleman" target="Pompey">
-  <data key="d1">1</data>
-</edge>
-<edge source="First Gentleman" target="Provost">
-  <data key="d1">1</data>
-</edge>
-<edge source="Pompey" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Pompey" target="Provost">
-  <data key="d1">5</data>
-</edge>
-<edge source="Pompey" target="Pomphey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Juliet" target="Pompey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Juliet" target="Provost">
-  <data key="d1">2</data>
-</edge>
-<edge source="Provost" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Provost" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lucio" target="Pompey">
-  <data key="d1">15</data>
-</edge>
-<edge source="Lucio" target="Mistress Overdone">
-  <data key="d1">2</data>
-</edge>
-<edge source="Lucio" target="Second Gentleman">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lucio" target="Provost">
-  <data key="d1">5</data>
-</edge>
-<edge source="Lucio" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="Lucio" target="Mariana">
-  <data key="d1">1</data>
-</edge>
-<edge source="Francisca" target="Isabella">
-  <data key="d1">1</data>
-</edge>
-<edge source="Francisca" target="Lucio">
-  <data key="d1">1</data>
-</edge>
-<edge source="Isabella" target="Lucio">
-  <data key="d1">4</data>
-</edge>
-<edge source="Isabella" target="Juliet">
-  <data key="d1">2</data>
-</edge>
-<edge source="Isabella" target="Justice">
-  <data key="d1">1</data>
-</edge>
-<edge source="Isabella" target="Servant">
-  <data key="d1">2</data>
-</edge>
-<edge source="Isabella" target="Provost">
-  <data key="d1">4</data>
-</edge>
-<edge source="Isabella" target="Mariana">
-  <data key="d1">3</data>
-</edge>
-<edge source="Isabella" target="Pompey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Elbow" target="Mistress Overdone">
-  <data key="d1">2</data>
-</edge>
-<edge source="Elbow" target="Pompey">
-  <data key="d1">2</data>
-</edge>
-<edge source="Elbow" target="Escalus">
-  <data key="d1">4</data>
-</edge>
-<edge source="Elbow" target="Provost">
-  <data key="d1">2</data>
-</edge>
-<edge source="Elbow" target="Froth">
-  <data key="d1">1</data>
-</edge>
-<edge source="Elbow" target="Pomphey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Elbow" target="Justice">
-  <data key="d1">1</data>
-</edge>
-<edge source="Elbow" target="Lucio">
-  <data key="d1">1</data>
-</edge>
-<edge source="Froth" target="Pompey">
-  <data key="d1">6</data>
-</edge>
-<edge source="Froth" target="Provost">
-  <data key="d1">1</data>
-</edge>
-<edge source="Froth" target="Pomphey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Froth" target="Justice">
-  <data key="d1">1</data>
-</edge>
-<edge source="Justice" target="Provost">
-  <data key="d1">1</data>
-</edge>
-<edge source="Justice" target="Pompey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Justice" target="Pomphey">
-  <data key="d1">1</data>
-</edge>
-<edge source="Pomphey" target="Provost">
-  <data key="d1">1</data>
-</edge>
-<edge source="Mariana" target="Provost">
-  <data key="d1">1</data>
-</edge>
-<edge source="Barnardine" target="Provost">
-  <data key="d1">6</data>
-</edge>
-<edge source="Barnardine" target="Duke Vincentio">
-  <data key="d1">5</data>
-</edge>
-<edge source="Barnardine" target="Pompey">
-  <data key="d1">3</data>
-</edge>
-<edge source="Barnardine" target="Isabella">
-  <data key="d1">1</data>
-</edge>
-<edge source="Barnardine" target="Lucio">
-  <data key="d1">1</data>
-</edge>
-<edge source="Abhorson" target="Provost">
-  <data key="d1">3</data>
-</edge>
-<edge source="Abhorson" target="Barnardine">
-  <data key="d1">3</data>
-</edge>
-<edge source="Abhorson" target="Pompey">
-  <data key="d1">2</data>
-</edge>
-<edge source="Abhorson" target="Claudio">
-  <data key="d1">1</data>
-</edge>
-<edge source="Abhorson" target="Duke Vincentio">
-  <data key="d1">2</data>
-</edge>
-<edge source="Abhorson" target="Messenger">
-  <data key="d1">1</data>
-</edge>
-<edge source="Abhorson" target="Isabella">
-  <data key="d1">1</data>
-</edge>
-<edge source="Abhorson" target="Lucio">
-  <data key="d1">1</data>
-</edge>
-<edge source="Friar Peter" target="Isabella">
-  <data key="d1">2</data>
-</edge>
-<edge source="Friar Peter" target="Mariana">
-  <data key="d1">2</data>
-</edge>
-<edge source="Friar Peter" target="Lucio">
-  <data key="d1">1</data>
-</edge>
-<edge source="Friar Peter" target="Provost">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duke" target="Duke Vincentio">
-  <data key="d1">1</data>
-</edge>
-<edge source="Duke" target="Escalus">
-  <data key="d1">1</data>
-</edge>
-<edge source="As Long As You Or I" target="Servant">
-  <data key="d1">1</data>
-</edge>
-<edge source="As Long As You Or I" target="Isabella">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Provost">
-  <data key="d1">1</data>
-</edge>
-<edge source="Messenger" target="Pompey">
-  <data key="d1">1</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Duke Vincentio">
+      <data key="d0">10</data>
+    </node>
+    <node id="Escalus">
+      <data key="d0">10</data>
+    </node>
+    <node id="Justice">
+      <data key="d0">10</data>
+    </node>
+    <node id="Angelo">
+      <data key="d0">10</data>
+    </node>
+    <node id="Duke">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lucio">
+      <data key="d0">10</data>
+    </node>
+    <node id="Claudio">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mistress Overdone">
+      <data key="d0">10</data>
+    </node>
+    <node id="First Gentleman">
+      <data key="d0">10</data>
+    </node>
+    <node id="Juliet">
+      <data key="d0">10</data>
+    </node>
+    <node id="Pompey">
+      <data key="d0">10</data>
+    </node>
+    <node id="Provost">
+      <data key="d0">10</data>
+    </node>
+    <node id="Friar Thomas">
+      <data key="d0">10</data>
+    </node>
+    <node id="Francisca">
+      <data key="d0">10</data>
+    </node>
+    <node id="Isabella">
+      <data key="d0">10</data>
+    </node>
+    <node id="Elbow">
+      <data key="d0">10</data>
+    </node>
+    <node id="Froth">
+      <data key="d0">10</data>
+    </node>
+    <node id="Pomphey">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mariana">
+      <data key="d0">10</data>
+    </node>
+    <node id="Servant">
+      <data key="d0">10</data>
+    </node>
+    <node id="Barnardine">
+      <data key="d0">10</data>
+    </node>
+    <node id="Abhorson">
+      <data key="d0">10</data>
+    </node>
+    <node id="Friar Peter">
+      <data key="d0">10</data>
+    </node>
+    <node id="Messenger">
+      <data key="d0">10</data>
+    </node>
+    <node id="Second Gentleman">
+      <data key="d0">10</data>
+    </node>
+    <node id="As Long As You Or I">
+      <data key="d0">10</data>
+    </node>
+    <edge source="Duke Vincentio" target="Escalus">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Justice">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Angelo">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Provost">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Duke">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Mariana">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Claudio">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Barnardine">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Friar Peter">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Isabella">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Friar Thomas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Juliet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Elbow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Pompey">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Lucio">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Mistress Overdone">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Abhorson">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Duke Vincentio" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Escalus" target="Angelo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Escalus" target="Elbow">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Escalus" target="Justice">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Escalus" target="Froth">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Escalus" target="Pompey">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Escalus" target="Claudio">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Escalus" target="Provost">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Escalus" target="Lucio">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Escalus" target="Duke">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Escalus" target="Pomphey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Escalus" target="Mistress Overdone">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Escalus" target="Friar Peter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Escalus" target="Isabella">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Escalus" target="Mariana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Justice" target="Friar Thomas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Justice" target="Angelo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Justice" target="Elbow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Justice" target="Isabella">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Justice" target="Provost">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Justice" target="Pompey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Justice" target="Froth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Justice" target="Pomphey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Angelo" target="Provost">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Angelo" target="Friar Thomas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Angelo" target="Lucio">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Angelo" target="Claudio">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Angelo" target="Elbow">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Angelo" target="Isabella">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Angelo" target="Friar Peter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Angelo" target="Mariana">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Angelo" target="Duke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Angelo" target="Pompey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Angelo" target="Froth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Angelo" target="Pomphey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Angelo" target="Servant">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Angelo" target="As Long As You Or I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duke" target="Lucio">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Duke" target="Claudio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duke" target="Elbow">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Duke" target="Isabella">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Duke" target="Mistress Overdone">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duke" target="Friar Peter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lucio" target="Claudio">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Lucio" target="Isabella">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Lucio" target="Provost">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Lucio" target="Pompey">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Lucio" target="Mistress Overdone">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lucio" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucio" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucio" target="Francisca">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucio" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucio" target="Elbow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucio" target="Abhorson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucio" target="Barnardine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucio" target="Friar Peter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucio" target="Mariana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Claudio" target="Mistress Overdone">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Claudio" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Claudio" target="Pompey">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Claudio" target="Juliet">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Claudio" target="Provost">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Claudio" target="Isabella">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Claudio" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Claudio" target="Abhorson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Claudio" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Overdone" target="Juliet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Overdone" target="Elbow">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mistress Overdone" target="Pomphey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Overdone" target="First Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Overdone" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mistress Overdone" target="Pompey">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mistress Overdone" target="Provost">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="First Gentleman" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Gentleman" target="Pompey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="First Gentleman" target="Provost">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juliet" target="Pompey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juliet" target="Isabella">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Juliet" target="Provost">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pompey" target="Provost">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Pompey" target="Elbow">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Pompey" target="Froth">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Pompey" target="Barnardine">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Pompey" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pompey" target="Pomphey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pompey" target="Abhorson">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pompey" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pompey" target="Isabella">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Provost" target="Barnardine">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Provost" target="Abhorson">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Provost" target="Friar Peter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Provost" target="Second Gentleman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Provost" target="Elbow">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Provost" target="Froth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Provost" target="Pomphey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Provost" target="Servant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Provost" target="Isabella">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Provost" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Provost" target="Mariana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Francisca" target="Isabella">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isabella" target="Servant">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Isabella" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isabella" target="As Long As You Or I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isabella" target="Mariana">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Isabella" target="Abhorson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isabella" target="Barnardine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isabella" target="Friar Peter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Elbow" target="Froth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elbow" target="Pomphey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Froth" target="Pomphey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mariana" target="Friar Peter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Servant" target="As Long As You Or I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Barnardine" target="Abhorson">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Abhorson" target="Messenger">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>
