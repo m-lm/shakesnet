@@ -1,6 +1,6 @@
 # shakesnet
 
-Shakesnet is a network analysis program written in Python for creating character networks for all 39 of Shakespeare plays. It extracts character relationships by identifying both implicit and explicit interactions and generates the social network accordingly for each play. In addition, it tracks temporal information (cumulative co-relation counts by scene), enabling dynamic graph analysis on scene-by-scene snapshots.
+Shakesnet is a network analysis program written in Python which creates character networks for all 39 of Shakespeare plays. It extracts character relationships by identifying both implicit and explicit interactions and generates the social network accordingly for each play. In addition, it tracks temporal information (cumulative co-relation counts by scene), enabling dynamic graph analysis on scene-by-scene snapshots.
 
 Shakesnet also exports Pyvis-generated HTML files for interactive graph visualizations as well as .graphml and .gexf files for use in programs like Gephi.
 
